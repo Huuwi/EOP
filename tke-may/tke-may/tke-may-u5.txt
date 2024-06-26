@@ -1,0 +1,56 @@
+await changeUnitByTitle('Unit 5 - Reports')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)await doClickHearing2(0)await doClickHearing2(0)await doClickHearing2(0)await doClickHearing2(0)await doClickHearing2(0)await doFillDinline(["productivity","accounts for","line supervisors","bi-hourly","Data operator","Quantity produced","captured","report","actual production","Line supervisors"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["to","with","to","of","by","for","with","on"])
+ 
+await doFillDinline(["P","S","P","P","S","S","P","P","S"])
+ 
+await doFillDinline(["decreased","increased","significantly","contributes","account","rise","share"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["B","significantly","C","decreased","B","discovered","B","is suggested","C","would be","C","for","D","to","B","to","C","share","A","increased"])
+ 
+await doFillDinline(["3","third person","personal opinions","specific","conclusion"])
+ 
+await doFillDinline(["warehouse","48 hours","WorksafeBC","date","injured","happened","already done","maintenance program","solution"])
+ 
+await doFillDinline(["4","daily logs","clear","concise","complete","who","what","where","when","why","pocket notebook"])
+ 
+await doFillDinline(["Expected yield","15.3","Southeast","2.25","Mid-South","3.3","609","198,000"])
+ 
+await doFillDinline(["production reports","yes","line supervisors","discussion, verbal","no"])
+ 
+await doFillDinline(["loaded","stitched","cumulative","bi-hourly","monitoring"])
+ 
+await doFillDinline(["1","6","4","3","2"])
+ 
+await doFillDinline(["data operator","IE","No","various departments","full-time computer","printed","1","excel"])
+ 
+await doFillabc()
+  
+await doFillDinline(["data processor","monitoring production output","hour and minute","the worker"])
+ 
+await doFillDinline(["Most of the managers believe in written and printed reports.","This report helps line supervisors to chase operators when line output goes down","Work on a minimum number of files for daily reports","Data for this column will come from the total noted by the worker.","This column provides information on the machine or equipment used in the production"])
+ 
+        await doFillDinline(["report 001", "Mary", "Hana line supervisor", "07/08/2018", "MD137/XL", "Attach zipper", "A-01", "7:00 am", "11:00 pm", "200 pcs", "2 pcs", "4 hours"])
+
+await doFillDinline(["There seems to be a problem with the manufacturing process.","This could be due to the fact that there was a blackout happened.","This could be the result of the breakdown in the production.","Which solution works best for you?","We've come up with an effective solution for this issue.","There seems to be a problem with the stitching"])
+ 
+await doFillDinline(["Vietnam has share of 10% of US apparel and textile import market","China accounts for 39% of US apparel and textile import market.","There was a dramatic rise in Vietnam's textile exports from 1,154 billion in 1996 to 17,947 billion in 2013","The apparel exports contributed 11.50% to the country’s total exports (2016).","There was a slight decline in the share of apparel exports from 7,87% in 2014 to 7,83% in 2015"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

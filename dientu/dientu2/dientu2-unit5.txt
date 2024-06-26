@@ -1,0 +1,76 @@
+await changeUnitByTitle('UNIT 5: BIGGER AND BETTER')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+  
+await doSortWords(["CHURCH","EXPENSIVE","MODERN","BUILDING","DIRTY","MUSEUM","HILL","VILLAGE","MANUFACTURER","SALARY"])
+ 
+await doSortWords(["THEATRE","FRIENDLY","RELAXING","EXCITING","COTTAGE","QUIET","CLEAN","DANGEROUS","WORKING CONDITION","HEADQUARTERS"])
+
+await doClickHearing2(0) 
+ 
+await doFillDinline(["mountain","bridge","bridge","lake","port","building","building","cathedral","headquarters","manufacturer"])
+ 
+await doFillDinline(["quiet","small","expensive","boring","old","bad","fast","unfriendly"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["cosmopolitan","historical","modern","theatres","fantastic"])
+ 
+await doFillDinline(["mountain","factory","village","manufacturer","friendly","dangerous","products","port","population","exciting"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["dirtier","faster","safer","happier","bigger","noisier","hotter","more exciting","more modern","the dirtiest","the fastest","the safest","the happiest","the biggest","the noisiest","the hottest","the most exciting","the most modern"])
+ 
+await doFillDinline(["better","younger","larger","higher","more modern","friendlier","better","more employees"])
+ 
+await doFillDinline(["It is the largest automotive manufacturer","It is the most luxury brand","It is the prettiest village","It is the most expensive city","Ithad the most employees worldwide","She is the funniest teacher","It is the most expensive car","It is the fastest car"])
+ 
+await doFillDinline(["hotter","older","the dirtiest","newer","more boring","the most exciting","more expensive","the most luxurious"])
+ 
+await doFillDinline(["our","theirs","hers","mine","yours","mine","ours","mine","his"])
+ 
+await doFillDinline(["is smaller than mine.","is worse than that in yours.","is older than hers.","has more tools than mine.","has fewer employees than theirs.","is cheaper than mine.","is younger than ours.","are less comfortable than hers."])
+ 
+await doFillDinline(["C","worse","A","more modern","C","best","C","ours","A","the most luxurious","B","friendly","D","theirs","D","quieter","C","most exciting","A","more employees"])
+ 
+await doFillDinline(["slower","faster","safer","more dangerous","bigger","smaller","more expensive","cheaper","more modern","older","better","worse"])
+ 
+await doFillDinline(["1948","employees","manufacturer","largest","products"])
+ 
+await doFillDinline(["F","T","T","F","F"])
+ 
+await doFillDinline(["T","T","F","F","F","T","F","T","T","T"])
+ 
+await doFillDinline(["three","Honda Company","Nissan Company","No","Truong Hai Company"])
+ 
+await doFillDinline(["museums","cheaper","theater","beautiful","fast"])
+ 
+await doFillDinline(["Toyota Company","Yes","Hyundai Company","Yes","Toyota Company","Honda Company"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","F","T","F"])
+ 
+await doFillDinline(["In a quiet area","clubs","a shopping mall","his friends","great"])
+ 
+await doFillDinline(["F","T","F","T","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["classic image","small towns","living","working","buses","trains","traffic problems"])
+ 
+await doFillDinline(["Honda Company is older than Toyota Company.","The beach near my house is the most beautiful in my hometown.","Eiffel tower is taller than Pisa tower.","Ho Chi Minh City is more exciting than Hanoi.","The Lighthouse Hotel is nicer and more convenient than Daewoo Hotel.","Mary has a lot of friends. One of hers is John.","The working conditions in Toyota Company are better than those in Truong Hai Company.","Both Daisy and I work in an automobile company but hers is bigger than mine"])
+ 
+await doFillDinline(["Huyndai Company is the smallest","Truong Hai Company has the lowest salary.","Toyota Company has the most employees","Toyota Company is the oldest.","Salary in Toyota Company is the highest"])
+ 
+await doFillDinline(["AFerrari is faster than a Fiat.","The machine 2 is more modern than The machine 1","Salary in Ford Company is lower than that in Nissan Company.","Ford Motor Company has shorter working hours than Daewoo Motor Company.","Vios is cheaper than Lexus.","Working in the workshop is more dangerous than working in the office.","The living condition in the country is worse than that in the city.","Truong Hai Company has less employees than Honda Company."])
+ 
+await doFillDinline(["Night life in the city is more interesting than night life in the country.","My office is closer to the city centre than Helen's.","The air in the country is fresher than that in the city.","Nissan Company has more types of products than Truong Hai Company.","Working conditions in Ford Company are good but those in Daewoo Motor Company are better.","Driving in the city is more dangerous than in the country.","Hilton Hotel is one of the most expensive hotels in our city.","Yesterday was an awful day. It was the worst day of my life."])
+ 
+await doClickBtn()
+ 

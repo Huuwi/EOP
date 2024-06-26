@@ -1,0 +1,42 @@
+await doFillDinline(["Is that","It is","take","Could","call","say","give"])
+ 
+await doFillDinline(["9","11","7","5","13","3","10","12","4","8","6"])
+ 
+await doFillDinline(["can I help","can I","Who is","Please","you through","How","speak to","put him through"])
+ 
+await doFillDinline(["message","me back","This","speak","on"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["speak","calling","afraid","put","leave","hold","connect"])
+ 
+await doFillDinline(["D","C","B","E","A","G","F"])
+ 
+await doFillDinline(["andac","meeting","00442073996344","CALL BACK"])
+ 
+await doFillDinline(["who's","C","lunch","B","telephone number","A","Would you like to leave","A","you spell your name","B","give her the message","C","he’s in the meeting now","B","until Thursday afternoon","B","next Monday at 10 o'clock","C","call you back today","B"])
+ 
+await doFillDinline(["ABC","Janet","in the meeting","call her back","5559876543"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["graham","back","59","73","Tuesday","215"])
+ 
+await doFillDinline(["jewelry","delivery problem","earrings","France","Friday morning"])
+ 
+await doFillDinline(["their strategies","his new client","early evening","by seven","less than an hour"])
+ 
+await doFillDinline(["Can I have extension 561?","The Internet is becoming popular in the workplace today.","I'am sorry but she is in a meeting","I'am sorry. The line is engaged at the moment","Could you ask her to call me?","I'am not going out for lunch today because there is no time.","He cannot answer your call because he is having an important meeting.","How many phone calls do you make a day?","Hello. Can I speak to Mr Smith?","Can I take a message?"])
+ 
+await doFillDinline(["She often calls customers in Russia. At the moment she is calling a customer in Moscow.","Our company needs 100 employees, but we have only 50. We are now employing new staff.","The boss is making a phone call, so the line is engaged.","Why are you writing that email?","I'am not planning to ring him back now."])
+ 
+await doFillDinline(["can I help","afraid","address","hold","see you on"])
+ 
+await doFillDinline(["how","extension","message","ask","repeat"])
+ 
+await doFillDinline(["take a message","you ask her","Could you hold","could you repeat","anything else"])
+ 
+await doClickBtn()
+ 

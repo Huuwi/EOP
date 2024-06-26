@@ -1,0 +1,76 @@
+await doClickHearing2(0)
+await doClickHearing2(0)
+ 
+
+await doSortWords(["ARRIVE","AVAILABLE","SEVENTH","NINTH","ELEVENTH","TWELFTH","EIGHTEENTH","TWENTY FIRST","TWENTY SEVENTH","THIRTY FIRST"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["staying","flying","arriving","coming","driving","changing"])
+ 
+await doFillDinline(["start","finishes","flying","arrive","staying"])
+ 
+await doFillDinline(["available","leaving","twenty third","meeting","stay"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["at","on","in","at","in","on","in","at","at","on","in"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["c","e","a","f","b","d"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["are you doing","am having","are having","am giving","will wait for"])
+ 
+await doFillDinline(["am visiting","are","going","am meeting","am not going","Is","visiting","Is","coming","are","getting","is traveling","are not working","are","starting","is taking","am going","am having","Are","having","is not going"])
+ 
+await doFillDinline(["are you doing","about you","to go out","possible for","we meet"])
+ 
+await doFillDinline(["Can we arrange a meeting","Is Tuesday possible for you","I'am busy on Tuesday","What about Wednesday","it is impossible","How about Thursday","Two thirty"])
+ 
+await doFillDinline(["T","F","T","F","T"])
+ 
+await doFillDinline(["who","arriving","meeting","midday","staying","Thursday","speaking","two","interesting","busy"])
+ 
+await doFillDinline(["F","T","F","T","T","F","T","F","T","T"])
+ 
+await doFillDinline(["C","D","C","B","C"])
+ 
+await doFillDinline(["B","C","A","C"])
+ 
+await doFillDinline(["T","F","T","T","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["11","bank manager","2","monthly personnel","10","production manager","4","Managing Director","Grand hotel","Rotterdam","2","Mr Zenden","Rotterdam"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Nga","Nga","Nga","Hoa","Nga"])
+ 
+await doFillDinline(["Singapore","Paris","new software","Wednesday","10.00"])
+ 
+await doFillDinline(["Can we meet on Wednesday afternoon?","We often make arrangements to meet clients and colleagues","I cannot make an arrangement on Tuesday morning because I am busy.","Our next meeting is at the end of April in Copenhagen.","What about a meeting on the nineteenth?"])
+ 
+await doFillDinline(["Monday morning is convenient for Laura to meet her clients","Can we arrange a meeting on Friday morning?","Is Wednesday morning possible for you to meet my secretary?","Paul and Peter are discussing at the meeting room about their products","I'am looking forward to meeting you next Tuesday morning"])
+ 
+await doFillDinline(["I'm coming","week","Monday","get","the evening","at"])
+ 
+await doFillDinline(["1","5","7","6","8","9","3","4","2"])
+ 
+await doFillDinline(["e","c","a","b","f"])
+ 
+await doFillDinline(["4","1","6","11","7","2","9","10","5","3","8"])
+ 
+await doClickBtn()
+ 

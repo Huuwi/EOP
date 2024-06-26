@@ -1,0 +1,61 @@
+await changeUnitByTitle('UNIT 4: MEETING REPORTS')
+await doListeningPlayBtn()
+
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["PROGRESS REPORT","FINAL REPORT","STATUS REPORT","MONTHLY REPORT","CONFORMANCE REPORT","NON-CONFORMANCE REPORT","CONTRACTOR","SUB-CONTRACTOR","MALFUNCTION","OCCURRENCE","FATALITY","AMBULANCE"])
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["submitted","Subcontractor","manning","malfunction","occurrence","ambulance","progress report","phase","remaining","contractor"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["started","has been delayed","called","have not come","set","has been completed","was","has been raised","built"])
+ 
+await doFillDinline(["will","Are you going to","will","will","will","is going to","are going to","will","are going to","will","will"])
+ 
+await doFillDinline(["found","was","were","were damaged","had","didn’t wear","was coiled","were"])
+ 
+await doFillDinline(["B","C","D","A","A","B","D","A","C","B"])
+ 
+await doFillDinline(["C -> finished","A-> called","A-> started","A-> reported","D -> submit","D -> finished","A->has","C -> raised","D -> affect","D -> were"])
+ 
+await doFillDinline(["March","3.30 p.m","6 workshop","dropped","Peter Graski","Back","No"])
+ 
+await doFillDinline(["hospital","workshop","Graski","One","back","foot"])
+ 
+await doFillDinline(["accident","hospital","injured","lifted","dropped","trip","back"])
+ 
+await doFillDinline(["30","Friday","doors","head","legs","80"])
+ 
+await doFillDinline(["crashed","reopened","injuries","serious condition","speed"])
+ 
+await doFillDinline(["electrocuted","headphones","USB charger","official","reviewed"])
+ 
+await doFillDinline(["service checks","yard","35,000","power lines","electrocuted","3 meters","barriers","young new"])
+ 
+await doFillDinline(["appliances","electrician","installed","water heater","finished"])
+ 
+await doFillDinline(["customer","electricians","dryer","water heater","last"])
+ 
+await doFillDinline(["Three","The dryer","Quicker","The woman"])
+ 
+await doFillDinline(["David T. Cook","September","Five","No","Instr. vacuum cables"])
+ 
+await doFillDinline(["MTA beam line installation","David T. Cook","started","September","three","vacuum","one"])
+ 
+await doFillDinline(["June","3","4","Sep-15","80,000","007"])
+  
+await doFillDinline(["Upgrade techno-pm.com","Swapnil Wale","September","resourcing constraints","$320,000","$240,000","August"])
+ 
+await doFillDinline(["Design","Project manager","Analysis","Pre-production","Quality assurance","Development","Future task","$561,500","the vendor","Unplanned leaves"])
+ 
+await doFillDinline(["outdated design","analysis","November","$500,000","network issues"])
+ 
+await doFillDinline(["Where did the incident take place?","When did it happen?","Did the repair man wear a hard hat?","How did he climb?","How high was the cable?","What were the problems?","Did he get an electric shock?","Was the cable connected to the mains supply?"])
+ 
+await doFillDinline(["She sent in weekly reports on the sales of the new product","Below is a summary of the most important relevant points as well as some recommendations","I have to give my boss a status report at the end of each month","I would therefore recommend that we increase the number of electrical engineers in this project.","This report is intended to list the reasons for the late deadline and also recommend some solutions for these issues."])
+ 
+await doFillDinline(["have been made by the new sub-contractor","have been caused by the malfunction of break systems","was the weekly progress report submitted","won't be taken","Was the electrician questioned"])
+ 

@@ -1,0 +1,37 @@
+await changeUnitByTitle('Unit 4: School subjects')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doFillDinline(["A","I","O","O","E","O","A","I","E","A","u","E","E","I","A","E","I","I","A","I","A","u","A","I","O"])
+ 
+
+await doClickHearing2(0)
+await doFillDinline(["K","M","A","B","C","D","E","F","G","H","I"])
+ 
+await doFillDinline(["B","F","E","D","A","C","J","H","G","I"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["D","C","F","A","G","B","E"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["D-excited","C-is acting","C-are talking","B-surprised","B-worried","A-is","C-plays"])
+ 
+await doFillDinline(["Music","Art","History","Geography","Mathematics","English literature","Science","Drama"])
+ 
+await doFillDinline(["4","2","6","7","3","1"])
+ 
+await doFillDinline(["T","T","F","F","F","T"])
+ 
+await doFillDinline(["T","?","F","?","T","F","F","T"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

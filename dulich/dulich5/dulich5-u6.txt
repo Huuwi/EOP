@@ -1,0 +1,68 @@
+await changeUnitByTitle('UNIT 6: TOURIST ATTRACTIONS')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doFillDinline(["stretched","Revolution","flora and fauna","wireless telegraph","grottoes","Confucianism","masterpiece","tombstones","honors"])
+ 
+await doFillDinline(["Doctorates","Confucius","Pavilion","Dedicated","Home","Watchtowers","man-made","showcase","named","karst plateau"])
+ 
+await doFillDinline(["B","A","C","C","A","B","C","A","C","A"])
+ 
+await doFillDinline(["biological","showcases","Dynasty","Heritage","recognizable","masterpiece","grottoes","honor","dedicated","catch"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["built","made","honored","founded","located","situated","established","listed","dedicated","took","involved","preserved"])
+ 
+await doFillDinline(["is considered","is","honored","were engraved","were disposed"])
+ 
+await doFillDinline(["is situated","was officially started","inaugurated","is","were brought","consists","has","was tiled","is preserved","were grown","is"])
+
+ 
+await doFillDinline(["D","B","B","F","C","D","A","C","E","A","A","F","F","F","A"])
+ 
+await doFillDinline(["It was built","First of all, we are going to visit","That brings me to the next point, which is","You can now see","In front of you is"])
+
+await doFillDinline(["B.is considered","B.was officially started","C.covers","C.wonders","A.has enchanted","B.were constructed","D.is","A.On","A.What","D.of"])
+
+await doFillDinline(["architecture","1070","gifted students","courtyards","Confucius"])
+ 
+await doFillDinline(["in central Vietnam","over 400 million years ago","water eroding limestone","No","water"])
+ 
+ 
+await doFillDinline(["1.30 pm","25 December","car park","45 minutes","tables","C","F","G","B","E"])
+ 
+await doFillDinline(["the moon","1987","the Ming Dynasty","200 years","6000 km","11 metres"])
+ 
+await doFillDinline(["coach","main gate","photograph","30 percent","touching"])
+ 
+await doFillDinline(["symbol","French Revolution","March","wireless telegraph","7 million"])
+ 
+await doFillDinline(["To honor Confucius","Tombstones on tortoise backs","To pray for luck","Chu Van An","Thai Hoc house"])
+ 
+await doFillDinline(["to the north","limestone formations","grottoes and caves","underground rivers","mountain peaks"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Around 5,500 miles","To protect his northern borders","The Qin","over 1000 years","one million","Lookout towers","The Ming Dynasty","packed dirt surrounded by stone","Blockhouses","peasants, slaves and criminals"])
+ 
+ 
+await doFillDinline(["Engineer Gustave Eiffel","advancement in the construction industry","almost three years","for communication jamming","1062.72","1930","by riding passenger lifts"])
+ 
+await doFillDinline(["giant bell","in 1858","Sir Benjamin Hall","4-foot crack","13,5 tons"])
+ 
+await doFillDinline(["The Eiffel Tower of Paris stands 324 meters.","The Great Wall of China stretched approximately 13,170 miles from East to West of China.","Phong Nha is the most beautiful cave containing many fascinating rock formations.","The Temple of Literature has five courtyards with different historic values.","The Eiffel Tower is an icon of France and inside the World Heritage Site"])
+ 
+await doFillDinline(["The doctor names were listed on tombstones on tortoise backs.","The second courtyard of the Temple of Literature stands out with Khue Van pavilion.","Phong Nha Cave enchants visitors with many fascinating rock formations and marvelous stalactite walls.","The Great Wall of China is one of the most recognizable symbols of China.","The Eiffel Tower was the tallest man-made structure of the world from 1889 to 1930."])
+ 
+await doFillDinline(["The names of these successful students were engraved on tombstones above tortoise backs.","The Temple of Literature is considered one of the most picturesque tourist attractions in Hanoi","The Great Wall of China was built to help keep out northern invaders like the Mongols.","The Eiffel Tower was originally built to celebrate the centennial year of the French Revolution of 1789.","Phong Nha - Ke Bang National park is considered a paradise for researchers and explorers of grottoes and caves."])
+ 
+await doFillDinline(["The Temple of Literature was built to honor gifted students with top graduation outcomes.","When visiting the Temple of Literature, you will catch sights of numerous students who come and pray for luck in their examinations","Phong Nha Cave, a masterpiece of nature, attracts a large number of tourists every year.","The Great Wall of China is one of the most recognizable symbols of China.","The Eiffel Tower is named after Engineer Gustave Eiffel, who designed this tower."])
+ 
+await doFillDinline(["situated","under","dreamed of","pillar-based pagoda","a bird","In 1105","gift","most meaningful symbols"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

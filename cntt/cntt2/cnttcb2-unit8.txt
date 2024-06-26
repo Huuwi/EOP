@@ -1,0 +1,80 @@
+await changeUnitByTitle('Unit 8: What is it made of?')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0) 
+ 
+await doClickHearing2(0) 
+ 
+await doSortWords(["PLASTIC","RUBBER","COPPER","OVAL","POUND"])
+ 
+await doSortWords(["MILE","KILOGRAM","LEATHER","PLASTIC","ALUMINIUM"])
+ 
+await doFillDinline(["D","E","F","B","C","A"])
+ 
+await doFillDinline(["plastic","silver","stainless steel","leather","Copper"])
+ 
+await doFillDinline(["glass","silver","wood","Iron","Plastic","Aluminium","steel","oval","circle","Mile"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["height","old","width","fast","depth","length","heavy","thickness"])
+ 
+await doFillDinline(["What is the weight of that truck?","What is the width of your kitchen?","What is the depth of this box?","What is the speed of the CX5 car?","What is the thickness of your English-Vietnamese dictionary?","How big is Mary's computer screen?","How much is an Iphone X?","How high is this door?"])
+ 
+await doFillDinline(["triangular","rectangular","circular","rectangular","circular","semi-circle"])
+ 
+await doFillDinline(["of","from","from","of","of","of"])
+ 
+await doFillDinline(["is made of glass","is made of aluminum","are made of gold","is made of leather","is made from wood","are made of plastic"])
+ 
+await doFillDinline(["heavy is it?","2 kilograms","shape is it?","the shape of a rectangle","color is it?","black.","is the size of this laptop's screen?","13 inches.","is it made of?","made of aluminium","is it?","Dell","much is it?","12 million VND."])
+ 
+await doFillDinline(["D:metres","B:height","C:of","D:of","D:made","D:from","D: made from","D:it's","C:of","D:rectangle"]) 
+ 
+await doFillDinline(["fridge","types","80","silver","popular"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["F","F","T","F","T"])
+ 
+await doFillDinline(["167g","151.5 mm","74.9 mm","Aluminium alloy","5,490,000 VND"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["3 days","200 dollars","black","6.2 inches","Happy farm"])
+ 
+await doFillDinline(["mother","money","three","plastic","pink"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","T","F","T"])
+ 
+await doFillDinline(["9.7","469","240","169.5","7.5","silver","March","329"])
+ 
+await doFillDinline(["steel or aluminium","beige","two","rectangle","the tower case"])
+
+await doFillDinline(["aluminium","weighs","1,749","2.04","design"])
+ 
+ 
+await doFillDinline(["My watch is made of metal.","The pipes are made of plastic.","This piece of furniture is made of wood.","The vegetables in Da Lat are grown under glass","I'am looking for a leather jacket in dark brown."])
+ 
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["is the depth of this hole","is the width of highway number 5","is the height of the fridge","fast is your car","is the distance of your house to university"])
+
+ 
+await doFillDinline(["What is your watch made of?","What shape is the table?","What is the shape of a coin?","What is the jacket made of?","What is the size of your laptop's screen?"])
+ 
+await doFillDinline(["How far is it from your hometown to Hanoi? It is about 150km.","How heavy is an African elephant? It is 6000 kilograms.","What is the height of the bed in your bedroom? It is 180 centimeters.","My new laptop is black. The size of screen is 10 inches.","Your shoes looks so beautiful. Is it made of leather?"])
+ 
+await doClickBtn()
+ 
+ 
+await doFillDinline(["A","B","B","A"])
+ 

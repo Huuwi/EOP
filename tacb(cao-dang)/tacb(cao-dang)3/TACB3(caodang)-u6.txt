@@ -1,0 +1,58 @@
+await changeUnitByTitle('Unit 6: Health')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doSortWords(["OVERWEIGHT","SEE THE DOCTOR","RELAX","EAT HEALTHY FOOD","GO TO BED EARLY"])
+
+await doSortWords(["HAVE A HEADACHE","HAVE A TOOTHACHE","HAVE A HEART ATTACK","FEEL SICK","TAKE SOME MEDICINE","RELAX","DRINK PLENTY OF WATER","BRUSH YOUR TEETH REGULARLY","EAT HEALTHY FOOD","STAY IN BED"])
+ 
+
+await doClickHearing2(0)
+
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["headache","toothache","exercise","flu","diet","brush","sore","sick","healthy","relax"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["shouldn't","should","should","shouldn't","shouldn't","should","should","shouldn't","shouldn't","should"])
+ 
+await doFillDinline(["should take","should go","should go","should see","eat","should brush"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["go to bed early","eat health food","smoke and drink alcohol","stay up so late","do some exercise"])
+ 
+await doFillDinline(["go to bed early","eat health food","smoke and drink alcohol","stay up so late","do some exercise"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["B","shouldn't","C","should","A","shouldn't","C","go","A","shouldn't","C","take","D","go on","D","do","C","should","C","should"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["yes","normal","yes","He'll get a stomachache.","stay at home another day"])
+ 
+await doFillDinline(["cough","flu","horrible","get worse","get a stomachache"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["flu","a cold","one to three","some medicine","4"])
+ 
+await doFillDinline(["the cause","talk to a doctor","the type of pain","surgery","fluids"])
+ 
+await doFillDinline(["the cause","talk to a doctor","the type of pain","surgery","fluids"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["E","C","A","B","D"])
+ 
+await doFillDinline(["I have a headache and I need to take some medicine","She is overweight so she should go on a diet","My brother has a toothache and he should go to the dentist's.","I have a backache. What should I do?","He has a stomachache so he should eat healthy food."])
+ 
+await doFillDinline(["should go to bed early","should eat healthy food","shouldn't smoke and drink alcohol","shouldn't stay up late","should do some exercise"])
+ 
+await doFillDinline(["If you want to lose weight, you should eat more vegetables","If you have a flu, you should stay in bed and take medicine","If you have a toothache, you should brush your teeth regularly and go to the dentist's.","You shouldn't smoke because it is bad for your health.","He is always tired in the morning so he shouldn't stay up late"])

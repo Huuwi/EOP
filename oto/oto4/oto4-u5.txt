@@ -1,0 +1,71 @@
+await changeUnitByTitle('Unit 5: Energy')
+ 
+await doListeningPlayBtn()
+ 
+await doSortWords(["ECONOMIC STIMULATION","COST BENEFIT","GREENHOUSE GAS EMISSION","POLLUTE","GLOBAL WARMING","ZERO-EMISSION","BIOMASS","FAST ACCELERATION","REFINING PROCESS","BIODIESEL"])
+ 
+await doClickHearing2(0) 
+ 
+await doClickHearing2(0) 
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["non- renewable","environmentally","poisonous","alternative","replacement","extracted","pollution"])
+ 
+await doFillDinline(["engine efficiency","maintenance","gasoline","alternative fuels","renewable energy","non- renewable energy","synthetic fuels"])
+ 
+await doFillDinline(["Alternative","emissions","Biofuels","Crude oil","fossil","synthetic","renewable","environmental","refining","charging"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["A","B","A","B","A","B"])
+ 
+await doFillDinline(["I'am going to talk about","divided into","I'll begin with","Then,","Finally,"])
+ 
+await doFillDinline(["be made","be used","is supplied","be created","destroyed","is stored","is transformed","be powered","be produced"])
+ 
+await doFillDinline(["is frequently used","would be increased","is made","have to be sorted out","can reduce","can travel"])
+ 
+await doFillDinline(["exist","is transformed","is produced","transform","is","convert"])
+ 
+await doFillDinline(["A","are","D","will be banned","D","produce","D","cause","A","include","A","from","B","is made","A","are produced","C","emit","C","from"])
+ 
+await doFillDinline(["2 million years","a fossil fuel","refining","plastics","land damage"])
+ 
+await doFillDinline(["transportation","food crops","wood and plants","environmental impacts"])
+ 
+await doFillDinline(["non-renewable resources","hydrocarbons","surface","oil and gas","more efficient"])
+ 
+await doFillDinline(["transportation","extract","water","air quality","zero- emission"])
+ 
+await doFillDinline(["emissions","smartphone","on the road","fuel choices"])
+ 
+await doFillDinline(["range anxiety","75 miles","a charging station","around a decade","fuel costs"])
+ 
+await doFillDinline(["global energy consumption","refining processes","80%","alternatives","biodiesel"])
+ 
+await doFillDinline(["prices","emission of poisonous gases","pollution","engine efficiency","maintenance costs"])
+ 
+await doFillDinline(["four to six cylinder","highly-combustible","travel longer and faster","carbon dioxide","supply and demand"])
+ 
+await doFillDinline(["overall cost benefit","renewable","greenhouse gases","air pollution","economic stimulation"])
+
+await doFillDinline(["T","F","T","T","T","T","F"])
+ 
+await doFillDinline(["nitrogen dioxide","transporting","safety","fossil fuels","global warming"])
+ 
+
+ 
+await doFillDinline(["There are several advantages of using biodiesel as an alternative fuel","Biofuels have many advantages and disadvantages which regard environmental and societal impacts.","The first advantage of fossil fuels is that they are cheap and plentiful","One of the major disadvantages of hydrogen is the high cost of production","Another possitive aspect of biofuels is fewer greenhouse gas emissions.","In my opinion, biofuels will be widely used in the future."])
+await doFillDinline(["Biofuels are produced from organic materials including plants and animal waste:","Coal, oil and natural gas are non-renewable fossil fuels that are formed from dead plants and animals over million years.","One of main advantages of biofuels is fewer carbon emissions when they are burned.","The most obvious advantage of electric cars is that they do not produce pollution.","Another positive aspect of electric cars is that they do not cause noise pollution"])
+ 
+await doFillDinline(["is produced from","emit a lot of CO2","is made from","is supplied by fossil fuels","is generated from"])
+ 
+await doFillDinline(["A","B","C","B","A"])
+ 
+await doFillDinline(["Today, I would like to talk about some advantages and disadvantages of hydrogen.","My presentation is divided into three parts.","I'll begin with some background information about fossil fuels.","Secondly, I will present some advantages and disadvantages of fossil fuels","One of the main disadvantages of fossil fuels is that they emit a large amount of carbon dioxide which causes air pollution and global warming."])
+ 
+await doClickBtn()
+ 

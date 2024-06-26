@@ -1,0 +1,87 @@
+await changeUnitByTitle('UNIT 4: MAINTENANCE AND REPAIRS')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+ 
+ 
+        await doSortWords(["MAINTAIN", "LUBRICATE", "DISMANTLE", "OVERHAUL", "TEAR", "BLOW", "DETERGENT", "HOSE", "CYCLE", "KINK", "CLOG", "DRAIN", "STAIN", "COIL", "FIN", "THERMOSTAT", "CONDENSER", "CONDENSATE", "SEALANT", "VENT", "DUCT", "BREAKER", "BLOWER", "ABSORB"])
+await doSortWords(["MAINTAIN","MAINTENANCE","LUBRICATE","DISMANTLE","OVERHAUL","WEAR OUT","TEAR","BLOW","DETERGENT","HOSE","CYCLE","KINK","WATER TAP","CLOG","DRAIN","STAIN","LAUNDRY LOAD","COIL","FIN","COMPRESSOR","THERMOSTAT","CONDENSER","CONDENSATE","SEALANT","VENT","DUCT","FURNACE","BREAKER","RADIATOR","BLOWER","ABSORB","CIRCULATE","EVAPORATOR","RINSE"])
+  await doClickHearing2(0)
+  await doClickHearing2(0)
+
+ 
+await doClickHearing2(0)
+await doFillDinline(["drain","tear","dismantle","overhaul","Hose","clog","control panel","breaker","Refrigerant","Compressor","thermostat","Condenser","Sealant","Vent","ducts","kinked","filters","detergent"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Have","updated","have lost","broke down","Have","fixed","calling","Have","checked","checked","oiling"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["correct","wrong","correct","wrong","correct","correct","wrong","wrong"])
+ 
+await doFillDinline(["have to","must","might","must","may","may","must","may","must","should"])
+ 
+await doFillDinline(["be","be broken","have forgotten","have been","be recharging"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["dismantle","may","overhaul","Make sure","cleaning"])
+ 
+await doFillDinline(["clean","check","be cleaned","examining","repair","be","be broken","have forgotten","have been","be"])
+ 
+await doFillDinline(["D","check","C","be","B","resetting","A","come","B","be","C","have","C","replace","B","be replaced","C","leak","C","check"])
+ 
+await doFillDinline(["coils,","fan","control panel","thermostat","fixed"])
+ 
+await doFillDinline(["coils,","leak","breaker","thermostat","control board","blower","condenser","refrigerant"])
+ 
+await doFillDinline(["leak","clogged","thermostat","cool","condensate"])
+ 
+await doFillDinline(["fan","hose","condenser","maintenance","rinse;","thermostat","sensor","condensate"])
+ 
+await doFillDinline(["furnace filter","debris","air ducts","the air","supply"])
+ 
+await doFillDinline(["maintenance","cool","filter","ducts","recirculate","vents"])
+ 
+await doFillDinline(["F","F","F","F","T"])
+ 
+await doFillDinline(["coolant","leak","compressor","absorbs","condenser","vents"])
+ 
+await doFillDinline(["T","F","T","F","F"])
+ 
+await doFillDinline(["leaks","condensers","replacement","valves","crack","condensate","replaced","repairs"])
+ 
+await doFillDinline(["water supply","tap","pressure","filter","kinked"])
+ 
+await doFillDinline(["checks","water supply","tap","pressure","valve","drain hose"])
+ 
+await doFillDinline(["cooling capacity","service professional","evaporating coil","frequent on-off","maintenance"])
+ 
+await doFillDinline(["leaks","evaporator coil","condenser coil","poor airflow","compressor failure"])
+  
+    await doFillDinline(["A", "C", "E", "D"])
+
+        await doFillDinline(["ducts", "calibrated", "replacing", "clogged", "damage"])
+
+        await doFillDinline(["air filters.", "ducts", "control systems", "condenser", "regular maintenance"])
+
+        await doFillDinline(["a repair", "overheating", "an air filter", "a compressor", "mild detergent"])
+
+        await doFillDinline(["D", "A", "C", "B"])
+
+        await doFillDinline(["a compressor", "excess refrigerant flow", "gas", "lubrication", "clogged radiator", "proper functioning", "failure"])
+
+        await doFillDinline(["F", "T", "F", "T", "T"])
+
+        await doFillDinline(["Try examining the water inlet valve.", "If there is a refrigerant leakage, repair the leakage:", "There might be a problem with the wire.", "You had better clean the detergent drawer.", "You should also check the door seal", "You should dismantle the water hose filter to wash it.", "If the refrigerant is escaping, the unit isn’t going to cool things down", "The fabric softener dispenser needs to be cleaned out"])
+
+        await doFillDinline(["The thermostat of the heater may have broken.", "He must have recharged the coolant", "The wires may be the problem", "You ought to hire a pro to maintain it.", "Why don't you check the interior unit?", "It may be from the coils.", "The water hoses might be leaking.", "You ought to overhaul your air conditioner every year."])
+
+        await doClickBtn()
+ 
+await doClickBtn()
+ 

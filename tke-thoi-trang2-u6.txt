@@ -1,0 +1,73 @@
+await changeUnitByTitle('Unit 6 - Weather and climate')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["cloudy","rain","foggy","wind","storm"])
+ 
+await doFillDinline(["warm","dry","wet","fine","chilly","good","bad","hot","cold","lovely"])
+ 
+await doFillDinline(["hot","stormy","foggy","sunny","snowy"])
+ 
+await doFillDinline(["d","b","e","c","a"])
+ 
+await doClickHearing2(0) 
+        await doSortWords(['WEATHER FORECAST', "SUNNY", "FOGGY", "FREEZING COLD", "BOILING HOT", "SPRING", "SUMMER", "AUTUMN", "WINTER", "DEGREE CELSIUS"])
+ 
+await doFillDinline(["sunny","cloudy","weather forecast","fly a kite","play outside","wet","Silk","Tweed","Denim","linen"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["eats","is eating","wear","are wearing","drinks","is drinking","play","are playing"])
+ 
+await doFillDinline(["are watching","do not go","is not sleeping","visit","Is Lucy playing"])
+ 
+await doFillDinline(["is raining","is blowing","are staying","come","do not know","do not like","get","want","Do you like","Do you have","do you go","will take","will come","Do you have"])
+ 
+await doFillDinline(["will be","might be","will not be","will be","may be"])
+ 
+await doFillDinline(["c","a","b","c","c","b"])
+ 
+ 
+await doFillDinline(["bigger","the longest","the most beautiful","the coldest","more expensive","the hottest"])
+ 
+await doFillDinline(["A","am talking","A","is riding","A","are you doing","B","will be","C","want","A","What's","B","be","B","wettest","B","the best"])
+ 
+await doFillDinline(["b","b","a"])
+ 
+await doFillDinline(["3","1","5","4","6","2"])
+ 
+await doFillDinline(["5","3","4","1","2"])
+ 
+await doFillDinline(["winds","warmer","rains,","the sun","go on vacations","colors","shorter","back to school"])
+ 
+await doFillDinline(["cold","cloudy","sunny","warm","snow","cold","storm","windy","crazy"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["rainy","three months","cloudy","foggy","snowy","warm","hot","cold"])
+ 
+await doFillDinline(["F","F","T","T","F","F"])
+ 
+await doFillDinline(["T","F","F","T","F"])
+ 
+await doFillDinline(["Sweden","ice and snow","ice","reindeer skins","stunning, unique, beautiful"])
+ 
+await doFillDinline(["Yes","light color","blended climate","coverage cotton clothes","blend"])
+        await doFillDinline(["Is Sonia drawing", "she is not", "Are Tom and Alan talking to the teacher?", "they are not", "Is Nick drinking water", "he is.", "Is Maya washing her brushes?", "she is.", "Is Keisha opening the window?", "she is not", "Are Liam and Dan eating?", "they are.", "Is Sue standing on a box?", "she is not"])
+
+await doFillDinline(["The Nile is the longest river in the world.","Antarctica is the coldest place on Earth.","What is the biggest city in Europe?","Chinese and Japanese are the most difficult languages in the world.","Nha Trang is the most beautiful beach in Vietnam","Ice cream is the most delicious food in the world."])
+
+await doFillDinline(["What is the most exciting sport?","What is the most fashionable place in the world?","What is the most beautiful city in Vietnam?","What is the best place to live?","What is the biggest animal on the planet?"])
+ 
+await doFillDinline(["People use cotton to make clothes such as T-shirts","My brother loves wearing denim jeans. He is wearing ones right now","They use wool to make winter clothes such as scarves or jumpers","When it is cool, I like wearing a tweed jacket to go to work","When choosing a T-shirt, you should know what type of activity you will wear the shirt for and in what kind of weather"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

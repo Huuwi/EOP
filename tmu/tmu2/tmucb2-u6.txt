@@ -1,0 +1,84 @@
+await changeUnitByTitle('UNIT 6: CITY AND COUNTRY')
+ 
+await doListeningPlayBtn()
+ 
+await doSortWords(["MODERN","EXPENSIVE","CHEAP","DANGEROUS","FRIENDLY","NOISY","BORING","BUSY","RELAXING","BAD"])
+ 
+await doSortWords(["THEATRE","MUSEUM","WOOD","FACTORY","VILLAGE","BUILDING","FARM","CATHEDRAL","PORT","COTTAGE"])
+ 
+await doFillDinline(["mountain","bridge","bridge","lake","port","building","building","cathedral"])
+ 
+await doFillDinline(["theatre","lake","buildings","cottage","mountain","factory","village","museum"])
+ 
+await doFillDinline(["quiet","small","expensive","boring","hot","old"])
+ 
+await doFillDinline(["hot","noisy","boring","quiet","friendly","dangerous","good","bad"])
+ 
+await doFillDinline(["bad","slow","boring","expensive","dirty,","noisy","dangerous","unfriendly"])
+ 
+await doFillDinline(["population","ago","Tourists","buildings","hear","shops"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["cheaper","cheapest","dirtier","dirtiest","faster","fastest","safer","safest","friendlier","friendliest","bigger","biggest","noisier","noisiest","hotter","hottest","more exciting","most exciting","more modern","most modern"])
+ 
+await doFillDinline(["the biggest house","the most expensive hotel","the prettiest village","the most cosmopolitan city","the most popular film star","the funniest teacher","the most intelligent student","the easiest exercise"])
+ 
+await doFillDinline(["hotter","friendlier","the dirtiest","newer","more boring","the most exciting","more expensive","the most luxurious"])
+ 
+await doFillDinline(["He's older than he looks.","Jessica's taller than her mother.","Trains in London are more crowded than in Paris","Oxford is one of the oldest universities in Europe.","This test is harder than I expected.","Who is the richest in the world?","Everything is cheaper in my country.","Rome was drier than I expected."])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["more expensive","faster","friendlier","cleverer","funnier","bigger","older","more intelligent"])
+ 
+await doFillDinline(["C. worse","A. more modern","B. biggest","C. best","A. the highest","C. friendlier","D. fatter","C. cheapest"])
+ 
+ 
+await doFillDinline(["hotter","more terrifying","noisier","friendlier","more delicious","cheaper"])
+ 
+await doFillDinline(["Tennis is more difficult than golf.","Football is the most boring game in the world.","French is easier than German.","The population in my country is the largest in Europe.","It's wetter in Thailand than in Britain","The weather in Arizon is better than the weather in Oregon.","My home work is the worst in the class.","This exercise is the most difficult in the book."])
+ 
+await doFillDinline(["slower","faster","safer","more dangerous","bigger","smaller","more expensive","cheaper","more modern","older","better","worse"])
+ 
+await doFillDinline(["F","T","T","F","F"])
+ 
+await doFillDinline(["C","A","C","C","C"])
+ 
+await doFillDinline(["flat","restaurant","nightclub","cinemas","village","fields"])
+ 
+await doFillDinline(["city","clubs","weekends","news","peaceful"])
+ 
+await doFillDinline(["F","F","T","F","T"])
+ 
+await doFillDinline(["F","F","T","T","T"])
+ 
+await doFillDinline(["B","C","A","La Paz","Mali","Yakutia","Yakutia","La Paz"])
+ 
+await doFillDinline(["B","A","A","A","B"])
+ 
+await doFillDinline(["five rooms","bedroom","share it","small","mum"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","F","T","T"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["is faster than a Fiat","is smaller than the Pacific Ocean","is drier than Germany","is shorter than the Suez Canal","is cheaper than gold","is worse for you than olive oil","is colder than the sun","is more difficult than English"])
+ 
+await doFillDinline(["Victoria Inn is the smallest","Rio Club is the most popular","Rio Club is the cheapest","Victoria Inn is the most expensive","Minerva is the most beautiful"])
+ 
+await doFillDinline(["Green Light hotel is cheaper than Liberty hotel","German is much more difficult than English","Eiffel Tower is taller than Pisa Tower.","The weather yesterday was much better than today.","The Lighthouse motel is cheap and convenient","I'am the oldest in my family.","Who is the oldest in the class?","Concorde was the fastest passenger plane in the world.","Peter bought the most expensive watch in the shop.","Did you buy the cheapest watch in the shop?"])
+ 
+await doFillDinline(["I'am the oldest in my family.","My sister is younger than me","The Airbus A380 is the biggest passenger plane in the world.","My book is more interesting than your book.","Peter bought the most expensive TV in the shop."])
+ 
+await doClickBtn()
+ 

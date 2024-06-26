@@ -1,0 +1,79 @@
+await changeUnitByTitle('UNIT 3: PRODUCT REVIEWS')
+await doListeningPlayBtn()
+await doClickHearing2(0)
+ 
+await doSortWords(["BACKLIT KEYBOARD","BOTTOM LINE","CON(S)","CONFIGURATION","INTERFACE","PERFORMANCE","PRO(S)","SOLID STATE DRIVE (SSD)","VERDICT","ACCURATE","PRECISE","AWKWARD","DECENT","FRAGILE","GORGEOUS","OUTSTANDING","POWERFUL","PREMIUM","RESPONSIVE","SHARP","SLEEK","SMOOTH","SNAPPY","SOLID","SPACIOUS","SPEEDY","VIBRANT","SCUFF","NAVIGATE"])
+ 
+await doClickHearing2(0)await doFillDinline(["interface","configuration","accurate","spacious","powerful","premium","performance","verdict","sleek","sharp"])
+ 
+await doFillDinline(["vibrant","powerful","configuration","impressive","performance","interface","speedy","responsive","smooth","fragile"])
+ 
+await doClickBtn()
+ 
+ await doFillAll()
+ await doFillAll()
+await doFillDinline(["better","more powerful","more responsive","smoother","faster","sharper","more portable","bigger","more expensive","higher"])
+ 
+await doFillDinline(["not as light as","more expensive than","as speedy as","taller and wider than","not as bright as"])
+ 
+await doFillDinline(["unlike","as gorgeous as","similar","to","more powerful","the same","as"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["expensive","vibrant","gorgeous","decent","poor","slow"])
+  
+await doFillDinline(["E","K","H","C","D","F","B","A","I","G"])
+ 
+await doFillDinline(["$750","metal","256 GB","6 hours","external battery"])
+ 
+await doFillDinline(["touchscreen tablet","backlit keyboard","touchpad","battery life","features","charge"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["screen","dual-core","resolution","quarter","computer","power","plastic","price"])
+ 
+await doFillDinline(["a smartwatch","square","3","No","via computer","sleep habit","social network"])
+ 
+await doFillDinline(["music storage","premium","touchscreen","heart rate","Bluetooth headphones","phone app","Windows"])
+ 
+await doFillDinline(["T","F","T","F","F"])
+ 
+await doFillDinline(["notifications","$300","features","audio","GPS-equipped"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["matte shell","high resolution","app switcher","Google apps","lock screen"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["$350","Bluetooth 5","IP67","scrolling through apps","user interface","optical image stabilization","power modes"])
+ 
+await doFillDinline(["D","G","A","F","C","H","B","E"])
+  
+await doFillDinline(["12.8 x 8.9 x 0.6 inches","2.78 pounds","14 inches","4.1 x 2.8 inches","Intel Core i7","512GB PCIe","8 hours 40 minutes","$1,052"])
+ 
+await doFillDinline(["strong","light","colorful","vibrant","detailed","decent","snappy","smooth","well-equipped","speedy","responsive","long"])
+ 
+await doFillDinline(["4","9","1","3","8","5","2","7"])
+ 
+await doFillDinline(["OLED touchscreen","scribble system","eSIM","three-ring system","cellular connectivity"])
+ 
+await doFillDinline(["OLED screen","all interactions","cellular network","phone-based activities","Apple's ecosystem","dual-core processor","different modes","Activity app"])
+ 
+await doFillDinline(["gorgeous","perfect","outstanding","excellent","incredible","subtle","deplorable","simple","solid","significant"])
+ 
+await doFillDinline(["20%","anti-reflective screen coating","Magic Motion remote","voice search feature","stream HDR content"])
+ 
+await doFillDinline(["not as thick as the Dell Inspiron.","the same weight as the MacBook Pro.","bigger than the Samsung Galaxy Book's storage:","smaller than the Acer Switch 3's screen.","not as powerful as The Surface Pro's processor."])
+ 
+await doFillDinline(["more expensive than the Samsung Q320","the same screen size as the Samsung Q320","bigger than the MacBook 13's storage","speedier than the MacBook 13's processor","different from the Samsung Q320's optical drive","longer than the Samsung Q320’s battery life"])
+ 
+await doFillDinline(["The Motorola Moto X4 is similar in size to theG5 Plus, but its design looks more premium","The Apple iPhone X has the same processor and cameras as the iPhone 8 Plus.","The Samsung Galaxy Note 8's screen has 15.63 square inches of area, larger than other competing displays.","Like all LG TVs, the OLED 65W7P uses WebOS platform for apps and streaming services.","The Surface Book 2 offers faster performance and longer battery life than theMacBook Pro."])
+ 
+await doClickBtn()
+ 
+

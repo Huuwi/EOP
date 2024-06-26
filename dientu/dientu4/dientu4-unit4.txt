@@ -1,0 +1,80 @@
+await changeUnitByTitle('UNIT 4: MAKING COMPLAINTS')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["BEND","REFUND","JAM","STUCK","REPLACEMENT","FAULTY","HOLE","INCONVENIENCE","PACKAGE","DENT","CONTACT","REDUCE THE PRICE","RESOLVE","FLICKERING","COMPLAIN"])
+ 
+await doSortWords(["COMPLAIN","PACKAGE","DENT","STUCK","SCRATCH","FAULTY","BEND","INCONVENIENCE","REASONABLE","FLICKERING","HOLE","CRUSH","FLICKER","CONTACT","REPLACEMENT"])
+ 
+await doFillDinline(["faulty","complain","inconvenience","contact","scratched","refund","apologize for","blank","resolve","stuck"])
+ 
+await doFillDinline(["complaint","compatible","flickering","replacement","agreement","pleased","jammed","reasonable","return","refund"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+         await doCheckBoxNeww(4)
+
+await doFillDinline(["to complain","to hear","apologise","be","am ringing","to complain","to hear","will never happen"])
+    
+await doFillDinline(["Attached","Broken","Burnt","Cracked","Crushed","Dented","Jammed","Resolved","Returned","Scratched"]) 
+ 
+await doFillDinline(["is burnt","is jammed","is crushed","is dented","is scratched","is bent","is broken","is cracked"])
+ 
+await doFillDinline(["Three legs of my table are bent","The screen of my laptop is cracked","The surface of my fridge is scratched by the delivery guy","The door is jammed","The screen of my new phone is broken"])
+ 
+await doFillDinline(["B-to complain","A-am calling","B-to hear","B-be","C-burnt","C-dented","D-is bent","D-is broken","A-is cracked","B-scratched"])
+ 
+await doFillDinline(["Printer","Work","3845","89054","Replace"])
+ 
+await doFillDinline(["complain","fault","order number","pleased","5"])
+ 
+await doFillDinline(["Rostock","DVD player","2086","work"])
+ 
+await doFillDinline(["work","blank","2086"])
+ 
+await doFillDinline(["B","A","C","D"])
+ 
+await doFillDinline(["jammed.","crushed","scratched","jammed"])
+ 
+await doFillDinline(["Milperra","First","China","November","601 ACK"])
+ 
+await doFillDinline(["damaged","24","China","October","ACK"])
+ 
+await doFillDinline(["crack","cabinet","hole","table","broken","60"])
+ 
+await doFillDinline(["report","crack","damaged","hole","Indonesia","200","replacement"])
+ 
+await doFillDinline(["laptop","240793/19","cursor","touchpad","5"])
+ 
+await doFillDinline(["laptop","1402","mouse","repair"])
+ 
+await doCheckBoxNeww(4)
+  
+await doFillDinline(["Television cabinet","Uneven","30 December","A formal complaint","123 456 789"])
+ 
+await doFillDinline(["December","Printer","5 minutes","Replace","14 days"])
+ 
+await doFillDinline(["E","C","B"])
+ 
+await doFillDinline(["2","1","Next Monday","Three weeks","This afternoon"])
+ 
+await doFillDinline(["sewing machine","fault","an hour","full refund","14 days"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Taylor Smith","181293/19","1309","load paper","refund"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Dear","writing to","would like","attached","contact","sincerely"])
+ 
+await doFillDinline(["am","bought","am writing","plugged","to replace","have attached","to have","contact","discuss"])
+ 
+await doFillDinline(["I'am unhappy with the quality of the television.","I would like you to replace it with another touchpad.","I have attached a photocopy of my receipt as proof of purchase","I would like to have this problem fixed.","You can contact me on 0167 5922 678"])
+ 
+
+await doClickBtn()

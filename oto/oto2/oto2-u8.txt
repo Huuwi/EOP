@@ -1,0 +1,75 @@
+
+ 
+await changeUnitByTitle('UNIT 8: PLANS AND INTENTIONS')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["building a campfire","start up","fly","do an English course","vacation","pack the suitcase","check out","going backpacking"])
+ 
+await doFillDinline(["camping","sightseeing","start up","vacation","surfing","building","apply","fly","plane","check"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["He is going to sneeze.","She is going to win the race.","He is going to jump.","He is going to be late.","They are going to kiss.","They are going to have a baby.","He is going to fall."])
+ 
+await doFillDinline(["e","a","b","f","d"])
+ 
+await doFillDinline(["will stay","will help","is going to apply","am having","is going to graduate","is going to get","are flying"])
+ 
+await doFillDinline(["is going to fly","am not going","is going to stay","am going camping","am seeing","are travelling","will drive"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["is going to fly","will bring","am going to start","will do","is going to do","am seeing","will stay","are going"])
+ 
+await doFillDinline(["D-will","C-am meeting","A-is going to work","C-will go to","A-get","D-am seeing","B-am going to see","B-will lend","B-are watching","A-are going to fly"])
+ 
+await doFillDinline(["T","F","T","F","T"])
+ 
+await doFillDinline(["172","window","ticket","phone","visit"])
+ 
+await doFillDinline(["T","T","F","F","T"])
+ 
+await doFillDinline(["T","T","F","F","T"])
+ 
+await doFillDinline(["town","newspapers","next year","university","an architect"])
+ 
+        await doFillDinline(["next week", "his girlfriend", "by train", "a river", "in a campsite"])
+
+ 
+await doFillDinline(["vacation","fly","shopping","dancing","Temple"])
+ 
+await doFillDinline(["New York","five days","excited","Yes","a postcard"])
+ 
+await doFillDinline(["six","activity","going kayaking","raincoats","seaweed"])
+ 
+await doFillDinline(["a bicycle wheel","in 2012","about $100,000","under the ground","dried food"])
+ 
+await doFillDinline(["next summer","Southern Spain","a four-star hotel","her parents","an adventure holiday"])
+ 
+await doFillDinline(["going sightseeing","a holiday job","cousins","a French course","camp"])
+ 
+await doFillDinline(["T","F","T","F","T"])
+ 
+await doFillDinline(["volunteer work","six months","money","three","a mechanic"])
+ 
+await doFillDinline(["Jame is going to apply for a job in Ho Chi Minh City this summer.","Our students are going camping in Tam Dao next month.","I am seeing the dentist tomorrow at 10.00.","I think they will graduate from Hanoi University of Industry next year.","We are going for a picnic in Thu Le Park next week.","My parents are going to travel to France next month.","Look at the clouds. It is going to rain.","I am going camping with my classmates next Sunday."])
+ 
+await doFillDinline(["Where are you going to do a Chinese course?","My cousin is going to start up a computer business next year.","Which company are you going to apply for after graduation?","My brother is going to study engineering at Hanoi University of Industry.","I'am going to fly to Italy next Sunday.","Are you going to travel to Paris next week?","We are going to look for a nice campsite near Hanoi.","They are excited about their summer vacation to America. They are going to visit the Statue of Liberty."])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["I will make it for you.","I'am going to study a new language","Because some friends are coming for dinner.","I'am going to travel by motorbike","No, I am going to visit my grandparents"])
+ 
+await doFillDinline(["is going with his girlfriend.","He is going to travel by plane and train.","He is going to stay in a five-star hotel","He is going to stay for 6 days","He is going sightseeing and going surfing"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

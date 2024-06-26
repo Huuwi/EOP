@@ -1,0 +1,73 @@
+await changeUnitByTitle('UNIT 8: JOB INTERVIEW')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+
+        await doSortWords(["CREATIVITY", "DECISIVE", "PRESSURE", "INNOVATIVE (ADJ)", "EFFICIENT", "IMPLEMENT", "ANALYTICAL", "CHALLENGE", "MOTIVATED", "PERSUASIVE"])
+
+ 
+await doFillDinline(["f","d","a","g","e","h","c","b"])
+
+await doFillDinline(["f","c","e","d","b","a","g"])
+ 
+ 
+await doFillDinline(["analytical","challenge","characteristics","creativity","innovative","implement","passionate","pressure","recruitment","utilize"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["graduated","work","enjoyed","have been","is","want","felt","figured out"])
+ 
+await doFillDinline(["S","S","P","N","w","w"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["A- strength","A- recently managed","B- pressure","D- independent","B- to work","A-am","A-have applied","B- been","A-I will have","A- started"])
+
+await doFillDinline(["new product","senior","robotics","quality control","Applied Sciences"])
+ 
+await doFillDinline(["technician","junior technician","2008","robotics","quality control","qualification","leave"])
+ 
+await doFillDinline(["product development","innovation","robotics","independent","30"])
+
+await doFillDinline(["innovation","robotics","independent","aspect","30"])
+ 
+await doFillDinline(["his creativity","robotics club","interpersonal skill","3","B1 certificate"])
+ 
+await doFillDinline(["explore","creativity","successful robot","strength","under pressure"])
+ 
+await doFillDinline(["F","T","F","T","F","F"])
+ 
+await doFillDinline(["working experience","intern engineer","system configurations","organization skills","creative","compliments","leadership","automatic products"])
+
+ 
+await doFillDinline(["products and services","Samsung Electronics Group","Customer Service Technician","website","Communication skill","efficiently","knowledge"])
+ 
+await doFillDinline(["apply","electronics engineering","competitors","challenging","in reality","communication skill","issues","innovative"])
+ 
+await doFillDinline(["Product Development Engineer","JR0046547","In Binh Duong","high technology","a Bachelor Degree"])
+ 
+await doFillDinline(["Hyundai Motor Company Group","4","Male","QC engineer","In Hai Duong"])
+ 
+await doFillDinline(["About Us","executive team","Career Office","current employees","Investor Relations","linkedin profiles"])
+ 
+await doFillDinline(["system maintenance","basic topics","key areas","background check","extracurricular certifications","technological knowledge"])
+ 
+await doFillDinline(["F","F","T","F","F","T"])
+
+await doFillDinline(["behavioral questions","hiring managers","difficult situations","job description","soft skills","personal life","failure","tough situation"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["d","a","h","f","b","c","e","g"])
+await doFillDinline(["I believe your company is a great place to work with high innovation and career development","I have been always interested in robotics since I was small","I'loved spending my time designing new things with my team","I think giving presentations is the most challenging aspect of my job duties","I would like to figure out solutions to all the problems I encounter at work.","My greatest strength is my ability to work with many different people.","I think that I enjoy working in a challenging environment","I will contribute a lot to the company’s benefits with my experience about PLC programming."])
+ 

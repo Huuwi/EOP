@@ -1,0 +1,54 @@
+await changeUnitByTitle('UNIT 9: INVENTIONS')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["X-ray machine","necessary","electric light","Google","essential","bicycle","telephone","windscreen wiper","photograph","paper"])
+ 
+await doFillDinline(["paper","necessary","bicycle","photographs","television","windscreen wiper","essential","telephone","important","plane"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+
+
+await doFillDinline(["The Eiffel Tower is visited by over 5 million people every year.","The telephone was invented by Alexander Graham Bell in 1876.","Was the helicopter invented by Leonardo da Vinci?","Television was not invented by Bell.","Rolls Royce cars are made in Britain"])
+ 
+await doCheckBoxNeww(4)
+  
+await doFillDinline(["B: was","A:is","C:by","B: are","A: was"])
+ 
+await doFillDinline(["A","D","C","A","B"])
+ 
+await doFillDinline(["D","A","F","B","C","E"])
+ 
+await doFillDinline(["F","T","T","F","F"])
+ 
+await doFillDinline(["B","C","A","B","C"])
+ 
+await doFillDinline(["Wilhelm Konrad Roentgen","In 1896.","The very first Nobel Prize in Physics","At airports"])
+ 
+await doFillDinline(["took","see","discovered","built","used"])
+ 
+await doFillDinline(["Larry Page and Sergey Brin","Because they wanted to create something that could answer any questions in seconds","Nobody","They started their own company.","Because it was fast, easy and accurate."])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["He got it on his birthday.","He wanted to go to Tom's house.","Connor Drive","About thirty minutes","He promised not to steal the bike again."])
+ 
+await doFillDinline(["got","came","asked","stolen","retuned"])
+ 
+await doFillDinline(["B","A","B","C","A"])
+ 
+await doFillDinline(["Televisions are used to transmit sound and moving pictures","Electric lights are used to help people see things clearly in the darkness.","Planes are used to carry a big number of passengers in the air.","The first photograph was invented in 1832","Nowadays, Google is used by thousands of people:"])
+ 
+await doClickBtn()
+ 

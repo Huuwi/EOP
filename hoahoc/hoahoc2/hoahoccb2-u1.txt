@@ -1,0 +1,77 @@
+await changeUnitByTitle('UNIT 1: I CAN PLAY.....')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0) 
+ 
+await doClickHearing2(0) 
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Do","Do","Go","Play","Play","Do","Play","Do","Play","Go"])
+ 
+await doFillDinline(["Do yoga","Do aerobics","Play baseball","Play golf","Do karate","Play table tennis","Do gymnastics","Do wrestling","Go roller-skating","Play volleyball"])
+ 
+await doFillDinline(["sport center","car park","do","go","have lunch","to","go"])
+ 
+await doFillDinline(["windsurfing","karate","ice","skating","volleyball","Yoga","cycling","swimming","aerobics","table tennis","Jogging"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["could","could","couldn't","can","can","can't","can't","could","could","could"])
+ 
+await doFillDinline(["Can","can","could","could","can't","could","couldn't","Can","can't","can"])
+ 
+await doFillDinline(["can","play","cannot","play","Can","do","cannot","can","do","cannot","do","can","go","cannot","go","Can","play","cannot","cannot","cannot","play","can","do","can","play"])
+ 
+await doFillDinline(["could do weightlifting","could not go cycling","can play badminton","could do gymnastics","cannot swim","can do yoga","can go ice-skating","can do wrestling","can do boxing","can go windsurfing"])
+ 
+await doFillDinline(["C","could","C","can","C","could","B","could not","A","going","B","write","A","could not","C","cannot","D","can do","C","do"])
+
+ 
+await doFillDinline(["c,g","d","e","a,f","g"])
+ 
+await changeUnitByTitle('UNIT 1: I CAN PLAY.....')
+ 
+await doListeningPlayBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["two hours","play badminton","goes jogging","going sailing","play volleyball"])
+  
+await doFillDinline(["go to gym","volleyball","play volleyball","play tennis","baseball","windsurfing","walk","walk"])
+ 
+await changeUnitByTitle('UNIT 1: I CAN PLAY.....')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["T","F","F","T"])
+ 
+await doFillDinline(["tennis","at the gym","taking walks","her boyfriend","on Sunday"])
+ 
+await doFillDinline(["love","swimming","sportsmen","go","do","go","do","popular"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["sports","football","sports","basketball","volleyball"])
+ 
+await doFillDinline(["football","football matches","clubs","players","four times","female players"])
+ 
+await doFillDinline(["Brazil","In 1958","1,281","In 1999","Yes"])
+ 
+await doFillDinline(["in 1891","the USA","sports centers","Saigon Heat","in 2012"])
+ 
+await doFillDinline(["greatest badminton players","His father","age of 10","2013","badminton player"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["I can do yoga very well but my sister cannot do it.","Could you swim when you were five? - No, I couldn't. I could do it when I was 10.","Kien Quoc could play table tennis when he was 8 years old.","I learnt to play tennis when I was 5 years old and now I can play it well","What could your mother do when she was 5 years old?","Pele was the youngest football player that could score in a World Cup.","My friend loves doing karate but she can not do it now.","Nguyen Thi Anh Vien could swim when she was 9 years old."])
+  
+await doFillDinline(["We can play tennis and volleyball but we can not play basketball","I'am not a creative person so I can not draw anything.","Can Mr. Mayweather do boxing on Saturday or Sunday?","What could you do when you were at her age?","His sister could not go cycling until she was eleven","After two months, my mother can do yoga by herself.","Ly Hoang Nam could play tennis when he was young","Cristiano Ronaldo could play football when he was seven years old","Vietnam women's national football team could win Malaysia in SEA Games 19"])
+ 
+await doClickBtn()
+ 

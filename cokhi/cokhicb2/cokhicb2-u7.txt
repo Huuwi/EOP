@@ -1,0 +1,85 @@
+await changeUnitByTitle('UNIT 7: SHOPPING')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+
+ 
+await doSortWords(["CHANGING ROOM","STATIONERY STORE","CHEMIST","ASPIRIN","MARKER","CASH","HIGHLIGHTER","CHEQUE"])
+ 
+await doClickHearing2(0)
+await doFillabc()
+ 
+await doCheckBoxNeww(4)
+
+await doFillDinline(["credit card","cash","changing room","discount","auto showroom","change","bargain","café"])
+ 
+await doFillDinline(["credit card","stationery","shampoo","toothpaste","auto showroom","dollars","pence","aspirins","change","highlighters"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["any","some","any","some","any","any","Some","any","some","any"])
+ 
+await doFillDinline(["a few","a lot of","a few","a lot of","a little","a little"])
+
+ 
+await doFillDinline(["bottles","shaving foam","tubes","toothpaste","bottles","orange juice","shaving foam","bottles","shampoo","rolls","cans","packets","packet"])
+ 
+await doFillDinline(["looking","try","Of course","Is the size ok","too small","size","you","take"])
+ 
+await doFillDinline(["C","C","SA","C","SA","SA","SA","SA","C","C"])
+ 
+await doFillDinline(["4","9","1","12","2","7","8","5","3","6","10","11"])
+ 
+await doFillDinline(["A-rolls","B-euros","B-some","B-auto showrooms","B-lot","C-on","C-x","C-by","B-on","D-a discount"])
+ 
+await doFillDinline(["4,099","36.95","26.95","12.25","125","NO","NO","YES","YES","NO"])
+ 
+        await doFillDinline(["7.50", "12.50", "19.90", "10", "9.65", "10.35", "8.15", "11.85", "12.49", "7.51", "18.25", "1.75", "soup,", "shampoo", "CD", "cassette", "newspapers", "magazines", "t-shirt", "socks", "chocolate", "cookies", "magazines", "book"])
+
+ 
+await doFillDinline(["E","B","A","D","C"])
+ 
+await doFillDinline(["a shirt","blue","green","39.99","credit card"])
+ 
+await doFillDinline(["interesting","shelves","cheap","supermarkets","Japan"])
+ 
+await doFillDinline(["OK","$40","four","red","No"])
+ 
+await doFillDinline(["advice","1.4","picture","blue","credit"])
+ await doFillDinline(["last Saturday","not very happy","near the cereal","an ice cream","his father"])
+ 
+await doFillDinline(["LaBoqueria","fruits","seafood","three","delicious"])
+ 
+await doFillDinline(["Michael","Libby","Michael","Yolanda","Yolanda","Michael"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["goods","busy","products","bargains","different"])
+ 
+await doFillDinline(["MDX","Honda auto showroom","fifteen minutes","really fascinating","tires, rear lights","the next month"])
+ 
+await doFillDinline(["checkout assistants","the electronic pen","a checkout console","by credit card","an alarm"])
+ 
+await doFillDinline(["What color are you looking for?","That shirt is too expensive for me.","I'am looking for a shirt to go with my new jeans","Can I pay by credit card?","She is very beautiful in that red dress.","How can I help you?"])
+ 
+await doFillDinline(["I'am looking for a skirt for my daughter.","I'd like to try on this shirt. Where is the changing room?","Do you have this shirt in blue?","What size do you take?","I'd like to have two rolls of toilet paper.","What kind of shampoo would you like to buy?"])
+ 
+await doFillDinline(["I'd like two tubes of toothpaste.","I'd like three bottles of water.","I'd like a packet of cheese.","I'd like four markers.","I'd like three highlighters"])
+ 
+await doFillDinline(["toothpaste","chemist","assistant","note","happy"])
+ 
+await doFillDinline(["I'am looking for a pair of jeans.","What size do you want?","Here you are.","The changing rooms are over there.","Is the size OK?","How much does it cost?","How do you want to pay?","Can I pay by credit card?"])
+
+await doClickBtn()
+ 

@@ -1,0 +1,109 @@
+await changeUnitByTitle('UNIT 7: CAREER ORIENTATION')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+        await doSortWords(["OBSERVE", "MOTIVATED", "ASSIGN", "EVALUATE", "SCHOLARSHIP", "EXECUTE", "LEADERSHIP", "RECEIVER", "NETWORKING", "REFERENCE", "SHORT-TERM", "TRANSMITTER", "COMMITMENT", "ACHIEVEMENT", "STRATEGY", "QUALIFICATION", "ENTHUSIASM"])
+
+
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["innovation","achievements","assigned","attention to details","observe","evaluate","references","long-term"])
+ 
+await doClickHearing2(0) 
+ 
+await doSortWords(["LONG-TERM","MOTIVATED","REFERENCE","OBSERVE","EXECUTE","LEADERSHIP","STRATEGY","WEAKNESS","RECEIVER","SCHOLARSHIP","ASSIGN","TRANSMITTER","NETWORKING","QUALIFICATION"])
+ 
+await doFillDinline(["leadership","impact","diagnosing","expertise","execute","resume","qualifications","compiling","multimetre","Transmitters"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Adjective","Person","Equipment","College subject","Scientific concept"])
+ 
+await doFillDinline(["engineer","engine","mechanic","mechanical","technician","technical","electrician","electrical"])
+ 
+await doFillDinline(["Apply","Application","Applicant","Consult","Consultation","Consultant","Operate","Operation","Operator","Train","Training","Trainer","Supervise","Supervision","Supervisor","Inspect","Inspection","Inspector","Manage","Management","Manager","Interview","Interview","Interviewee","Lead","Leadership","Leader","Transmit","Transmission","Transmitter","Achieve","Achievement","Assign","Assignment","Evaluate","Evaluation","Communicate","Communication"])
+ 
+await doFillDinline(["Responsibility","Responsible","Qualify","Qualification","Qualified","Enthusiasm","Enthusiastic","Commit","Commitment","Committed","Profession","Professional","Innovate","Innovation","Innovative","Create","Creation","Creative","Faith","Faithful","Study","Study","Studious"])
+ 
+await doFillDinline(["communication","created","qualified","committed","enthusiastic","creative","professional","responsible","diagnosing","evaluating"])
+ 
+
+await doFillDinline(["do you work","have you been","I have been","did you work","I was","did you leave","I wanted","Have you finished","did you complete"])
+ 
+await doFillDinline(["have you applied","have you read","have you worked","have you had","have you learnt","have you had","have you done"])
+
+await doFillDinline(["D-created","D-design","C-fixed","D-enthusiastic","D-worked","A-have done","D-have worked","C-supervision","A-have you learnt","C-led"])
+ 
+await doFillDinline(["interested","after","subjects","technical"])
+ 
+await doFillDinline(["multimetres","model","receivers","Electronics","circuits","lab"])
+ 
+ 
+await doFillDinline(["electronics","switch on","Electronics","maths","project"])
+ 
+await doFillDinline(["finished","work","different","best","next"])
+ 
+await doFillDinline(["Repairing","Headquarters","Navigation","GPS","automated"])
+ 
+await doFillDinline(["repairing","communications equipment","navigation equipment","GDPS","combines","automated"])
+ 
+
+ 
+await doFillDinline(["Do you want to apply for that post too","When exactly did you start your job at Wiggins","So is that more responsibility and more pay","Why do you want to leave Wiggins"])
+ 
+await doFillDinline(["desire","post","in addition","Upgrade","Install"])
+ 
+await doFillDinline(["supervisor","2004","2008","site","far"])
+  
+await doFillDinline(["surname","post","apply","four","upgrade"])
+ 
+await doFillDinline(["worked","left","became","studied","received","started"])
+ 
+await doFillDinline(["1","3","4","6","7","8"])
+ 
+await doFillDinline(["Why would you like to work with us","What are your strengths and weaknesses","Why should we give you the job","What do you want to do long term","Are you always on time","Are you good at working in a team","What kind of qualifications have you got","When did you last solve a difficult problem"])
+ 
+await doFillDinline(["scary","weaknesses","carefully","experience","confidence","smarter"])
+ 
+await doFillDinline(["Require","Employer","Oriented","Reasoning ability","Concise"])
+ 
+await doFillDinline(["B","C","A","B"])
+ 
+await changeUnitByTitle('UNIT 7: CAREER ORIENTATION')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["Interpersonal skills","Organizational skills","Technical knowledge","Communication skills"])
+ 
+await changeUnitByTitle('UNIT 7: CAREER ORIENTATION')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["Component","Easy-to-use","Responsibility","Subfield"])
+ 
+ 
+await doFillDinline(["design","electricity","subfields","interfaces","Chartered"])
+ 
+await doFillDinline(["B","C","A","C"])
+ 
+await doFillDinline(["Petersons","Senior Audio Maintenance Technician","Omega Studios, Riga, Latvia","Comet electronics, Riga, Latvia","Repaired video and DVD equipment","Diploma in Audio Technology","Thames Valley"])
+ 
+await doFillDinline(["6","5","3","2","13","15","10"])
+ 
+await doFillDinline(["repairs","maintains","checks","makes","inspects","orders","works","reports","supervises","has"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Position applied : Electrical Engineer at GE company","CAREER OBJECTIVE","EDUCATION AND QUALIFICATIONS","WORK EXPERIENCE","SKILLS","ACHIEVEMENTS","INTERESTS","REFERENCES"])
+ 
+await doFillDinline(["To obtain","BSc in Electrical Engineering","2016","Created manufacturing standards","Team leader","N3","interpersonal skills","Available upon request"])
+ 
+await doFillDinline(["SOFTWARE SKILLS","Programming Languages","ACHIEVEMENTS","Efficiently diagnosed and repaired malfunctioning systems","executed","WORK EXPERIENCE","Testing and Designing","observing","Hobbies and Interests","model making"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

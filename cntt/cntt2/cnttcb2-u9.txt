@@ -1,0 +1,96 @@
+await changeUnitByTitle('Unit 9: Weather and seasons (Self-study)')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+
+ 
+await doSortWords(["THE SOUTH","CLIMB A MOUNTAIN","SPRING","FLY KITES","COLD","FOGGY","STORMY","WET"])
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["Heat","Cloudy","Drought","Snow","Stormy","Foggy","Sun","Windy"])
+  
+await doFillDinline(["autumn","summer","snowman","centigrade","minus","play outside","season","chilly","climb mountain","degree Celsius"])
+ 
+await doFillDinline(["centigrade","play outside","minus","season","summer","degree Celsius","climb mountain","chilly","snowman","autumn"])
+ 
+await doFillDinline(["centigrade","snowman","play outside","climb mountain","minus","season","summer","autumn","degree Celsius","chilly"])
+ 
+await doFillDinline(["degrees","mountain","autumn","snowman","vacation","gloomy","sports","spring","forecast","north"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["A","B","C","B","A","C"])
+ 
+await doFillDinline(["are having","am traveling","are staying","are swimming","am trying","are standing"])
+ 
+await doFillDinline(["extremely cold","very windy","dark","the same","somewhat warm"])
+ 
+await doFillDinline(["E","C","F","A","B","D"])
+ 
+await doFillDinline(["The painters are painting the walls of the school this weekend.","The dogs are running after the cat","What are we having for lunch today? I am really hungry.","She is meeting her friends tomorrow.","My brother and I are staying in a luxurious hotel.","Are you taking any holidays this July?","What are you doing tonight? Are you going out?","The children are extremely excited because they are going to the zoo tomorrow?"])
+ 
+await doFillDinline(["is as old as mine","has the same color as his.","is as tall as hers","is as expensive as yours.","is as crowded as theirs.","has the same number of bathroom as ours."])
+ 
+await doFillDinline(["A","are eating","D","pretty cold","D","mine","C","as","B","having","B","is going","C","reading","A","What","A","go","C","hers"])
+ 
+await doCheckBoxNeww(4)
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["winds","warmer","rains,","the sun","go on vacations","colors","shorter","back to school"])
+ 
+await doFillDinline(["United States","hot","until Sunday","colder","a jacket"])
+ 
+await doFillDinline(["T","T","F","F","T"])
+ 
+await doFillDinline(["winters","cold","very good","snow","coat"])
+ 
+await doFillDinline(["2","4","1","5","8","7","6","3"])
+ 
+await doFillDinline(["three months","In March","Become green","June","Sunny, hot","The beach","Change color","February","Very happy","Snowmen"])
+ 
+ 
+await doFillDinline(["three months","In March","Become green","June","Sunny, hot","The beach","Change color","February","Very happy","Snowmen"])
+ 
+await doFillDinline(["two","hot","six","warm jacket","Sahara Desert","very short","warm","30","vodka","woolly hat"])
+ 
+await doFillDinline(["F","T","F","T","T","T"])
+ 
+await doFillDinline(["sunny","trees","go for a picnic","fly kites","shirts","snowy","snowman","ice skate","scarf","gloves"])
+ 
+ 
+await doFillDinline(["tornadoes","spring and early summer","very cloudy and rainy","below ground","about 1 kilometer","storm chasers","news and TV companies"])
+ 
+await changeUnitByTitle('Unit 9: Weather and seasons (Self-study)')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["She is reading a book about computer science tonight","Kate! They are playing your favorite music tomorrow evening.","They are arriving at 10 o'clock this Sunday.","In winter, the weather is cold and the children make snowmen","I'am not attending the meeting tomorrow because my family is on holiday.","What are you doing tonight? I am seeing \"Thor\" in the cinema"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Who is Blanca visiting this weekend?","When are you traveling around the USA?","Who is going to Cambridge on Wednesday for a meeting?","What is the weather like outside?","Where is he leaving tomorrow?"])
+ 
+await doFillDinline(["Who is Blanca visiting this weekend?","When are you traveling around the USA?","Who is going to Cambridge on Wednesday for a meeting?","What is the weather like outside?","Where is he leaving tomorrow?"])
+ 
+await doFillDinline(["Children like flying their kites in autumn.","What is the weather like in winter? - It's chilly and snowy.","Hanoi is as crowded as Ho Chi Minh City.","How about staying at home and watching a DVD?","My sister is over there. She is dancing","What is your favorite season? - My favorite season is summer."])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["to","a","a","to","a","some","at","than"])
+ 
+await doFillDinline(["a","of, them","to, the","for","for","to","was, a, from","some"])
+ 

@@ -1,0 +1,77 @@
+await changeUnitByTitle('Unit 4: Product Review')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doFillDinline(["spacious","smooth","gorgeous","precise","awkward","sharp","vibrant","feedback","durability","brightness"])
+ 
+await doClickHearing2(0)
+await doFillDinline(["Precise","Premium","Responsive","Satisfied","Sharp","Sleek","Smooth","Snappy","Spacious","Speedy"])
+ 
+await doFillDinline(["spacious","smooth","gorgeous","precise","awkward","sharp","vibrant","feedback","durability","brightness"])
+ 
+await doFillDinline(["interface","configuration","accurate","spacious","powerful","premium","performance","verdict","sleek","sharp"])
+ 
+await doFillDinline(["durability","brightness","spacious","feedback","performance","feature","unique","powerful","fragile","outstanding"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["unlike","as gorgeous as","similar","to","more powerful","the same","as","like","the same","as","as bright as","the same as","unlikely"])
+ 
+await doFillDinline(["better","more pocketable","faster","sharper","more portable","bigger","more expensive","higher","cheaper","larger","more compact","lower","deeper","more blinding"])
+ 
+await doFillDinline(["which","who","which","which","which","which","which","which","who","which"])
+ 
+await doFillDinline(["who work in the office are very friendly.","the shops which don´t take credit cards","who went to the party enjoyed it","who I´m looking for is a computer designer.","who I met at the railway station gave me this address.","which/ that cost the least worked better than the others","two brothers who! that are working as hardware engineers at the moment.","invented the World Wide Web, which has become an essential part of our lives"])
+ 
+        await doFillDinline(["C.as", "D.to", "D.than", "A.From", "C.as", "C.from", "A.lighter", "B.larger", "A.in", "B.as"])
+ 
+await doFillDinline(["7","8","2","11","4","5","10","9","6","1","3"])
+ 
+await doFillDinline(["T","F","T","F","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["$750","touchscreen tablet","256","face","hours"])
+ 
+await doFillDinline(["Google","resolution","thin","longer","plastic"])
+ 
+await doFillDinline(["$750","metal","256GB","6 hours","external battery"])
+ 
+        await doFillDinline(["12.8 x 8.9 x 0.6 inches", "2.78 pounds", "14 inches", "4.1 x 2.8 inches", "Intel Core i7", "512GB PCIe", "8 hours 40 minutes", "$1,052"])
+
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","T","T","F"])
+ 
+await doFillDinline(["OLED screen","all interactions","cellular network","Apple's ecosystem","dual-core processor","different modes"])
+ 
+ 
+        await doFillDinline(["impressive 6.5-inch OLED display", "triple-lens system", "A13 Bionic CPU", "incredible color accuracy", "battery life"])
+
+await doFillDinline(["20%","anti-reflective screen coating","Magic Motion remote","voice search feature","stream HDR content"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["The Motorola Moto X4 is similar in size to the G5 Plus, but its design looks more premium","The Apple iPhone X has the same processor and cameras as the iPhone 8 Plus.","The Samsung Galaxy Note 8's screen has 15.63 square inches of area, larger than other competing displays.","Like all LG TVs, the OLED 65W7P uses WebOS platform for apps and streaming services.","The Surface Book 2 offers faster performance and longer battery life than theMacBook Pro."])
+ 
+await doFillDinline(["The MacBook 13 is more expensive than the Samsung Q320.","The MacBook 13 has the same screen size as the Samsung Q320.","The processor of Samsung Q320 is speedier than that of MacBook 13","The battery life of MacBook 13 is longer than that of Samsung Q320.","The optical drive of MacBook 13 is different from the optical drive of Samsung Q320."])
+ 
+await doFillDinline(["not as thick as the Dell Inspiron","the same weight as the MacBook Pro","bigger than the Samsung Galaxy Book's storage","smaller than the Acer Switch 3's screen","not as powerful as The Surface Pro's processor"])
+ 
+await doFillDinline(["At 2.83 inches wide, it's narrower than the iPhone XS Max, which has a 6.5-inch screen of its own.", "The Xperia 1 puts all of its buttons on the right side of the phone, which definitely feels crowded.", "In the autumn of 1974, Steve Jobs, who had dropped out of university after one term, began attending meetings of the Homebrew Computer Club with Wozniak.", "We were routinely impressed by the results which were colorful, clear, and well-judged.", "Yesterday, I met the man who invented the Web - Tim Berners Lee."])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

@@ -1,0 +1,76 @@
+await changeUnitByTitle('Unit 2: JOBS AND DUTIES')
+ 
+await doListeningPlayBtn()
+await doClickHearing2(0)
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["INSPECTION","POTENTIAL","ACCOMPLISH","ESTABLISH","DEFECTIVE","UNDERTAKE","NEGOTIATE","FILTER","TROUBLESHOOT","MODIFY","STANDARD","FIXTURE","TERM AND CONDITION","KEEP IN TOUCH WITH","BREAKDOWN (N)","REPLACEMENT","LABORATORY TEST","KNEEL","CONTRACT (N)","CIRCUIT BOARD"])
+ 
+
+
+await doFillDinline(["modify","breakdown","potential","assembly","troubleshoot","inspection","negotiate","circuit board","Laboratory tests","recommend"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["has to","to ask","submitting","to submit","replaced"])
+ 
+await doFillDinline(["has to","must","have to","have to","had to"])
+ 
+await doFillDinline(["C-hire","A-apply","D-walk","B-wear","C-understand","B-have","D-climb","B-interview","C-modifying","D-growing"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["started","varies","bending and crouching","carry","more","ten"])
+ 
+await doFillDinline(["fixing","tools","twenty","favorite","exciting"])
+ 
+await doFillDinline(["fix problems","field","an apprentice","physical activity","an electrician","good luck"])
+ 
+await doFillDinline(["F","F","T","F","T"])
+ 
+await doFillDinline(["F","F","T","F","T"])
+ 
+await doFillDinline(["stand","sit","carry","ladders","making","arms"])
+ 
+await doFillDinline(["T","F","T","F","T"])
+ 
+await doFillDinline(["involves","demanding","lift","work fast","tool belt","turn on"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["maintain","service","technician","elevated","repairs","construction","requires"])
+ 
+await doFillDinline(["assembling","improvements","circuitry","lift","experience"])
+ 
+await doFillDinline(["electrical","recommend","inspect","clean or repair","lift","electronics","experience"])
+await doFillDinline(["Intel Server Processor Group","For a few years","design microprocessors at Intel","A microprocessor","No"])
+ 
+await doFillDinline(["F","T","T","T","F"])
+ 
+await doFillDinline(["T","F","F","T","T"])
+ 
+await doFillDinline(["vii","viii","iv","i","ii"])
+ 
+ await doFillDinline(["A sales engineer","Sawyer's Technology Corporation","11 years","sales goals","Technology sales"])
+ 
+await doFillDinline(["In Jobing.com","Quality Engineer","email","All suppliers","Yes"])
+ 
+await doFillDinline(["Designing electronic circuits","Existing designs","Certain specifications","Multi-chip modules","Signal processing filters"])
+ 
+await doFillDinline(["Designing electronic circuits","Existing designs","Certain specifications","Multi-chip modules","Signal processing filters"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Electrical Engineer","skills and qualities","Bachelor of Science degree","computer skills","your vacancy","hearing from you"])
+ 
+await doFillDinline(["I'am writing to apply for the position of Electronics Assembler advertised on vietnamworks.com","I'am writing in answer to your job vacancy in careerlink.vn.","I believe that I have the skills and qualities that you are looking for.","I have experience of fixing electrical problems in houses and businesses","I would welcome the opportunity to hear from you in the near future."])
+ 
+await doClickBtn()
+await doWhenDoLastTaskUnit()
+ 

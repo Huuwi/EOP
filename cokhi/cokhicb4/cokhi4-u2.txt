@@ -1,0 +1,88 @@
+await changeUnitByTitle('Unit 2: Machine tools')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await changeUnitByTitle('Unit 2: Machine tools')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0) 
+ 
+await doClickHearing2(0) 
+ 
+await doSortWords(["OPERATE","SAW","MACHINE","CREATE","GRIND","FLATTEN","ROTATE","MILL","DEBURR"])
+
+await doFillDinline(["a","c","b","d"])
+ 
+await doFillDinline(["saw","drill","grind","mill"])
+ 
+await doFillDinline(["D","E","C","A","B","F"])
+ 
+await doFillDinline(["band","shaper","grinder","Coolant","machine","chips","workpiece","flattened","CNC","honing"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["flattening","adding","create","cut","create","rotating","creating","grind","cut"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["The machine tool needing microcomputer","made by the machine tools","used to cut and shape products","converted into a CAM program","using a blade consisting of a continuous band of metal"])
+ 
+await doFillDinline(["using","run","brought","controlled","needing","made"])
+ 
+await doFillDinline(["C","used","B","cutting","A","needing","C","creating","C","is","B","left","A","designed","C","used","A","built","D","cut"])
+ 
+await doFillDinline(["F","T","F"])
+ 
+await doFillDinline(["CNC","prices","materials","shapes","broaches"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["need","machine tools","new mill","faster","place"])
+ 
+await doFillDinline(["Lathe","grinder","Bearing press"])
+ 
+await doFillDinline(["Drill press","Grinding machine","abrasive","Sanders","Lift"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["sander","sander","grinder","grinder","sanders","grinder"])
+ 
+await doFillDinline(["machine tool","workpieces","z","table","z","CNC"])
+ 
+await doFillDinline(["T","F","F","F"])
+ 
+await doFillDinline(["F","B","C","E","A","D"])
+ 
+await doFillDinline(["T","F","T","F","T","T"])
+ 
+await doFillDinline(["3","4","5","2","6"])
+ 
+await doFillDinline(["machine axis movements","CNC machine control","software","block by block","part-program execution"])
+ 
+await doFillDinline(["kerf,","three","industrial","boring","surface"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["c","e","a","f","b","d"])
+ 
+await doFillDinline(["c","e","a","f","b","d"])
+ 
+await doFillDinline(["am writing","advertised","to shape","purchase","have set","paying","ship","to reach"])
+ 
+await doFillDinline(["E","A","D","C"])
+ 
+await doFillDinline(["I am writing this email to place an order for two CNC lathe machines.","I use the CNC lathe machine to shape our workpieces.","With a CNC lathe machine, the process becomes easier and faster.","I will purchase them at the given price you have set","I will pay in cash on delivery.","If you need more information, feel free to reach me at (312) 565-7000."])
+ 
+await doClickBtn()
+ 

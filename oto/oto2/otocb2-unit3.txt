@@ -1,0 +1,64 @@
+await changeUnitByTitle('Unit 3: User Manual')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0) 
+ 
+await doSortWords(["IDLE","DASHBOARD","MODE","DEPRESS (V)","BUZZER SOUND","POWER STEERING / EPAS WARNING LIGHT","TYRE PRESSURE MONITOR WARNING LIGHT","ANTI-LOCK BRAKING SYSTEM WARNING LIGHT","TRANSAXLE = TRANSMISSION","REVERSE GEAR","CONTINUOUSLY VARIABLE TRANSMISSION","COOLANT WARNING LIGHT"])
+ 
+await doClickHearing2(0) 
+ 
+await doFillDinline(["F","Transaxle","G","Revolutions Per Minute","A","Tachometer","E","Indicator lights","B","Neutral Safety Switch","D","Stick-shift","C","Tyres pressure monitor"])
+ 
+await doFillDinline(["anti-lock braking system warning light","coolant warning light","battery charge warning light","door ajar warning light","power steering warning light","oil pressure warning light","tyre pressure monitoring warning light"])
+ 
+await doFillDinline(["tachometer","malfunctions","reverse gear","depress","illuminates","transaxle","dashboard","alternator belt","stick-shift","mode"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["B","C","F","A","D","E","H","G"])
+ 
+await doFillDinline(["Get in the car and put on your seatbelt","Put the key in the ignition and turn it until the engine starts.","Put the clutch pedal down.","Move the gear stick into the first gear.","Use your right foot to press down on the accelerator gently to increase the engine's revs very slightly.","Slowly lift the clutch pedal using your left foot until it starts to vibrate gently.","Remove the handbrake and the car should start to move slowly.","Increase the revs while slowly raising your foot off the clutch","Don't use the clutch to hold the car on hills or creep forward at junction.","Don't hold the clutch down when you are stopped."])
+await doFillDinline(["leaving","make","driving","push","starting","changing","be operated","accelerating","change","changing","open","carrying","open","sitting","lock","unlock","closing","is","do not have"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["leave","will charge","press","will not start","Keep","turning","Depress","shifting","release","shifting","shifting","depress","shifting","leaving","always set"])
+ 
+await doFillDinline(["A","becomes","B","closing","D","will change","A","leaving","D","re-engaging","B","will not start","A","fail","C","push","A","Do not leave","C","be careful"])
+ 
+await doFillDinline(["green","Stop the engine","accessory position","dead key battery","backside"])
+ 
+await doFillDinline(["three feet","the lock sensor","the trunk","twice","the driver's door"])
+ 
+ 
+await doFillDinline(["a shift indicator","the backup camera","normal driving","paddle shifter","in drive mode"])
+ 
+await doFillDinline(["smart key","accessory power mode","Hybrid","once","Yes"])
+ 
+await doFillDinline(["left","auto headlight sensor","the third","back","on dark roads"])
+ 
+await doFillDinline(["E","C","A","B","D","technological features","fluids","valuable advice","common emergencies","technical data"])
+ 
+await doFillDinline(["instrument cluster","accelerator pedal","the transaxle","N","4-gear sequence"])
+ 
+await doFillDinline(["unsafe","ignition point","flat rubber pad","neutral safety switch","neutral","ugly grinding sound"])
+ 
+await doFillDinline(["Red","a leak","low oil pressure","improperly","Door ajar"])
+ 
+await doFillDinline(["manual transmission","clutch","gear stick","driving lessons","hydraulic fluid"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["B","D","A","C","A"])
+ 
+await doFillDinline(["When turning the ignition switch to the LOCK position, push the key in slightly at the ACC position and turn the key towards the LOCK position.","Before leaving the driver's seat, always make sure the shift lever is in the P (Park) position","The engine will not start without depressing the clutch pedal","Make sure that the vehicle is completely stopped before shifting into R (Reverse) to prevent damage to the transaxle.","When driving on a slippery road, push the shift lever forward into the + (Up) position."])
+ 
+await doFillDinline(["Keep the clutch pedal and brake pedal depressed while pressing the engine start/stop button to the START position.","Press the engine start/stop button while depressing the brake pedal.","If the steering wheel doesn't unlock properly, the engine start/stop button won't work.","Always depress the brake pedal when you are shifting from N (Neutral) to another gear.","The shift lever must be in P (Park) before turning the engine off."])
+ 
+await doFillDinline(["Hold the key (maximum of 10 seconds) until the engine starts and release it.","the parking brake is applied","comprises of four steps","illustrates the steps to start the engine with an ignition key in a manual car.","Keep the clutch pedal and brake pedal depressed while turning the ignition switch to the Start position","D","C","B","F","A","E"])
+ 
+await doClickBtn()
+

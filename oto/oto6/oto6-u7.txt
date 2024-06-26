@@ -1,0 +1,68 @@
+
+await changeUnitByTitle('Unit 7: Job Application')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+ 
+await doSortWords(["PRESSURE","RÉSUMÉ","DYNAMIC","EXPERTISE","DILIGENT"])
+
+await doFillDinline(["detail-oriented","recruit","organized","trustworthy","energetic","proficient in","willing to","accomplishment"])
+ 
+await doFillDinline(["C","E","A","B","D"])
+ 
+await doFillDinline(["organized","expertise","leadership","candidate","diligent","qualifications","position","pressure","accomplishment","certificate"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["with","for","to","in","for","in","at","for"])
+ 
+await doFillDinline(["D","A","B","E","C","G","F","H"])
+ 
+await doFillDinline(["perfect candidate for this position","greatest skill","my skill sets would benefit you","further about my application","I know I would be excel at it"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["providing","graduated","identifying","to be","make","to discuss","dealing","delivering"])
+
+await doFillDinline(["B","have had","B","planning","D","are looking","C","contribution","B","dealing","C","for","C","at","D","for","C","identifying","D","to apply"])
+ 
+await doFillDinline(["spelling mistakes","qualifications","two","details","requirements"])
+ 
+await doFillDinline(["specific person","repeating information","dynamic","Key words","quality"])
+ 
+await doFillDinline(["date and name","position","skills","core value","contact details"])
+ 
+await doFillDinline(["T","T","F","F","T"])
+ 
+await doFillDinline(["75 seconds","no more than 2","size 11/ size eleven","a brief personal statement","in bold"])
+ 
+await doFillDinline(["F","F","T","F","T"])
+ 
+await doFillDinline(["experiences and skills","questions","mixing and matching","honest feedback","unique background"])
+ 
+await doFillDinline(["T","F","T","T","F"])
+ 
+await doFillDinline(["job search engine","list for jobs","key word","location","a typical salary"])
+ 
+
+await doFillDinline(["double check details","job duties","two","specific","soft skills"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["I'am writing this letter to apply for the position of the technician in your company.","I have one year of experience in the same position","I believe I have the ability to become your new employee whom you are looking for.","I'm studying Automobile Technology at Hanoi University of Industry and I have achieved high academic results.","I have a degree in Automobile Technology and a certificate in English Proficiency."])
+ 
+await doFillDinline(["After seeing and reading your recent advert yesterday, I realized that your requirements were an exact match of my competencies.","I write this letter to apply for the position of service consultant which was advertised on the website “HR.com”","My professional skills seem to be well suited to your company’s requirements.","I would be grateful to be invited for an interview and to be given a chance to further discuss my application","I excel at researching new technologies and using them in concept designs"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()

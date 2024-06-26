@@ -1,0 +1,80 @@
+await changeUnitByTitle('Unit 5: System software')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+        await doSortWords(["DEVICE DRIVER", "INTERACTION", "GRAPHICAL USER INTERFACE", "DROP-DOWN MENU", "MULTITASK", "WIMP ENVIRONMENT", "DEVELOPMENT", "USER-FRIENDLY", "EXECUTE", "CROSS-PLATFORM", "COMMAND LINE INTERFACE", "COMPATIBILITY"])
+ 
+await doFillabc()
+ 
+await doFillDinline(["menu","button","icon","window","desktop","system tray","taskbar","submenu"])
+ 
+await doFillDinline(["interaction","distribute","compatibility","support","multitask","user-friendly","modify","development","sophisticated","powerful"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["development","interaction","device driver","media player","dialogue box","execution","proprietary","distribution"])
+ 
+await doFillDinline(["command line interface","operating system","application software","system tray","cost-effective","toolbar","compatibility","multitask","pointer","kernel"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["the slowest","more slowly","the best","worse","the cheapest","more powerful","the most sophisticated","more quickly","the most smoothly","more user-friendly"])
+ 
+await doFillDinline(["more and more sophisticated","more modern","more quickly","more compatible","more smoothly","as fast","as expensive","most advanced","best"])
+await doFillDinline(["more cost-effective","as smoothly","the most user-friendly","the most sophisticated","as compatible","best","more quickly","cheaper","as reliable","more expensive"])
+ 
+await doFillDinline(["was developed","released","can be executed","supports","can't modify","should create","recommend","should be activated"])
+ 
+await doFillDinline(["suggested","installing","recommended","to interact","to upgrade","using","supported","switching"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["B","to upgrade","D","supported","A","most","B","than","B","good","B","twice","B","as smoothly","D","price","B","be installed","B","do"])
+ 
+await doFillDinline(["compatible","4","email","media","networking","features","interface","support","reliable","application"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","T","F","T"])
+ 
+await doFillDinline(["compatible","Linux","closed-source","modified","operating systems"])
+ 
+await doFillDinline(["student","booting","screen","1984","open-source"])
+ 
+await doFillDinline(["interact","hardware","preloaded","compatible","mobile"])
+ 
+await doFillDinline(["software and hardware","hardware functions","upgrade","change","graphical user interface","basic principles"])
+ 
+await doFillDinline(["Apple","2015","under 10","open-source","free"])
+ 
+await doFillDinline(["F","T","F","T","T"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["application software","hardware","multitasking","Microsoft","Unix"])
+ 
+await doFillDinline(["icons","drop-down menu","pointer","desktop","System utilities"])
+ 
+await doFillDinline(["The Linux kernel was developed by Linus Torvalds in 1991","Microsoft released the latest version of Windows in 2015","Companies are developing more and more open-source applications","Many people consider Android the most popular OS for mobile devices","Open-source software can be freely modified and distributed by users","Apple developed the first GUI OS in 1984","You should understand the basic functions of Linux before you install it","You must pay for a proprietary program before you can use it."])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["is recommended that you use","Android phones are less expensive","are not as compatible with","can always be changed","enabled most applications to be","upgrading your OS regularly","are more expensive than","the same compatibility with Windows"])
+ 
+await doFillDinline(["Windows is considered the most popular OS for PCs.","It is usually more expensive to use Windows than Mac OS.","Graphics package run more smoothly on Mac OS than on Windows","This smart phone is compatible with all earlier versions of the OS.","The OS enables users to interact with application programs and the hardware:","All features of the programs are supported on both Mac OS and Windows","It is recommended that you choose a user interface you are familiar with","We advise you to choose an Android phone if you are concerned about the price."])
+ 
+await doFillDinline(["Android phones are usually more expensive than iPhones.","It is cheaper to upgrade your OS than to switch to another OS.","Siri is not as useful as Google Assistant","Some people say Mac OS is the most user-friendly OS.","It is suggested that you upgrade your OS regularly.","Changing the preloaded OS on your computer is not recommended","Proprietary software cannot be modified or distributed by users.","An OS enables users to interact with hardware and application programs"])
+ 
+await doFillDinline(["on","developed","computers","than","operating","Although","as","most","open-source","interfaces"])
+ 
+await doClickBtn()
+ 
+ 

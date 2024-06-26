@@ -1,0 +1,64 @@
+await doSortWords(["TEAM BUILDING","COLLABORATE","CRITICAL THINKING","HIGHLY TRAINED","DATA ANALYTICS","RECRUIT","INNOVATION","ANALYTICAL","TANGIBLE SKILLS"])
+ 
+await doSortWords(["HIGHLY TRAINED","COOPERATIVE","MANAGEMENT","INTERPERSONAL SKILLS","PROFESSIONAL SKILLS","APPLY FOR","PRIORITIZE","DESIRABLE","TECHNICAL SKILLS","COLLABORATE","HIRE"])
+ 
+await doFillDinline(["D","A","B","E","C","G","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["desirable","communicate","soft skills","analytical","critical thinking","recruit","prioritize","interpersonal skills","technical skills","communication skills"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["work","prepare","is","are","need","maintain"])
+ 
+await doFillDinline(["choose the suitable side wall depth for","employers should consider many factors","have to use many kinds of tools","be excellent at communicating with the customers","wants to boost the turnover"])
+ 
+await doFillDinline(["is","use","are","will be","is","have","wants","to be chosen"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["D","will be required","C","have","B","have","A","If","B","possess","C","producing","A","base","C","will","B","that","A","is"])
+ 
+await doFillDinline(["Interpersonal, professional","Three","Problem-solving skills","In writing","Cooperative"])
+ 
+await doFillDinline(["soft skills","analytical skill","prioritize","job","in person","work well"])
+ 
+await doFillDinline(["working relationships","business","collaborate","voice","innovation","strong management"])
+ 
+await doFillDinline(["productivity","four","effective strategies","openly communicate ideas","relationship building"])
+ 
+await doFillDinline(["Designing","About two years","Good computer skills","Listening skills","Effective communication skills"])
+ 
+await doFillDinline(["vehicles production","technical skills","Physics","CAD","co-workers"])
+ 
+await doFillDinline(["comprehensive skill","recruiting","unforeseen","logically","stakeholders"])
+ 
+await doFillDinline(["electronic","integrated","ethanol","diagnostic","experienced"])
+ 
+await doFillDinline(["in an office setting","Uncomfortable","Ear protection","their hands","On the phones","Their own tools"])
+ 
+await doFillDinline(["a garage","dealership","uncomfortable","ear protection","their hands","vehicle problem"])
+ 
+await doFillDinline(["critical thinking skills","communication skills","IT skills","self-confidence","personal success"])
+ 
+await doFillDinline(["communication skills","written and verbal","soft skill","40%","constructive criticism"])
+ 
+await doFillDinline(["should prepare for","automotive engineers should be skillful","necessary that all members should understand","that the staffs should follow","should have a basic knowledge"])
+ 
+await doFillDinline(["Despite limitation of work experience, you have to emphasize your good skills","As an automotive technician, you need to have ability to cope with changes","As an automotive technician, he is knowledgeable in all standard vehicle systems","With 10 years’ experience as an automotive engineer, I will make a contribution to the development of a company.","Having many years of experience, I gained knowledge about auto parts for different model vehicles"])
+ 
+await doFillDinline(["automotive technician","highly trained","experience","customer service","technical skills","problem-solving","responsibility","supervision"])
+ 
+await doFillDinline(["A","A","C","B","B","C"])
+ 
+await doFillDinline(["I am interested in your job opening for the position of an automotive engineer.","I have experience and educational background you are looking for","As requested, I have enclosed my resume with this letter for your further attention","I have completed my bachelor's degree in mechanical engineering","I have worked as an automotive engineer in Wheel and Motors for the past ten years.","I can develop new designs for different automotive equipment","I was appreciated for my work and honored for my designs","During these five years of time, I have built a strong business in my current organization"])
+ 
+await doClickBtn()
+ 

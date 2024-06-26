@@ -1,0 +1,76 @@
+await changeUnitByTitle('Unit 6: Life experiences')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doSortWords(["WIN A COMPETITION","RIDE A MOTORBIKE","MEET A FAMOUS PERSON","CLIMB THE ROCK/THE MOUNTAIN","COOK MEALS","CHECK YOUR EMAIL","SING KARAOKE","HAVE A QUARREL","GO SCUBA DIVING","STAY IN AN EXPENSIVE HOTEL"])
+ 
+await doFillabc()
+ 
+await doFillDinline(["cook meals","win a lottery","have a laptop","lose a game","check your mails","ride a bike","spend time on the Internet","work for a big company","live in a foreign company","climb the mountain"])
+ 
+await doFillDinline(["frightened","frightening","shocked","shocking","relaxed","relaxing","tired","tiring","annoyed","annoying","excited","exciting","depressed","depressing","disappointed","disappointing","worried","worrying","embarrassed","embarrassing"])
+ 
+await doFillDinline(["worried","excited","depressing","tired","embarrassing","interesting","relaxing","bored"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["bored","pass","embarrassed","sing karaoke","visit","work","ride","excited","travelling","depressing"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["stayed","stayed","rode","ridden","bought","bought","worked","worked","met","met","lost","lost","climbed","climbed","traveled","traveled","wrote","written","took","taken","gave","given","flew","flown","finished","finished"])
+ 
+await doFillDinline(["has won","have not flown","have not climbed","have given","has studied"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["met","Have","been","went","did not like","Have","been","Have","seen","went","saw","did not enjoy","said"])
+ 
+await doFillDinline(["been","gone","been","gone","gone"])
+ 
+await doFillDinline(["Have you ever tried Japanese food?","Have you finished writing your book yet?","I've never seen anyone who eats more than you.","Are there any letters for me? I've just seen the postman.","We went out to a restaurant yesterday.","I haven't been to Australia yet","I've just seen her. She was in clothes shop.","She has waited for him for two years","Nobody has ever said that to me before.","My brother has already drunk three coffees this morning."])
+ 
+await doFillDinline(["C:is","B: for","B: did you meet","A: died","C: more than ten years ago","A: have just met","B: flown","D: frightening","C: ever","B: annoyed"])
+ 
+await doFillDinline(["ocean","sand","water","wet","sat down"])
+ 
+await doFillDinline(["T","F","T","F","F","T"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","T","T","F","T"])
+ 
+await doFillDinline(["V","V","X","V","X","X","V","V","X","X"])
+ 
+await doFillDinline(["yesterday","No","crazy","karaoke competition","No"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Six","A bilingual secretary","To teach English","In a café","In 1997"])
+ 
+await doFillDinline(["T","F","T","T","F"])
+ 
+await doFillDinline(["J","R","A","R","J","A"])
+ 
+await doFillDinline(["11","1985","India","locusts","5"])
+ 
+await doFillDinline(["29 different countries","their ordinary lives","the US","Great Barrier Reef","his next adventure"])
+ 
+await doFillDinline(["Have you ever visited Ho Chi Minh museum in Hanoi?","My sister has ever met several famous people.","Her mother has already won a lottery.","They played my favourite songs and I danced all the evening","Nam has not been to Japan yet"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["I have never done a parachute jump.","No one in the town has broken the record. That is surprising.","James and Luck are interested in doing boxing, but they haven't done karate yet","Peter and Rod have just won a competition. That sounds interesting.","Mary and Lucy have been to Egypt three times"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["My brother started working for this company 2 years ago.","We have got married for 3 years.","It is the first time my son has climbed the mountain.","She is the most beautiful girl I have ever seen.","The train has just left the railway station three minutes ago."])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["watched","walked","laughed","picked","knocked","unlocked","washed","happened","called","listened","phoned","rained","whispered","opened","started","mended","wanted","decided"])
+ 

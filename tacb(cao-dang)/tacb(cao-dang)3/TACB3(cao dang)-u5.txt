@@ -1,0 +1,61 @@
+await changeUnitByTitle('Unit 5: Food and Drinks')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doFillDinline(["menu","bill","receipt","service","tip","starter","main course","dessert"])
+ 
+await doSortWords(["SERVICE","TIP","STARTER","MENU","DESSERT","NUTS","PASTA","SPINACH","SOYA","JUICE","VEGETABLES","GARLIC","ONIONS","BEANS","DAIRY PRODUCT"])
+
+await doSortWords(["BILL","SERVICE","RECEIPT","STARTER","MAIN COURSE","MENU","DESSERT","DAIRY PRODUCT","BEANS","PASTA","VEGETABLES","LAMB","STEAK","PORK","JUICE"])
+await doClickHearing2(0)
+
+await doFillDinline(["starter","Dairy","vegetables","garlic","Lamb","juice","Soya","onions","pepper","receipt"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["some","some","some","a","some","an","some","some","some","a","a","some","some","any","some","any","any","some","some","any","any","any","Some","some"])
+ 
+await doFillDinline(["a","a lot of","some","any","much","some","some","some","a","some","a lot of","a","some"])
+
+await doFillDinline(["all","any","none","much","a few","many","a lot","most","a little","no"])
+ 
+await doFillDinline(["like","would like","Would you like","like","Would you like","would like","Would you like","like"])
+ 
+await doFillDinline(["How much is this hat?","How much are these pants?","How much do these apples cost?","How much is the beef?","How much does this T-shirt cost?"])
+ 
+await doFillDinline(["B","like","D","some","A","like","C","little","D","any","B","are","A","a lot of","B","many","B","do","D","much"])
+ 
+await doFillDinline(["sandwich","pasta","salad","tomatoes","meal"])
+ 
+await doFillDinline(["T","F","F","T","F","F"])
+
+  
+await doFillDinline(["onion","carrot","red wine","meat","cheese"])
+ 
+await doFillDinline(["no","the fries","rice","cream","30 dollars"])
+ 
+await doFillDinline(["T","T","F","T","F","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["in western Russia","over 5,000 years ago","they ate it to help them fight better","because it tasted good","the Chinese"])
+ 
+await doFillDinline(["heart disease and stroke","dark chocolate","27 per cent","Flavonols","blood pressure"])
+ 
+await doFillDinline(["Most of days I start at 7 a.m but some days I don't start until 8 a.m","Would you like a cup of tea?","I write a lot of reports and I've spent most of the day writing one.","I like playing the piano in my free time","How much is the lamb?","Sometimes, it's hard to do all of work.","How much does it cost this T-shirt?","Some days are very difficult but sometimes I don’t have any problem","If I don’t have any work to do, I can go home early.","I get on well with all of the people at work and most of them are my friends."])
+
+await doFillDinline(["I spend a lot of","Would you like","I like","How much","I would like","A great number of"])
+ 
+await doFillDinline(["How much is the pork?","I would like some tea, please.","Would you like some wine with the beef?","I get on well with all the people and most of them are my friends","I like playing football with my friends in my free time."])
+ 
+await doFillDinline(["would you like","a lot of","much","How much","Would you like","a little"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

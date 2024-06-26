@@ -1,0 +1,70 @@
+
+await changeUnitByTitle('Unit 4: Tools')
+ 
+await doListeningPlayBtn()
+        await doListeningPlayBtn()
+        await doListeningPlayBtn()
+
+await doClickHearing2(0)
+await doSortWords(["TORQUE WRENCH","IMPACT WRENCH","OIL FILTER WRENCH","RATCHET","LIFTING EQUIPMENT","PULL OUT","TWIST","TOOLKIT"])
+ 
+await doSortWords(["HANDLE","MEASURE","SHANK","DRIVE IN","FASTEN"])
+ 
+await doFillDinline(["A","B","A","B","A","D","A","D","A","C","A","A","A"])
+  
+await doFillDinline(["Socket wrench","Toolkit","Shank","Jaws","Handle","Tip","Oil filter wrench","Toolbox","Jack","Ratchet"])
+ 
+await doFillDinline(["Bend","Pliers","Fasten","Wrench","Grip","pliers","Lift","Jack stand","Loosen","Slotted screwdriver","Tighten","Phillips screwdriver","Measure","Multimeter"])
+ 
+await doFillDinline(["pliers","screw","screwdriver","Torque wrench","jack","Hand tools","Measure","Tighten","pliers","slotted screwdriver","Phillips screwdriver","toolkit"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["three sixteenths","one quarter","five sixteenths","three eighths","one half","five sixteenths","seven sixteenths","nine sixteenths","three quarters"])
+ 
+await doFillDinline(["G","D","B","A","C","E","F"])
+ 
+await doFillDinline(["A","B","C","B","B","A"])
+ 
+await doFillDinline(["driving","install","cut","grip","raising","tightening"])
+ 
+await doFillDinline(["A","A","B","B","A","A","A","A"])
+ 
+await doFillDinline(["C","drive","C","tighten","C","keeping","D","pulling","D","turn","D","grip","A","What","D","loosening","B","to apply","D","prevent"])
+ 
+await doFillDinline(["wrenches","Ratchets","three","Phillips screwdrivers","toolbox"])
+ 
+await doFillDinline(["tightening","tires","Screwdrivers","six","cutting"])
+ 
+await doFillDinline(["Screwdrivers","February 19th","52","$19","by this Friday"])
+ 
+await doFillDinline(["box wrenches","10","2","14","Jane Tegal"])
+ 
+await doFillDinline(["in 1908","screws","500","color","the largest"])
+  
+await doFillDinline(["last year","19 mm","89","steel","4"])
+ 
+await doFillDinline(["Master mechanics","Five","In 2012","Under $3000","Makita"])
+ 
+await doFillDinline(["three","tighten","secure","screwdrivers","organize"])
+ 
+await doFillDinline(["hand tool","product offerings","tools and equipment","5% discount","four"])
+
+await doFillDinline(["manual, power","sockets","sockets","five","commercial purposes"])
+await doFillDinline(["in 1979","five","Taiwan, China","on website","Elaine"])
+await doFillDinline(["in Europe","flat","the damage","save time","a cross"])
+
+await doFillDinline(["Torque wrenches are used for applying specific torque to the bolts and nuts", "There are twenty-four sockets that fit different bolts and nuts", "All the tools handles are made of plastic which is an insulator.", "Stainless steel, which is corrosion- resistant, is used to make other parts of tools", "Toolbox is used for organizing, carrying, and protecting tools."])
+
+
+await doFillDinline(["How many bolts and nuts do you want to order?","What is the wrench used for?","What size of box wrench do you want to order?","When should the new pliers be delivered?","Where can the new box wrenches be delivered?","How much is the eighteen-centimeter screwdriver?"])
+ 
+await doFillDinline(["There are forty-four pieces in the toolbox.","Pliers are used to grip objects and bend wires","These are slotted screwdrivers for loosening and tightening screws","Phillips screwdrivers can help engineers drive the screws with cross shapes.","Box wrenches are designed to fit different sizes of bolts and nuts"])
+ 
+await doFillDinline(["Slotted screwdrivers are used to tighten screws with long narrow tips","The handle of Phillips screw is used for making plastic and shanking stainless steel.","Sockets are for fitting different nut sizes.","The function of pliers is to grip the bolts firmly.","Box wrenches are used to loosen nuts","Jack stand is to lift the car in the garage.","Multimeter is for checking problem in a car.","Impact wrench is a power tool which is used for installing and removing nuts, bolts and screws."])
+ 
+await doFillDinline(["John Henderson","order some new tool","box wrenches","missing","Phillips screwdriver","worn down","bolts","fit the new nut sizes","impact wrench","install and remove bolts, nuts and screws more easily","03292542268"])
+ 
+await doClickBtn()
+ 
+ 

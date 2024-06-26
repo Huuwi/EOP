@@ -1,0 +1,69 @@
+await changeUnitByTitle('UNIT 5: ROBOTICS')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+        await doSortWords(["SERVE", "APPLICATION", "ACTUATOR", "RECOGNIZE", "POSITIVE ASPECT", "WHEEL","ROBOT", "AFFORDABLE", "BENEFIT", "COMMAND", "PERFORM", "SENSOR", "ROBOTICS", "REPLACE", "AUTOMATED", "IMPROVE", "DETECT", "PROCESSOR", "INTERACT", "DRAWBACK", "GOOD POINT", "ARTIFICIAL INTELLIGENCE", "MIMIC", "CONTROLLER", "PROTECT"])
+ 
+await doFillDinline(["robot","Robotics","application","detect","sensors","processor","actuators","Artificial","automated","controller"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["contain","is powered","reduce","to improve","controlled","is shaped","weight","high","to take place","consists of"])
+ 
+await doFillDinline(["Robotic lawn mowers contain rain sensors if necessary.","Wakamaru's sensors helps detect self position, and collisions","Using robots helps explore dangerous places.","How far can this robot go?","Robots can be controlled by computer.","What parts does this robot consist of?","How heavy is Asimo?","How high can this robot reach?","Most robots can allow maintenance to take place during operations.","Robot fish is shaped like a fish."])
+ 
+await doFillDinline(["D - guide","B- save","A-has","B - keep","C - to work","A- powered","A- controlled","A-has","D - using","A- control"])
+ 
+await doFillDinline(["1","3","5"])
+ 
+await doFillDinline(["technology","building","future","problems","detect","computer","need","understand"])
+ 
+await doFillDinline(["T","T","F","T","T"])
+ 
+await doFillDinline(["belonged","movies","real","vacuum","friends","engineers","robots","happen","world"])
+ 
+await doFillDinline(["F","T","T","T","F","T"])
+ 
+await doFillDinline(["selling","housework","sale","available","shape","simply","number","recognizing","functions","looking","affordable"])
+ 
+await doFillDinline(["T","T","F","F","T","F","F"])
+ 
+await doFillDinline(["dangerous","human","machines","robotic","robots","repeat"])
+ 
+await doFillDinline(["robots","sea","position","hours","$14"])
+ 
+await doFillDinline(["created","group","called","tiny","different","computer","command","shape","place","position","speed","centimeters"])
+ 
+await doFillDinline(["small military tank","Slowly","radio frequency sensor","Josh Griffin","Yes"])
+ 
+await doFillDinline(["between","engineering","developed","cameras","sensors","watching","work","program","signal","work","technology"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","F","F","T"])
+ 
+await doFillDinline(["help","restaurants","short","snacks","pleasant"])
+ 
+await doFillDinline(["T","F","F","T","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["express","mimic","interact","good at","rules"])
+ 
+await doFillDinline(["T","T","F","F","T"])
+ 
+await doFillDinline(["What elements does this robot consist of?","This robot consists of five elements","Mars-Rover is 2.2 meters high.","Arachno-Bot is shaped like a spider.","Some robots are controlled by voice commands.","This red button is for changing the robot's speed.","Cameras allow a robot to have an image of its environment","Microphones allow robots to detect sounds.","Some robots are equipped with thermometers to sense temperature.","Robots need motors to move."])
+ 
+await doFillDinline(["Robots bring many benefits to humans.","Firstly, robots never get tired.","Secondly, some robots help humans explore dangerous places.","Moreover, they allow us to discover things","Besides, robots help us with housework.","Especially, robots can also fight sickness.","In addition, robots can replace household appliances such as vacuum cleaners","Furthermore, they allow us to save time.","Besides, robots can do all boring tasks without complaining","Last but not least, robots help us have a better life."])
+ 
+await doClickBtn()
+ 

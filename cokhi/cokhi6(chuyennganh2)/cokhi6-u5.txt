@@ -1,0 +1,80 @@
+await changeUnitByTitle('UNIT 5: JOB PORTFOLIOS')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+
+ 
+await doSortWords(["JOB DESCRIPTION","RECRUITER","PERSONNEL","RESPONSE","LEADERSHIP","CANDIDATE","COVER LETTER","CURRICULUM VITAE"])
+ 
+await doClickHearing2(0)
+await doSortWords(["RELEVANT","AMBITIOUS","DILIGENT","IMAGINATIVE","ORGANIZED","PATIENT","TRUSTWORTHY","ANALYTICAL","RELIABLE","MOTIVATED"])
+ 
+await doClickHearing2(0)
+await doFillDinline(["Curriculum Vitae","recruitment","relevant","reference letter","vacancy","recruiter"])
+ 
+await doFillDinline(["relevant","cover letter","analytical","Personal details","resume","Application","reference","response","Candidate","Appreciate"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["in","for","from","as","of","for","in","to","at","of"])
+ 
+await doFillDinline(["appreciate","speaking","am","have been working","will graduate","am","got","am writing"])
+ 
+await doFillDinline(["b","d","a","e","c"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["After","Therefore","if","because","Furthermore","As a result"])
+ 
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["B-have gained","D-learning","D-at","D-of","A-to apply","C-be","A-In addition to","B-in","C-because","B-However"])
+ 
+await doFillDinline(["address","position","relevant","success","contact","A4"])
+ 
+await doFillDinline(["cover letter","vacancy","position","relevant","knowledge","recruiter"])
+ 
+await doFillDinline(["Format","Email","A minute","Three","Second"])
+ 
+await doFillDinline(["format","resumé","charge","qualifications","candidates","experience"])
+ 
+await doFillDinline(["specific","resumé","dynamic"])
+ 
+await doFillDinline(["specific","manager","personality","simple","three"])
+ 
+await doFillDinline(["interviews","address","dynamic","candidate","competition"])
+ 
+await doFillDinline(["Audio maintenance","2003","Technician","Audio Technology","editing"])
+ 
+await doFillDinline(["Subcontract management","risk assessment","Mechanical","10 years","negotiable"])
+ 
+await doFillDinline(["personal details","National certificate","Inspection Technician","in 1990","Andrew Wood"])
+ 
+await doFillDinline(["personnel department","Engineering Technician","considerable experience","inspection technician","maintenance"])
+ 
+await doFillDinline(["5","employment history","knowledge","Skills and Abilities","bulleted list","basic template"])
+ 
+await doFillDinline(["Andrew Smith","Monster.com","7 years","around $90,000","an interview"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["B","D","C","A","F","E"])
+ 
+await doFillDinline(["C","E","A","G","F","D","B"])
+ 
+await doFillDinline(["I'am writing this letter to apply for the position of the senior mechanical engineer.","I graduated from Hanoi University of Industry with a Bachelor of Mechanical engineering and I have achieved high academic results during the time at university.","I have had one year experience of working as a mechanical engineering intern at Samsung Co.","My professional skills appear to be well suited to your Company's requirements","I'am looking forward to speaking with you in person to discuss further for this position","If you have any questions about my qualifications, please do not hesitate to contact me at hiennguyen123@gmail.com."])
+ 
+await doFillDinline(["As you can see from my enclosed résumé, my experience and qualifications match the job requirements.","I'look forward to arranging a meeting with you in person","I had a Bachelor's degree in Mechanical Engineering and an International certificate in English competence, B2","I am writing a letter to apply for the position of Mechanical Engineer which was advertised on HR.com","Should you have any question reviewing my qualifications, please do not hesitate to contact me:","In response to the February 24th advertisement in the Bangor Daily News, I have enclosed my resume for the Mechanical Engineer position","I'am also responsible for all operational and technical issues of mechanical system in ABC Company.","My professional skills appear to be well suited to your Company's requirements"])
+
+await doClickBtn()
+ 

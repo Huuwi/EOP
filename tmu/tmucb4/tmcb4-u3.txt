@@ -1,0 +1,68 @@
+await changeUnitByTitle('UNIT 3: SERVICE')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["logistics company","event manager","reliable","recommend","represent","furnishing service","investment service","assist"])
+ 
+await doFillDinline(["F","D","E","G","A","I","B","C","H","J"])
+ 
+await doFillDinline(["A","C","B","A","C","B","A","C","B","C"])
+ 
+await doFillDinline(["reliable","Innovative","convenient","flexible","reputation","reasonable","recommended","franchiser"])
+ 
+await doFillDinline(["parcel","founded","messages","deliveries","delivers","franchise"])
+ 
+await doFillDinline(["recommend","catering","babysitting","franchise","courier","insurance","logistics","telecommunication","recruitment","convenient","translation","reputation"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["more flexible","the most flexible","more reliable","the most reliable","better","the best","more profitable","the most profitable","more reasonable","the most reasonable","more expensive","the most expensive","narrower","the narrowest","wealthier","the wealthiest","more convenient","the most convenient"])
+ 
+await doFillDinline(["wider","smaller","more portable","easier","better","lower","good","larger","more sophisticated","more serious"])
+ 
+await doFillDinline(["more reasonable than","the most reliable","more flexible than","the most creative","more convenient than"])
+ 
+await doFillDinline(["translated into Japanese","your apartment cleaned","deliver home-cooked food","to organize their parties","translate personal documents"])
+ 
+await doFillDinline(["the best","the cheapest","the worst","the youngest","the most important","most popular","the most reliable"])
+ 
+await doFillDinline(["D","the most convenient","A","cheaper","C","translated","D","the most reliable","B","the largest","C","delivered","A","as","D","as","D","the most reasonable","A","more"])
+ 
+await doFillDinline(["C","D","B","A"])
+ 
+await doFillDinline(["personal assistant","have enough time","theatre tickets","himself","creative","delivery service","office","planning and shopping","cooking","customers"])
+ 
+await doFillDinline(["Foreign companies","German and French","Party service","It's more convenient","In the bank"])
+ 
+await doFillDinline(["Manila Languages Training Services","translating services","1 week","experts","find clients","well"])
+ 
+await doFillDinline(["Y","Y","Y","N","N","N","Y","N"])
+ 
+await doFillDinline(["B","A","A","C","A"])
+ 
+await doFillDinline(["F","F","T","F","T"])
+ 
+await doFillDinline(["job application service","fresh graduates","job vacancies","profile","applicants","mobile devices"])
+ 
+await doFillDinline(["F","F","F","F","T","T"])
+ 
+await doFillDinline(["B","A","A","A","B"])
+ 
+await doFillDinline(["arranged","in advance","in cash","agreed session","cancellation fee"])
+ 
+await doFillDinline(["catering services","services","stress-free","assist","pre-cooked"])
+ 
+await doFillDinline(["Are you going to get some business cards printed?","Do you usually have your lunch delivered?","Did you manage to get your computer repaired?","The company is having new headquarters built","I have to get a passport photograph taken."])
+ 
+await doFillDinline(["is not as good as","have my car repaired","the most reliable logistics company","the food delivered to","more expensive"])
+ 
+await doFillDinline(["C","B","D","B","B"])
+ 
+await doFillDinline(["My business partners want to have their product labels translated into Chinese by translation services","UPS courier service is as flexible as DHL service. However, its price is by far cheaper than DHL service","Busy parents get their children taken care of by Sunny-nanny babysitting service:","Christina Verger is the most reliable company in event planning service industry.","The number of people using catering service this year is three times as many as that last year."])
+ 
+await doFillDinline(["more reliable than translation services online","the most flexible staff in my company","needs to be sent as fast as possible","the same qualification as theirs","as flexible as him"])
+ 
+await doClickBtn()
+ 

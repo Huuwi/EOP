@@ -1,0 +1,73 @@
+await changeUnitByTitle('UNIT 3: INSTALLATION')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+
+await doSortWords(["CONSTRUCTION","CONTAMINANT","DEBRIS","ELECTRICAL PANEL","MAGNETIC FLUX","PREPARE","PRINCIPLE","TOLERANCE","INVESTIGATE"])
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["ACCESS", "BASE (ON)", "INSPECT", "INVESTIGATION", "LOCATION", "PREPARE", "RELEVANT", "TRANSFER"])
+
+await doClickHearing2(0)await doFillDinline(["Ventilation","Debris","Contaminant","Locate","Determine","Tolerance","Relieve","Principles","Voltage tester","Prepare"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["expose","careful","cut","smoke","Use","let","read","testing","installing","test","keep","let"])
+ 
+await doFillDinline(["Wear helmet","Be careful","Do not use mobiles","Drive under 50km","Do not wear gloves","Do not smoke"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["A","C","C","B","B","A","C","C"])
+
+ 
+await doFillDinline(["should","must","must","should","Can","must not","must not","should","must not","must"])
+ 
+await doFillDinline(["B - locate","A- push","B-use","C - placed","A- make","B - careful","B - exceed","A- be rushed","A- clean","B- read"])
+ 
+await doFillDinline(["manual","power drill","tape measure","attach","press","panels","cooling"])
+ 
+await doFillDinline(["air conditioner","instructions","screws","power drill","measuring tape","cut","attach","move","press","panels","cooling"])
+ 
+await doFillDinline(["20 amp","10","turn off","meter","ladder"])
+ 
+await doFillDinline(["20 amp","10","recommend","turn off","replacing","installing","test","meter","do","ladder"])
+ 
+await doFillDinline(["plastic","hammer","attach","locate","12","4"])
+ 
+await doFillDinline(["10 gauges","plastic","hammer","electrical box","attach","wire","locate","12","4","careful"])
+ 
+await doFillDinline(["accessing","tools","cleaning","inside","outside","5","10"])
+ 
+await doFillDinline(["power system","accessing","tools","cleaning materials","inside","outside","5","10"])
+ 
+await doFillDinline(["C","E","A","B","D","Cable installers","Telecommunication cables","diagnostic equipment","lines","book keeping","safety reasons","troubleshooting"])
+ 
+await doFillDinline(["cable installers","trucks","vans","customer service","latest technologies","color vision"])
+ 
+await doFillDinline(["E","A","D","B","C","2","Surrounding air","Diagonally across the room","50cm","Parameter"])
+ 
+await doFillDinline(["ventilation system","heat","opening","maintenance works","mounting base"])
+ 
+await doFillDinline(["D","C","A","B","X","O","X","O","X","O","X"])
+ 
+await doFillDinline(["draw leads","12 inches","pulley system","transformer leads","lower"])
+ 
+await doFillDinline(["B","A","D","C","four","adjustable shades","Power source","clamps","The lights"])
+ 
+await doFillDinline(["power cable","final adjustment","one meter","lights","the transformer"])
+ 
+await doFillDinline(["1,5 mm2 diameter","Fault","Thicker cable","unfixed pipe connections","Grey pipes"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Slide the tank on top of the blocks","Clean thoroughly flux at mating surfaces","The end of the tubing must be cleaned with a piece of steel wool","Begin heating the joint by turning on the torch and adjusting the flame about 3/4 inch long","Add some flux and solder the parts"])
+ 
+await doFillDinline(["temporarily thread the valve into the tank.","Reinstall the valve in the tank using an adjustable wrench.","Make sure that the open end of the valve points down.","A water heater needs a 30-amp circuit breaker and 10/2 (with ground) circuit cable","Join two white wires with connectors and two black wires with connectors","Replace the covering plate and your installation is done."])
+ 
+await doClickBtn()
+ 

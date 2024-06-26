@@ -1,0 +1,75 @@
+await changeUnitByTitle('Unit 7: Car safety features')
+ 
+await doListeningPlayBtn()
+ 
+await doClickBtn()
+ 
+await doClickHearing2(0)
+await doSortWords(["DEACTIVATE","DETECTION","VISUAL (ADJ)","HAPTIC","BLOCKAGE","MITIGATE","AUDIBLE","BLIND SPOT","SKIDDING","DETECT","STEER","LOSS OF CONTROL"])
+
+await doFillabc()
+ 
+await doFillDinline(["A","A","A","P","A","A","A","P","P","P"])
+ 
+await doFillDinline(["Pedestrians","lane","wheel blockage","steer","collide","advanced","detect","Haptic"])
+ 
+await doFillDinline(["mitigate","audible","visual","monitor","control","features","lane","detected"])
+ 
+await doFillDinline(["blind spot","lanes","pedestrian","control","blockage","absorbs","detected","Passive safety","advanced","steer"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["results in","result from","results in","result from","result from","result in"])
+ 
+await doFillDinline(["to","to","in","from","with","at","In","On","to"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["c","a","e","b","d"])
+ 
+await doFillDinline(["of","more","for","from","that","in","with","to","of"])
+ 
+await doFillDinline(["C","x","C","in mitigating","C","On","A","Like","A","to","B","On","C","eliminating","C","from","C","in","C","as"])
+ 
+await doFillDinline(["T","F","T","T","F"])
+ 
+await doFillDinline(["automakers","four stars","airbag","AEB","crash test"])
+ 
+await doFillDinline(["3","4","1","2","5"])
+ 
+await doFillDinline(["height","active safety","ABS","braking support","electronic","low-priced cars"])
+
+ 
+await doFillDinline(["Model 3","luxurious","two","larger","rear air conditioning"])
+ 
+await doFillDinline(["Tesla","bigger seats","BA","small families","sleek look"])
+ 
+await doFillDinline(["b","d","a","c","heavy braking","speed sensors","rotating","1985","proper techniques"])
+ 
+
+await doCheckBoxNeww(3)
+ 
+await doFillDinline(["anti-skid support","lane","severe crashes","poor conditions","design limits"])
+ 
+await doFillDinline(["T","F","NG","T","F"])
+ 
+await doFillDinline(["sedan","luxurious","European-like","five stars","seatbelt systems","supportive features"])
+ 
+await doFillDinline(["occupants","audible, visual, haptic","three","Brake Override","potential hazards"])
+ 
+await doFillDinline(["Passive safety systems are useful in reducing impacts on occupants in a car accident","Unlike Honda CR-V, which is only equipped with front airbags, Mazda CX 5 also offers rear and side curtain airbags","Heavy braking when a vehicle is running too fast may result in wheel blockage and vehicle skidding","The ultimate goal of all active safety features is the same, which is to improve road safety.","The function of ABS is similar to that of ESC. Both of them help mitigate the risks of car skidding."])
+ 
+await doFillDinline(["Drivers’ loss of control when driving may lead to severe accidents.","Active safety features are effective in helping drivers to avoid accidents","Unlike the active safety system, the passive one is only activated when accidents happen","Technological improvements have gradually led to the invention of many advanced safety features in recent years.","Electronic BA is expensive and takes up much space in a vehicle. On the other hand, mechanical BA is cheaper and takes up less space in a car."])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Unlike my old car, Model S has bigger seats and a larger cargo.","The braking system of Model S is the same as that of Model 3.","Different from the older model, the car comes standard with some high-tech features including rain sensing wipers.","In comparison with Model 3, Model S is equipped with rear air conditioning, which helps passengers in the rear feel comfortable","Model 3 is fully equipped with all basic safety features such as BA or ESC. Similarly, Model S also has these features."])
+
+await doFillDinline(["3","1","6","5","2","4"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

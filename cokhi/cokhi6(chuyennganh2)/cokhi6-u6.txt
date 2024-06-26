@@ -1,0 +1,79 @@
+await changeUnitByTitle('UNIT 6: JOB INTERVIEWS')
+ 
+await doListeningPlayBtn()
+await doListeningPlayBtn()
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["f","d","c","b","e","a"])
+ 
+await doFillDinline(["qualifications","experience","creativity","persistent","passionate","interpersonal","negotiation"])
+ 
+await doFillDinline(["analytical","challenging","characteristics","passionate","pressure","gained","workaholic","perfectionist","Pension schemes","probation"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["enjoyed","is","want","felt","am"])
+ 
+await doFillDinline(["D","A","C","B","E"])
+ 
+await doCheckBoxNeww(4)
+ 
+ 
+await doFillDinline(["good video","clean desk","huge difference","a lamp","computer screen","move around"])
+
+
+await doFillDinline(["confident","arrives early","first impression","sell yourself","good questions"])
+ 
+
+ 
+await doFillDinline(["on a website","software engineering","four years","goes swimming","bigger challenge"])
+ 
+await doFillDinline(["Vinfast","4","Yes","v.uyenbm@vinfast.vn"])
+ 
+ 
+
+ 
+await doFillDinline(["D","C","A","B"])
+ 
+await doFillDinline(["vehicles","CAD Engineer","in Hanoi","Bachelor's degree","three","basic"])
+ 
+await doFillDinline(["Mechanical Engineer","2","No","Hai Phong","competitive","5"])
+ 
+await doFillDinline(["F","F","T","F","F","T"])
+ 
+await doFillDinline(["A","C","D","B"])
+
+await doFillDinline(["skills, qualifications","Experience","educational background","Company culture","flexibility"])
+ 
+await doFillDinline(["F","T","F","T","T"])
+
+await doFillDinline(["My job mainly involves designing machine parts and inspecting projects","I would describe myself as a hard-working person.","I'am interested in a job with more responsibility and flexibility.","I don't have any experience but have willingness to learn.","I plan to become a mechanical engineer after graduating"])
+ 
+await doFillDinline(["I would say I'm a creative thinker and humorous.","I studied Computer Science at HaNoi University of Industry from 2015 to 2019.","I have worked as a mechanical engineer for about 2 years.","How can you make a good impression in a job interview?","This job recruitment requires at least 2 years of experience.","I'am a workaholic. I usually work overtime to get my job done:"])
+ 
+await changeUnitByTitle('UNIT 6: JOB INTERVIEWS')
+ 
+await doListeningPlayBtn()
+ 
+await changeUnitByTitle('UNIT 6: JOB INTERVIEWS')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["About educational background","About reasons for leaving/hiring","About working experience","About personal profile","About goals/ plans for future"])
+ 
+await doFillDinline(["applying","10 years of experience","leave","on probation","starting salary"])
+ 
+await changeUnitByTitle('UNIT 6: JOB INTERVIEWS')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["Firstly, can you tell me something about yourself?","So what experience have you had?","But why did you leave that company?","And what do you learn from that job?","Where do you see yourself being in the next 3-5 years?","Do you have any questions?"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

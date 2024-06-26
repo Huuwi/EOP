@@ -1,0 +1,72 @@
+await changeUnitByTitle('UNIT 7: I'm writing to apply for ...')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["curriculum vitae","bachelor degree","certificate","decisive","logical","fluently","professional","responsible"])
+ 
+await doFillDinline(["fluently","Bachelor degree","dedicated","logical","job vacancies","certificate","self-motivated"])
+ 
+await doFillDinline(["E","C","A","F","D","B"])
+ 
+await doFillDinline(["trustworthy","responsible","internship","certificate","bachelor","informatics","engineer","decisive","relevant","vacancies"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["I","C","H","E","A","G","J","B","F","D"])
+
+await doFillDinline(["apply","to be","learning","hearing","for","worked","with","to have","about","available"])
+ 
+await doFillDinline(["discuss","consider","hearing","make","agreeing","have","taking","learning","believe","make"])
+ 
+await doFillDinline(["to apply","to move","to hire","preparing","to work","saw","find","to hear"])
+ 
+await doFillDinline(["D","cover","C","to offer","A","included","A","believe","D","make","B","discussing","A","to develop","C","find","C","to submit","C","have given"])
+ 
+await doFillDinline(["an employer","writing their CV","Soft skills","skills and knowledge","easy"])
+
+ 
+await doFillDinline(["personal information","the second section","education","your internships","best visual design"])
+ 
+await doFillDinline(["F","T","F","F","T"])
+ 
+await doFillDinline(["3","best qualities","the position","a CV","best candidate"])
+
+await doFillDinline(["T","F","F","T","T"])
+
+await doFillDinline(["T","F","F","F","T"])
+ 
+await doFillDinline(["third","your statements","different word","the truth","Inaccuracies"])
+ 
+await doFillDinline(["reverse chronological","reduce the detail","your degree","four to five","hobbies and interests"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["F","F","T","F","T"])
+ 
+await doFillDinline(["Daily Graphic","chemical engineering","analyzing chemical components","communication and interpersonal","via email"])
+ 
+await doFillDinline(["I'am looking forward to exploring career opportunities with your company.","I believe my qualifications and experiences make me an ideal candidate for this job.","I realized that your requirements were an exact match of my competences.","I am confident that my qualifications and experience will be of great benefits to your company.","Please let me know as soon as possible when we can meet for an interview."])
+ 
+await doCheckBoxNeww(4)
+ 
+        await doFillDinline(["Thank you for taking the time to read and review my cover letter.", "I would be most grateful if you could consider me for any suitable positions.", "I will be available for interview at any time.", "I'look forward to hearing more about the position and the company.", "Please contact me if you have any questions regarding my application."])
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

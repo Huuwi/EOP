@@ -1,0 +1,32 @@
+await changeUnitByTitle('Unit 3: Neighbourhood')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)await doSortWords(["A POST OFFICE","A SUPERMARKET","A LIBRARY","A UNIVERSITY","A DEPARTMENT STORE","A GYM","A HOSPITAL","A TRAIN STATION"])
+ 
+await doSortWords(["A CHEMIST’S","A BOOKSHOP","A SUPERMARKET","A UNIVERSITY","A DEPARTMENT STORE","A GYM","A BUILDING","A TRAIN STATION","A BUS STOP"])
+ 
+await doFillDinline(["estaurant","ank","ost office","ark","upermarket","otel"])
+ 
+await doFillDinline(["hospital","car park","station","post office","bank","university","department","library","stop","bookshop"])
+ 
+await doFillDinline(["next to","behind","on","under","opposite","in","in front of","between","near"])
+ 
+await doFillDinline(["at","near","on","on","front","next","on","in","between","on"])
+ 
+await doFillDinline(["opposite","next to","museum","behind","near","theatre","on","between"])
+ 
+await doFillDinline(["on the corner","opposite","in","between","on the corner","Second"])
+ 
+await doFillDinline(["D","in","B","on","D","in","A","to grow","D","opposite","C","to","C","on","C","between","C","in","D","on"])
+ 
+await doFillDinline(["T","T","F","F","T","F","T","F","T","F"])
+ 
+await doFillDinline(["B","E","A","C"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Amsterdam","Limpopo","Berlin","Hongkong","London","Limpopo","Hongkong","London","Berlin","Amsterdam"])
+ 
+await doClickBtn()
+ 

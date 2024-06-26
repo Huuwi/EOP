@@ -1,0 +1,75 @@
+await changeUnitByTitle('Unit 5: Technical support')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doSortWords(["PROCEDURE","DEDICATED","RESOLUTION","PROFESSIONAL","SATISFACTION","AUTHENTIC","INFRASTRUCTURE","COMPLEXITY","OPERATIONAL","COMPREHENSIVE"])
+ 
+await doFillDinline(["Utilize","Authentic","Complexity","Satisfaction","Resolve","Safeguard","Vulnerability","Empathy","Empathize","Complexity","Operate","Operational","Professional","Reassure","Diagnostic"])
+ 
+await doFillDinline(["E","G","N","H","A","K","O","I","C","L","M","D","B","F","J"])
+
+await doCheckBoxNeww(4)
+ await doFillAll()
+  await doFillAll()
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["to set up","to call","visit","log in","to do","to update","go","got"])
+ 
+ 
+await doFillDinline(["he will be","I should call","my computer keeps","something happened","offers","I should go","run","error message was"])
+ 
+await doFillDinline(["will come","to set up","was","crashed","is","will take","caused","telling"])
+ 
+await doFillDinline(["who","why","which","where","how","which","who","when"])
+ 
+await doFillDinline(["to","about","for","about","with","to","through","on","for","on","with","to","on","about"])
+  
+await doFillDinline(["C","you have done","C","whether","C","which","B","about","B","to call","D","I should buy","B","my computer has run","C","happened","B","where","A","have been"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["professional","software version","understand","empathize and reassure","on the line","satisfaction"])
+ 
+await doFillDinline(["F","T","F","T","F"])
+
+await doFillDinline(["broken","XL909","reboot","5 seconds","settings"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Perez","1987","strong","ios","update"])
+ 
+await doFillAll()
+
+await doFillDinline(["IT infrastructure","oursourcing","vulnerabilities","more cost-effective","in-house"])
+ 
+await doFillDinline(["F","T","T","F","T"])
+ 
+await doFillDinline(["online support resources","eSupport","during national holidays","two business days","upgrade the software"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["solving common problems","the development team","three","break and fix","managed services"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["H","F","G","J","B","C","I","E","A","D"])
+ 
+await doFillDinline(["what you have done about my log in issue", "how long your resolution time is for network incidents", "what time the technician will come this afternoon", "which languages your instructional manual is available", "why I couldn't access the control panel of the printer", "I can install the program on my computer", "I can restore the phone to factory setting", "where the setting option was located"])
+ 
+await doFillDinline(["mind telling me how I can make the payment","who is standing over there is the head of Apex's purchasing department","whom I have just talked to can visit you","would like to know where your nearest office is located","apologize for what you have gone through","which made the system block your access","escalate your issue to an on-site technician","if it is possible to restore my phone to factory setting"])
+ 
+await doFillDinline(["Could you explain why my phone kept crashing when I open your application?","You can use the diagnostic software program that I have just installed on your computer to resolve similar problems","Do you know which store I could visit to replace my laptop battery?","I can assure you that I'm going to personally monitor your inquiry and make sure it's taken care of.","Could you tell me what time the technician will visit my office tomorrow?","Mr. John, who has used our service for 15 years, is one of our most important clients.","Would you mind telling me when the next version of your program is going to be released?","I apologize for the problems that you have experienced with our website."])
+ 
+await doFillDinline(["live chat","authentic","active listening","interrupt","confirm","empathy","problem solving","escalate","on-site support","satisfaction","letter of resolution","follow-up call"])
+ 
+await doClickBtn()
+ 

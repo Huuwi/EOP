@@ -1,0 +1,68 @@
+await changeUnitByTitle('Unit 6 - Preparation for a Job Interview')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["Curriculum Vitae","recruitment","relevant","referee","vacancy"])
+ 
+await doFillDinline(["curriculum vitae","personal details","Work experience","qualifications","Microsoft Office skills","References"])
+ 
+await doFillDinline(["relevant","cover letter","work experience","qualification","Personal details","resume","tailor","honor and awards","Application form","reference"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["of","to","of","for","in","on","to","with","in","of","for"])
+ 
+await doFillDinline(["Due to","Therefore","Furthermore","As a result","In addition to"])
+ 
+
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["am","was","am writing","accept","noticed"])
+ 
+await doFillDinline(["suited","considering","responsibility","combination","advertisement"])
+ 
+await doFillDinline(["B","in","A","As","A","Because of","A","graduated","D","with","B","responsibility","A","In addition","B","with","B","enthusiasm","D","personally"])
+ 
+await doFillDinline(["specific","manager","resume","personality","interest","simple","paragraphs"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["top tips","concise","brief profile","invent","spelling","job interview","good impression","average","ten minutes","employers"])
+ 
+await doFillDinline(["F","F","T","T","F","T","F","F","T","F"])
+ 
+await doFillDinline(["relevant","clearly written","tiny type","educational background","qualifications","internships","references","language skills"])
+ 
+ 
+await doFillDinline(["trendy creative agency","well-written","laziness","No","relevant experience"])
+ 
+await doFillDinline(["word processor program","benefit","excuse","Employers","layout"])
+ 
+await doFillDinline(["Career objective","skills","education level","call industrial attachment","competency section"])
+ 
+await doFillDinline(["Education","Work Experience","Activities","Certifications","Honors and Awards","References"])
+ 
+await doFillDinline(["Hanoi University of Industry","Remi Shop","Member of PR Team","TOEIC","Tran Van B"])
+ 
+ 
+await doFillDinline(["website","Business Administration","Customer Service Assistant","his previous manager","copy of resume"])
+ 
+await doFillDinline(["c","d","b","e","a"])
+ 
+ 
+await doFillDinline(["I graduated from Hanoi University of Industry in 2016 with degree in garment design","I am interested in applying for the position of technical staff in your company Maxsport","I'am writing in response to your advertisement posted on Vietnamwork Website:","Please accept this letter as my application for the position of designer in your company.","I took responsibility in managing a group of technical staff in my previous company."])
+ 
+await doFillDinline(["As you can see from my enclosed résumé, my experience and qualifications match this position's requirements.","It is a challenging position for which I believe I am well qualified","Thank you for considering me for this very important position","Working as a designer for Pink Boutique allowed me to deliver more effective and impactful designs.","In addition to clothes design work, I include video and animation, which are essential to digital marketing campaigns"])
+ 
+await doFillDinline(["c","e","a","g","I","b","h","d","f"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

@@ -1,0 +1,64 @@
+﻿await changeUnitByTitle('UNIT 7: PROFESSIONAL PORTFOLIO')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+
+ 
+await doSortWords(["ADDRESS","ANALYTICAL","APPLICANT","APPLICATION","APPLY FOR A JOB","AVAILABLE","APPRECIATE","BE WILLING TO (WORK OVER TIME)","CANDIDATE","CONSIDERATION","CONTACT","COVER LETTER","COVERING LETTER","DETAIL-ORIENTED","DYNAMIC","EXPERIENCE","EXPERIENCE IN SOMETHING","FIT","FIT THE JOB","FORMAT","IN RESPONSE TO","INTERNSHIP (N)","MAJOR IN SOMETHING","MOTIVATED","POSITION","POST","RELIABLE","RECRUIT","RECRUITER","REVIEW","SCHEDULE","SPECIFICS"])
+ 
+await doClickHearing2(0)await doSortWords(["ADDRESS","ANALYTICAL","APPLICANT","APPLICATION","APPLY FOR A JOB","AVAILABLE","APPRECIATE","BE WILLING TO (WORK OVER TIME)","CANDIDATE","CONSIDERATION","CONTACT","COVER LETTER","COVERING LETTER","DETAIL-ORIENTED","DYNAMIC","EXPERIENCE","EXPERIENCE IN SOMETHING","FIT","FIT THE JOB","FORMAT","IN RESPONSE TO","INTERNSHIP (N)","MAJOR IN SOMETHING","MOTIVATED","POSITION","POST","RELIABLE","RECRUIT","RECRUITER","REVIEW","SCHEDULE","SPECIFICS"])
+ 
+await doFillDinline(["fit","review","response","willing","analytical","experience","candidate","appreciate","contact","available"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["enjoy","appreciate","like","make","be","like","love","be"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["I am writing to apply for the post of electrical engineer advertised on vietnamwork.com","I'am writing to express my interest in the Electrical Technician position advertised on Monster.com.","I am writing to you to apply for the position of a senior electrical technician advertised on vietnamwork.com","You can contact me on the phone number or the email address mentioned above.","Try copying the phrasing of the skills mentioned in the job description.","We'll cover the things mentioned yesterday."])
+ 
+await doFillDinline(["A-appreciate","B-make","C-mentioned","D-advertised","B-make","D-for","C- make","D-advertised","B-mentioned","A-like"])
+ 
+await doFillDinline(["address","position","fit","success","contact","A4"])
+ 
+await doFillDinline(["position","experiences","fit","knowledge","recruiter"])
+ 
+await doFillDinline(["Format","Email","a minute","Three","Second"])
+ 
+await doFillDinline(["format","résumé","charge","qualifications","experience"])
+ 
+await doFillDinline(["specific","resumé","dynamic","Key words","qualities"])
+ 
+await doFillDinline(["interviews","address","dynamic","candidate","competition"])
+ 
+await doFillDinline(["Audio maintenance","2003","Technician","Audio Technology"])
+ 
+await doFillDinline(["specific","manager","personality","dynamic","three"])
+ 
+await doFillDinline(["internships.com","electrical engineering","5","2 years","industrial robot"])
+ 
+await doFillDinline(["A","C","A","D","B","Electrical supervisor","11 years","project management","safety mindset","commercial construction"])
+ 
+await doFillDinline(["vietnamwork com","Masters","Two","Freshers","DUSK45XL"])
+ 
+await doFillDinline(["PERSONAL DETAILS","PROFILE","EDUCATION","WORK EXPERIENCE","SKILLS AND INTERESTS","T","T","F","F","F","T"])
+ 
+await doFillDinline(["unique","keywords","specific","fit","submiting"])
+ 
+await doFillDinline(["C","A","B","D","F","E"])
+ 
+await doFillDinline(["Electrical Technician","10 years","Complex electrical grids","Focused and detail-oriented","Wiring tasks"])
+ 
+await doFillDinline(["T","F","F","T","T","T"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["response","advertised","knowledge","highly","Master's degree","position","available","experience","understanding","responsible"])
+ 
+await doFillDinline(["D","A","C","F","E","G","H","B"])
+ 
+await doClickBtn()
+ 

@@ -1,0 +1,47 @@
+await changeUnitByTitle('Unit 2: Things in a shop')
+ 
+await doListeningPlayBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["white shoes","black leather","leather coat","wool skirt","green dress","red trousers","yellow jacket","black and white tie","wool tank top"])
+ 
+await doFillDinline(["brown coat","white jacket","red pullover","white blouse","black trousers","red jeans","yellow sandals","black and white trainers","green tie"])
+ 
+await doFillDinline(["8","2","3","9","1","4","5","10","7","6"])
+ 
+await doFillDinline(["1","8","10","2","4","5","6","9","3","7"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["this","those","these","that","this","this","That","This","those","that"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Those","That","These","This","That"])
+ 
+ 
+await doFillDinline(["This","These","this","it","these","they","Those","These","that","it","that","This"])
+ 
+await doFillDinline(["Yes, what size is this shirt?","Where can I try it on?","How is it?","How much is it?","Do you take American Express?"])
+ 
+await doFillDinline(["apples","red","Six","orange","yellow","3.10 pounds","look","cake","much","brown"])
+ 
+await doFillDinline(["green","white","tie","black","trousers","skirt","blouse","blue","jeans","Jacket"])
+ 
+await doFillDinline(["d","c","e","a","b"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["it sells","The reason I like it is","is open","until eight o\"clock at night","The best time to go is","The people there"])
+ 
+await doFillDinline(["These are trainers","That is a pair of jeans.","This is a sweater.","Those are shirts.","These are coats."])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

@@ -1,0 +1,77 @@
+await changeUnitByTitle('UNIT 6: CLOTHING')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doSortWords(["SLIM","UNIFORM","SQUARE FACE","STRAIGHT HAIR","SKIRT","JACKET","SHORTS","GOOD-LOOKING","GENEROUS","OVAL FACE"])
+ 
+await doClickHearing2(0)
+await doSortWords(["COVERALLS","WEAR","JACKET","FACE SHIELD","STRAIGHT HAIR","BLONDE HAIR","TIE","WORK GLOVES","UNIFORM","TRAINERS"])
+ 
+await doFillabc()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["shorts","straight","oval","T-shirt","tie","cute","handsome","safety boots"])
+ 
+await doFillDinline(["handsome","shirts","generous","shield","trainers","suit","safety glasses","straight","round","uniforms"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["lying","printing","swimming","wearing","cooking","having","writing","playing","sitting","surfing","scanning","sending","repairing","driving"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["is reading","is","repairing","is not surfing","are watching","is wearing","am not scanning","is looking","are","doing","is talking","is having"])
+ 
+await doFillDinline(["is","am","is","does","do","are","is","do"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["are","looking","is sitting","is talking","are","looking","is going","works","give","am reading"])
+ 
+await doFillDinline(["A","is wearing","B","is wearing","B","at","B","like","B","is scanning","A","is","A","are","B","is studying","B","at","B","like"])
+ 
+await doFillDinline(["A","B","A","B"])
+ 
+await doFillDinline(["T","F","T","F","T"])
+ 
+await doFillDinline(["shirt","skirt","boots","jeans","shoes","shorts","trainers"])
+  
+await doFillDinline(["C","A","E","B","D"])
+ 
+await doFillDinline(["nice","sitting","dress","wine","school","talking","dancing","upstairs"])
+ 
+await doFillDinline(["Carlos","Colin","Ben","Trisha","Linda","Robin","Georgia"])
+ 
+await doFillDinline(["F","T","F","F","F","F"])
+ 
+await doFillDinline(["Ao dai","special occasions","trousers","fashionable","traditional"])
+ 
+await doFillDinline(["thirty","black","Toyota","suits","yes","helpful"])
+ 
+await doFillDinline(["Maidstone","No","by bus","uniform","hard"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","F","T","T"])
+ 
+await doFillDinline(["safety glasses","face shields","full face","safety boots","work gloves"])
+ 
+await doFillDinline(["The car salesman is answering customer's questions.","He is writing the dates of the meetings in his diary.","They are watching a film at the cinema.","They are sitting and surfing the Internet","Those girls are doing yoga at the gym.","Lionel Messi is playing football on the field","We are drinking coffee with our family at present","Emily is wearing a T-shirt and blue jeans now."])
+ 
+await doFillDinline(["Hung is working at Samsung company at the moment.","What do Carlos and Sophie look like? They are cute.","Elise’s husband is over there. He is wearing a blue safety vest.","Are Kim and Cuong working in the factory? No, they are not","Wait! Ann is using this photocopier to make copies of documents.","What is your new manager like? She is nice and generous","What are Jen and Cathy doing now? They are studying English.","Huong is not taking a shower now. She is sleeping in her bedroom"])
+ 
+await doFillDinline(["What does your boss look like?","Who is she talking about her new uniform with?","What is he repairing in his office?","Where is your father going on a business at present?","What are they like?","What is Nina wearing at the moment?","Where is she printing documents?","How many new houses is Mr. Hieu designing for customers?"])
+ 
+await doFillDinline(["is carrying a jacket","is standing at the bus stop.","is standing next to Alice.","are wearing glasses","is wearing a suit and tie"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

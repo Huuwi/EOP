@@ -1,0 +1,71 @@
+await changeUnitByTitle('UNIT 4: DIRECTIONS')
+ 
+await doListeningPlayBtn()
+await doClickHearing2(0) 
+ 
+await doClickHearing2(0) 
+ 
+await doSortWords(["ROUNDABOUT","MUSEUM","RESTAURANT","DEPARTMENT STORE","BUS STOP","CROSSROADS","T-JUNCTION","TRAFFIC LIGHTS","BRIDGE","CORNER"])
+ 
+await doClickHearing2(0) 
+ 
+await doFillDinline(["D","B","A","C","C","D","A","B"])
+  
+await doFillDinline(["go","crossroads","go straight","corner","T-junction","turn right","crossroads","go along","turn right","T-junction","go over","opposite"])
+ 
+await doFillDinline(["bookshop","post office","supermarket","railway station","workshop","museum","bridge","chemist","restaurant","meeting room"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["on","next to","next to","opposite","opposite","in front of","near"])
+ 
+await doFillDinline(["at","between","on","of","in","next","on","between"])
+ 
+await doFillDinline(["straight","Go","on","At","take","past","second"])
+ 
+await doFillDinline(["Excuse me","get","straight on","left","second","right","end","Turn","left","opposite"])
+ 
+await doFillDinline(["between","at the end","next","on","in front of","behind","next to","in"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["C","turn","D","to","D","and","B","on","C","of","C","go","D","is","D","next","A","How","D","I can"])
+ 
+await doFillDinline(["left","down","under","over","along","past","turn","up","past","on"])
+ 
+await doFillDinline(["4","2","5","3"])
+ 
+await doFillDinline(["F","F","T","T","F"])
+ 
+await doFillDinline(["post office","left","pub","café","bank","Italian restaurant","travel agent's","supermarket","right","bank","first street","left","left","chemist","first street","right","right"])
+ 
+await doFillDinline(["C","D","A","B"])
+ 
+await doFillDinline(["A","D","E","B","C","F"])
+ 
+await doFillDinline(["T","F","F","T","T","F","T"])
+ 
+await doFillDinline(["at 8 o'clock","by car","five minutes.","always busy","a tunnel"])
+
+await doFillDinline(["car park","petrol station","cinema","stadium","zoo"])
+ 
+await doCheckBoxNeww(4)
+  
+await doFillDinline(["In America","By bus","Her father","Tired","A garage"])
+ 
+await doFillDinline(["T","T","F","T","F","T","F"])
+ 
+await doFillDinline(["fifty thousand","ferry","safe","a big stadium","fly kites"])
+ 
+await doFillDinline(["The post office is between the restaurant and the music shop.","The café is on the right of her house.","Where is the bookshop?","The children like playing football in front of their house.","The restaurant is on the corner of Museum Road and Seafront Road."])
+ 
+await doFillDinline(["The museum is opposite the bookshop.","The Toyota company is on the corner of Park Street and Hill Street","Is the department store between the car park and the post office?","Can you tell me where the meeting room is?","The bank is next to the supermarket"])
+ 
+await doFillDinline(["Take the first street on the left.","Go straight and cross the road.","He does not know the way to the restaurant","Excuse me, do you know the way to the bank?","Could you tell me where the Italian restaurant is?"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doClickBtn()
+ 

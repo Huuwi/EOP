@@ -1,0 +1,75 @@
+
+await changeUnitByTitle('Unit 6: Car Engines')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0) 
+
+await doSortWords(["COMBUSTION ENGINE","CRANKSHAFT","ENGINE BLOCK","COMPACT","PERFORMANCE","TORQUE","VALVE"])
+ 
+await doClickHearing2(0) 
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["connectâing rod","sump","cylinder","valve","engine block","crankshaft"])
+ 
+await doFillDinline(["combustion","fuel","spark plug","piston","crankshaft","cylinders"])
+ 
+await doFillDinline(["chamber","connecting rod","crankcase","crankshaft","piston","inline","compression","mixture","head","ignition"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["of","of","to","to","to","to"])
+ 
+await doFillDinline(["because of","because","because","Because of","because","because of"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillabc()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["C","X","B","of","C","X","A","to","D","with","B","X","A","to","C","of","A","with","A","are"])
+ 
+await doFillDinline(["acceleration","smaller engine","performance","engine size","test drive"])
+ 
+await doFillDinline(["fuel economy","more fuel","smaller","performance","technology"])
+ 
+await doFillDinline(["four-cylinder","inline","large","lighter","No"])
+ 
+await doFillDinline(["similar","a crankshaft","inside cylinders","combustions","sparks","strongly"])
+ 
+await doFillDinline(["T","T","F","T","F"])
+ 
+await doFillDinline(["100","limited","hydrogen","Hoerbiger","ignition","yes"])
+ 
+await doFillDinline(["the power","inside the engine","powering the car","similar","a spark","compression ignition engine"])
+ 
+await doFillDinline(["cylinder block","cylinders","two","movable","cylinder head"])
+ 
+await doFillDinline(["five","premium","No","flat","Volkswagen","rarely"])
+ 
+await doFillDinline(["important","four-cylinder inline-four","low","front-wheel-drive cars","complex","straight-six"])
+ 
+await doFillDinline(["four-stroke","intake stroke","vacuum pressure","the piston","high compression","crankshaft","exhaust valve"])
+ 
+await doFillDinline(["confined space","alternative","inexpensive","fuel injectors","nitrogen oxides","Power output"])
+ 
+await doFillDinline(["because of their friendliness to the environment","since they are much quieter.","as they run on clean energy source","as a result of the depletion of fossil fuels","in comparison with diesel or gasoline engines"])
+ 
+await doFillDinline(["due to their larger and more powerful engine:","as a result of their outdated technology in car industries","as you may make a wrong decision when purchasing a car.","owing to its reasonable price.","because it's very easy to find charging stations on the road","due to its requirement of high running cost"])
+ 
+await doFillDinline(["In comparison with other fuels hydrogen in ICEs has high self-ignition temperature.","Hydrogen in ICEs requires very little energy to ignite it compared to diesel or gasoline.","A large turbocharged V6 can have less power in comparison with a small one.","Now the stronger engine can have the same number of cylinders compared to the lesser one.","Diesel vehicles tend to last longer in comparison with gasoline vehicles"])
+ 
+await doFillDinline(["Today's diesel engine vehicles are more fuel efficient compared to their gasoline engine.","A lot of SUVs and pickup trucks have diesel engines as they offer more power than gasoline engines.","A diesel engine car made quieter in recent years by its manufacturer.","The service cost for diesel engines is quite high.","Diesel engines require fuel quality to maintain a healthy performance:"])
+ 
+await doFillDinline(["A","B","B","C","A"])
+ 
+await doClickBtn()
+ 

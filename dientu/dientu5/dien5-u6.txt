@@ -1,0 +1,90 @@
+
+await changeUnitByTitle('UNIT 6: DATA ANALYSIS')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(1)
+ 
+await doSortWords(["DRAMATIC","FIGURE","CONSTANT","REFER","STEADY","DROP","DOWNWARD","TREND","BAR GRAPH/ BAR CHART","GRADUAL","RISE=INCREASE","REMAIN","LEVEL OFF","FLUCTUATE","DECLINE=DECREASE","UPWARD","SIGNIFICANT","REMAIN STEADY","DEMONSTRATE","MAJORITY","LINE GRAPH/ LINE CHART","MINORITY","ILLUSTRATE","PERCENTAGE","SUDDEN","REPRESENT","ACCOUNT FOR=MAKE UP","PEAK"])
+ 
+await doFillDinline(["sudden","represent","trend","minority","refer","accounts","remained","increase"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["b","c","a","d","e"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["rise","growth","decline","fall","fluctuate","significant","sharply","slightly","sharp","dramatic","constant","suddenly","steadily","slowly"])
+ 
+await doFillDinline(["g","f","b","a","c","e","d"])
+ 
+await doFillDinline(["b","c","f","d","e","a"])
+ 
+await doFillDinline(["There was a significant rise","increased suddenly","There was a significant increase","There was a dramatic growth","There was no change","There was a sharp increase"])
+ 
+await doFillDinline(["C","sharply","B","dramatically","B","sudden","B","sharply","B","slight","B","significantly","C","suddenly","B","gradual","B","dramatically","C","sharply"])
+ 
+await doFillDinline(["b","a","c"])
+ 
+await doFillDinline(["significant rise","thirty","gone up","significant decrease","fall","stayed the same","levelled out"])
+ 
+await doFillDinline(["a","c","b"])
+ 
+await doFillDinline(["peaked","below","increased significantly","dramatic rise","fell dramatically","increase gradually","dramatic increase","fell"])
+ 
+await doFillDinline(["rose","11 percent","20 percent","slow down","growth","growth rate"])
+ 
+await doFillDinline(["c","a","b"])
+ 
+await doFillDinline(["increased","reached a peak","fallen","upward","dramatic fall","sharp fall","decline","difficult","change","have not increased"])
+ 
+await doFillDinline(["b","c","a"])
+ 
+await doFillDinline(["a","a","b","a","b"])
+ 
+await doFillDinline(["data","numbers","cost","relationship","breakdowns"])
+ 
+await doFillDinline(["T","F","F","T","T"])
+ 
+await doFillDinline(["graph","represent","gone up","considering","line graphs","visual"])
+ 
+await doFillDinline(["e","d","c","f","b","a"])
+ 
+await doFillDinline(["four","smartphones and laptops","desktop computer","yes","smartphones"])
+ 
+await doFillDinline(["smartphone","33","laptop","desktop computer"])
+ 
+await doFillDinline(["pie","tablet","majority","difference","Thirty percent","accounts","minority","expect"])
+ 
+await doFillDinline(["engineering","remained level","relatively low","grew steadily","majority"])
+ 
+await doFillDinline(["a","b","a"])
+ 
+await doFillDinline(["T","F","T","T","F"])
+ 
+await doFillDinline(["a","a","a","b","b"])
+ 
+await doFillDinline(["a","b","a"])
+ 
+await doFillDinline(["a","c","b","a","a"])
+ 
+await doFillDinline(["energy consumption","electric blanket","microwave oven","television","pool pump","spa","$90","domestic equipment"])
+ 
+await doFillDinline(["c","a","c","a","b"])
+ 
+await doClickBtn()
+  
+await doFillabc()
+ 
+await doFillDinline(["represents","rose","went up","remained stable","climbed"])
+ 
+await doFillDinline(["There was a significant fall","There was a steady rise","There was a rise","rose significantly","increased suddenly","increased significantly"])
+ 
+await doClickBtn()
+ 

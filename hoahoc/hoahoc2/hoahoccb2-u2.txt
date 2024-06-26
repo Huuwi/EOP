@@ -1,0 +1,74 @@
+await changeUnitByTitle('UNIT 2: MY FAVOURITE COUNTRY IS ...')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0) 
+ 
+await doSortWords(["VIETNAMESE","ENGLISH","AMERICAN","CHINESE","KOREAN","JAPANESE","FRENCH","BRAZILIAN","GERMANY","SPANISH","CANADIAN","THAILAND","AUSTRALIAN","RUSSIAN","ITALIAN","SINGAPOREAN"])
+ 
+await doFillDinline(["Vietnamese","England","American","China","Korean","Japan","French","Brazilian","Germany","Spanish","Thailand","Irish","Mexican","Portugal","Russia"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Germany","Spain","Portugal","French","England"])
+ 
+await doFillDinline(["Canada","Japanese","Irish","Chinese","German","Vietnamese","Korean","Thailand"])
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0) 
+ 
+await doFillDinline(["American","popular","English","capital city","Irish","cleanest","Germany","famous","environmentally","oil-producing"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["does","does","speaks","Are","they are not","Does","speaks","is","are","Is","she is not","Are","they are not","are"])
+ 
+await doFillDinline(["London city is not in France. It is in England.","Their grandparents are not from Germany. They are from Canada.","Her boyfriend's nationality is not Japanese. It is Korean.","The cleanest country in the world is not Singapore. It is Iceland.","The chemist Elias James Corey is not Russian. He is American.","We do not speak Vietnamese and English. We speak Chinese.","Tom Cruise and Tom Hanks are not from Brazil. They are from America","The top oil-producing country in the world is not Mexico. It is Brazil","She is not an Italian famous Chemist. She is an Irish famous Chemist.","He does not speak English at home. He speaks Spanish at home:"])
+ 
+await doFillDinline(["What nationality is your girlfriend?","e","Where does she come from?","g","Is your Chemistry teacher Brazilian?","b","Are Yoon and Ming from Japan?","f","What languages does she speak?","a","Are you from the United States?","c","Does your brother speak Korean?","d"])
+
+await doFillDinline(["How are you doing today?","Do you speak English?","Are you from Seoul?","is your language Korean?","Yes, I'm Vietnamese","What nationality are you?","what languages do you speak in your country?"])
+ 
+await doFillDinline(["D","Portuguese","A","German","A","is","B","the","B","Korea","C","is","D","No","D","France","A","are","B","English","D","Russian","A","has"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["b","a","c","b","a","c","b"])
+ 
+await doFillDinline(["Canada","American","French","English","Mexico","Portuguese"])
+ 
+await doFillDinline(["Australia","France","China","USA","Spain","fantastic","Japan","UK","Canada","great"])
+ 
+await doFillDinline(["T","T","F","F","T"])
+ 
+await doFillDinline(["Spanish","thirteen","top oil-producing countries","English","exciting and fantastic","clean environment"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["B","D","A","B","D","D","C","C"])
+ 
+await doFillDinline(["English","Seoul","friendly","cheap","German","Chemistry","Paris","countryside"])
+ 
+await doFillDinline(["T","F","T","F","T","F","F","T","T","F"])
+ 
+await doFillDinline(["a television set","walking and swimming","watching TV","around the home","gardening, swimming, golf"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Are her parents from Thailand?","Otto Hahn was a famous German chemist","Their children speak French at school.","Singapore is an environmentally friendly country.","What is your nationality?","The Singaporeans speak English and Chinese.","His friends are from the United States","Marie Curie was a Polish-French chemist.","Vietnam is famous for many beautiful places","How many languages does her boyfriend speak?"])
+ 
+await doFillDinline(["What language do his friends speak?","What is the cleanest country in the world?","Is he Russian?","What is the capital city of Korea?","What language do you speak in Chemistry class?","What nationality is his girlfriend?","What is Korea famous for?","How is the environment in Australia?"])
+ 
+await doFillDinline(["are your grandparents?","the language in your country?","his language.","is her country?","German their language?","popular in Hanoi","playing hockey"])
+ 
+await doFillDinline(["Her name is Allison","She speaks English and Spanish","She is from Miami, Florida, in the USA","The capital of the USA is Washington, D.C","In her country, the national sports are football and baseball.","Her favorite food is hamburgers","Leonardo Dicaprio is a famous American actor","His name is Luigi","He speaks Italian","He is from Milan in Italy","The capital city of Italy is Rome","Italy is famous for its food","His favorite food is pizza and pasta","Football is very popular in his country","Milan is the best team in the world","Eros Ramazzoti is a famous Italian singer"])
+ 
+await doClickBtn()
+ 

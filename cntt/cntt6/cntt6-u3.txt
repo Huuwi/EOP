@@ -1,0 +1,76 @@
+await changeUnitByTitle('Unit 3: Installation and Maintenance')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0) 
+ 
+await doClickHearing2(0) 
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["device manager","device driver","expansion card","Disk cleanup","boot","partition"])
+ 
+await doFillabc()
+ 
+await doFillDinline(["boot","partition","expansion cards","modem card","installation","configuration","installing","reboot"])
+ 
+await doFillDinline(["CMOS setup","default","expansion cards","Partitioning","Disk Cleanup","boot","installation","defragment","Device drivers","BIOS"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["First","Type","If","Ask","Then","Next"])
+ 
+await doCheckBoxNeww(4)
+  
+await doFillDinline(["e","so","a","to","f","because","c","to","b","so","g","if","h","if"])
+ 
+await doFillDinline(["To keep","bring","make","to keep","refer","to install","be"])
+ 
+await doFillDinline(["next","that","if","so that","in order","to","Unless","but"])
+ 
+await doFillDinline(["True","plug","turn on","configure","to help","to connect"])
+ 
+await doFillDinline(["C","send","A","for","A","Follow","C","that","A","If","C","finally","B","don't","B","be","A","to","B","first"])
+ 
+await doFillDinline(["F","T","F","T","F"])
+ 
+await doFillDinline(["Windows 8 DVD","No thanks","Windows 8 architecture","restarts","color"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["necessary drivers","update","website","device manager","restart"])
+ 
+await doFillDinline(["Windows XP","the store","the spacebar","partition","NTFS system"])
+ 
+await doFillDinline(["hard drive","download folders","option","screen and keyboard","software"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["F","T","T","T","T"])
+ 
+await doFillDinline(["BIOS setup program","down arrow","United States English","product key","20GB"])
+ 
+await doFillDinline(["physical connections","cooling fan","temporary Internet files","a disk cleanup","delete"])
+ 
+await doFillDinline(["damage","3","download and install it","“support”","self-installing"])
+ 
+await doFillDinline(["Five","data loss","other harmful programs","bug fixes","unnecessary files","physical cleaning"])
+ 
+await doFillDinline(["a","c","c","b","a"])
+ 
+await doFillDinline(["Defragmenting is important to keep your hard drive healthy and your computer up to speed.","You install a computer program so that you can do new things by using those programs.","If your computer is wearing out, consider backing up all your files and reinstalling your operating system.","In order for you to install Windows 10, your Windows 10 installation file must be loaded onto a disc or a flash drive.","Download drivers from the manufacturer's website if you have no disc or the Device Manager doesn't allow you to update."])
+ 
+await doFillDinline(["Reset settings to the default if you are reusing a component from another system.","Most printers require that you install the latest printer driver so that the printer will work well","You should delete the temporary files or no longer used files in order to free up space on your hard drive","You should check manufaturer’s websites for getting suggestions for optimizing system settings","If you are an owner of a website, make sure you consult an IT expert to keep your websites safe and secure."])
+ 
+await doFillDinline(["To","Second","installs","then","If","click","Next","insert","drivers","Finally"])
+ 
+await doClickBtn()
+ 

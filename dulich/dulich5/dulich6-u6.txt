@@ -1,0 +1,66 @@
+await changeUnitByTitle('UNIT 6: INVESTMENT')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["dividend","ownership","stock exchanges","index","real estate","mutual fund","securities","returns","session","issue"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["8","5","1","7","3","4","2","6"])
+
+await doFillabc()
+ 
+await doFillDinline(["to","at","from","by","of","between","in"])
+  
+await doFillDinline(["be divided","levelled off","to look at","will notice","to announce","draw"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["A","by","A","would like","C","of","B","in","A","of","D","to","C","sharply","B","to announce","B","slight","B","by"])
+ 
+await doFillDinline(["high income, capital growth","foreign exchange market","bullish","a good return","to spread the risk"])
+ 
+await doFillDinline(["F","T","F","F","T"])
+ 
+await doFillDinline(["blue-chip company","closing price","return","price","profits"])
+ 
+await doFillDinline(["gold","blue-chip","4.3","in 1970","real estate"])
+ 
+await doFillDinline(["traded","the company","profits","shareholders","raise funds","good reputation","poor reputation"])
+ 
+await doFillDinline(["F","T","F","T","T"])
+ 
+
+await doFillDinline(["T","F","F","T","T"])
+ 
+await doFillDinline(["good returns","economic","inflation","fail","investment"])
+ 
+await doFillDinline(["voting right","company, issuer","inversely","investment manager","commercial real estate"])
+ 
+await doFillDinline(["fund manager","securities","earn a return","capital gain","investing strategy"])
+ 
+
+ 
+await doFillDinline(["owners, lenders","two","interest","fixed income","debt agreements"])
+ 
+await doFillDinline(["stable development","growing housing demand","continuously low","social housing","the Government"])
+
+ 
+await doFillDinline(["at","into","of","peak","sum"])
+
+ 
+await doFillDinline(["There was an increase of","Let me show you","reached a peak of","There was a sharp growth in","To sum up"])
+ 
+await doFillDinline(["Housing index in South Korea increased to 102.50 index points in November 2017.","The company’s profits increased by two million dollars in the first quarter of 2017.","As you can see, a peak of 1230 points was reached by the house prices between the first quarter and the last quarter of 2017","Let me show you a line chart which gives the figures about investment risk.","To conclude, I am happy to announce that the stock market will remain positive in 2018."])
+
+ 
+await doFillDinline(["represents","rose","increased","remain constant","declined"])
+ 
+await doFillDinline(["The line chart represents the movement of gasoline prices in Vietnam in 2017.","The chart can be divided into two parts which is the movement of Vietnamese gasoline prices in the first quarter and in the second quarter.","There was a sharp decline of about $0.12 per liter in the gasoline prices from January to June.","The prices grew sharply from $0.72 per liter in July to $0.82 per liter in November.","The gasoline prices in Vietnam decreased to $0.80 per liter in December."])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

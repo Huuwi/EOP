@@ -1,0 +1,47 @@
+await changeUnitByTitle('Unit 1: Study at university')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["The man whose Industrial Machines course I am taking is a famous teacher at my college.","I thanked the people who helped me to improve my time management skills.","Everyone who has bad results of paper tests cannot meet the entry requirements of Samsung Company.","I should have a design certificate that is necessary for my future job","Fluid Engineering is a subject which concentrates on heat and fluid flow processes."])
+ 
+await doFillDinline(["The students who get an average of 7 points each subject in final exams can meet the entry requirements for this university.","The student whom I met yesterday got the highest point in Olympic Physics Competition last year.","The university facilities that were upgraded last year are very modern.","I'am looking for a college which trains mechanical engineering","The lab equipment of this university is constantly upgraded, which made me choose it."])
+ 
+await doFillDinline(["Why do you choose to learn Mechanical Engineering?","How long does the mechanical engineering course last?","What time does your class start and finish every day?","What do you hope to do after you finish the course?","How many classes do you have a week?","What is the most difficult subject to learn?"])
+ 
+await doFillDinline(["C","provides","B","who","D","concentrates","C","that","B","whose","A","who","C","delivers","A","like","D","include","A","am"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["5","4","1","3"])
+ 
+await doFillDinline(["F","T","F","T","F","T"])
+ 
+await doFillDinline(["color","folders","subject","notes","pages","calendar"])
+ 
+await doFillDinline(["library","2","computer","sign up","drinks","program"])
+ 
+await doFillDinline(["certificate","full-time","a year","twelve"])
+ 
+await doFillDinline(["E","H","D","C","B","F","G","A"])
+ 
+await doFillDinline(["a technical college","a qualification","the subject principles","communication","two years"])
+ 
+await doFillDinline(["Mechanical engineering","machines","five years","Japanese","research engineer"])
+ 
+await doFillDinline(["Mechanical Engineering","academic","professors","experimental equipment","extra-curricular"])
+ 
+await doFillDinline(["full-time","3years","foundation","practical","project"])
+  
+await doFillDinline(["F","T","F","T","F"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+await doFillDinline(["are you doing","are doing","'m studying","’s","'s","graduating","'ll have","'m learning","re","to hear"])
+ 
+await doFillDinline(["2","4","1","6","3","5"])
+ 
+await doFillDinline(["I hope everything is great","Looking forward to hearing from you soon.","I'm a second-year student at Hanoi University of Industry now.","I major in Mechatronic Engineering, which is a full-time course."])
+ 
+await doClickBtn()
+ 

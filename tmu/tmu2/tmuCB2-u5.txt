@@ -1,0 +1,78 @@
+await changeUnitByTitle('UNIT 5: TRAVEL')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["E","A","D","F","B","C"])
+ 
+await doFillDinline(["fare","platform","single ticket","return ticket","receipt"])
+ 
+await doFillDinline(["journey","flights","aisle seat","book a hotel","depart"])
+ 
+await doFillDinline(["single","journey","arrives","departs","reserve","platform","receipt"])
+ 
+await doFillDinline(["aisle seat","double room","platform","single room","twin room"])
+ 
+await doFillDinline(["book","fare","receipt","journey","depart","arrive"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doClickBtn()
+ 
+await doFillDinline(["book a flight","would you like","arrives in","a window seat","from the airport"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["B. would","C. booked","B. Can","B. does","A When","B. take","C.to"])
+ 
+await doFillDinline(["would like","Would","Do","would like","like"])
+ 
+await doFillDinline(["book","arrives","to book","take","Can"])
+ 
+await doFillDinline(["would like","tell","is","arriving","leaving","have","require","Can","is"])
+ 
+await doFillDinline(["help","booked","reservation","single room","fully"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["F","F","T","F","T","F","T","F","F","T"])
+ 
+await doFillDinline(["platform 3","platform 2","13.50","Liverpool","18:30","platform 2","4:20"])
+ 
+await doFillDinline(["10:40","return","single","train","ticket","here you are","arriving","arriving","leave","Let me see","missed","here it is","lucky"])
+ 
+await doFillDinline(["BAUMANN","2 nights","2124742285","407","7-10 a.m"])
+  
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","T","F","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["check in","a security check","hand luggage","duty free shop","an announcement"])
+ 
+await doFillDinline(["Her favorite transport is the car.","Because it provides freedom","The car causes pollution and damages the environment","Yes, it does"])
+ 
+await doFillDinline(["T","F","F","T","F","T"])
+ 
+await doFillDinline(["Mr. Smith","456","12734","9:15","Aisle seat","4","6"])
+ 
+await doFillDinline(["Are there any flights to Zurich tonight?","I want to make reservation for a single ticket to Los Angeles.","I would like to book a double room on the first floor.","He prepared carefully for his long journey last week.","When is the next flight?"])
+ 
+await doFillDinline(["Good afternoon. Super Star Hotel. How can I help?","Let me see. How many people is it for?","I need to book a single flight to Paris for my boss.","Ok, we have a twin room available for that night. How many nights do you want to stay?","How long does the journey from Ha Noi to Quang Ninh take?","Can I have a receipt, please? Sure. Here you are.","Can you tell me where to get off?","I am sorry but we are fully booked on the 20 th of October."])
+ 
+await doFillDinline(["Sorry, could you say that again?","Can I have a receipt, please?","What time is the next train?","Which platform does it leave from?","How long does the journey take?","Thanks very much for your help."])
+ 
+await doClickBtn()
+ 
+await changeUnitByTitle('UNIT 6: CITY AND COUNTRY')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)

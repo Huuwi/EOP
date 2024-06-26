@@ -1,0 +1,58 @@
+await changeUnitByTitle('UNIT 7: PROJECT PLANNING')
+ 
+await doClickBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["LAUNCH","PURCHASE","EXPECT","HANDLE","INSPECT","ELECTRICAL BLACKOUT","BUDGET","ESTIMATE","WIFI ROUTER","EFFICIENCY","TROUBLE REPORT","BACK-UP PLAN","OCCUR","BREAK DOWN","FORESEE"])
+
+await doSortWords(["SET DEADLINE","PURCHASE","OCCUR","WIFI ROUTER","ESTIMATE","FORESEE","BREAK DOWN","LAUNCH","HANDLE","EFFICIENCY","INSPECT","BUDGET"])
+ 
+await doFillDinline(["estimate","quotation","purchase","operation","budget","predicted","expects","deadline","report","inspection"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["will","Are you going to","will","will","will","is going to","are going to","will","are going to","will","will"])
+  
+await doFillDinline(["More expensive","the most expensive","reasonable","the most reasonable","longer","the longest","efficient","more efficient","more conductive","the most conductive","thick","the thickest","more appropriate","the most appropriate","powerful","more powerful","more difficult","the most difficult","convenient","the most convenient","harder","The hardest"])
+ 
+await doFillDinline(["e: We have here two pumps and a 50-metre wire","f: We will lack budget and staff during the project","c: We need a high-quality diesel engine driven electricity generator for electrical blackout","a: The project will be broken down into 5 tasks","h: The project is going to be started at the beginning of new year","g: We require 3 more dry transformers to make the operation quicker","b: We will give you 1 year making free spare part and inspection"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["B - work","B - hold","A- researchers","C-use","A-be","C - latest","A-is","B - lighter","C-is","C- push"])
+ 
+await doFillDinline(["making a circuit","paper clip"])
+ 
+await doFillDinline(["Batteries","Electrical tape","screws","negative","positive","disconnect","middle","wires"])
+ 
+await doFillDinline(["battery","electricity","electron","paper clip","light"])
+ 
+await doFillDinline(["battery","wire","open","electrons","paperclip"])
+ 
+await doFillDinline(["electricity","open circuit","closed circuit","electrons","battery","burn","paper clip","stronger"])
+
+await doFillDinline(["contract sign","detail design","second","15","22","29"])
+ 
+await doFillDinline(["8","ABB","63","30.000.000","1000L","82.800.000","445.994 200","31.850.000"])
+ 
+await doFillDinline(["general tools","screw driver","components","melt","soldering paste"])
+ 
+await doFillDinline(["solder","spring","solder braid","strip","wire strippers","prototype board"])
+ 
+await doFillDinline(["credentials","effective","stakeholders","creativity","expectations"])
+ 
+await doFillDinline(["inside","remove solder","wire strippers","copper tracks","steel wool"])
+ 
+await doFillDinline(["On a varo board","Pointed and clean Tip","Clean all surfaces","for 2-3 seconds","Pencil battery","single 9V battery"])
+
+  
+ await doFillDinline(["The contract will be signed on 17th, January 2017.","The design and estimation phase will last from the last week of January to the last week of February.","Phase design and estimation will be broken down into 5 small tasks.","The equipment will be supplied and installed from February, 7th to the third week of March","The project will start supplying power on 27th, March 2017 after commissioning and test running and making handover to customer.","The guarantee and maintenance work will last nearly 1 month from 27th, March to 17th, April."])
+ await doClickBtn()
+await doFillDinline(["contract sign","Understanding document","Design and Estimation","7","Feb","6","Mar","equipment installation","27","Mar","Guarantee and Maintenance"])
+

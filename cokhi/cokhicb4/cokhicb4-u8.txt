@@ -1,0 +1,81 @@
+await changeUnitByTitle('Unit 8: Future career')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["F","B","C","D","H","A","E"])
+ 
+await doFillDinline(["C","E","D","A","B"])
+ 
+await doFillDinline(["design engineer","consultants","broad","specialize","improve","Research and Development","assess","Concepts","professors","mechanical engineer"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["C","A","E","B","D"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["has to","to ask","submitting","to submit","be replaced","must stay","had to stay","to become"])
+ 
+await doFillDinline(["don't have to","mustn't","doesn't have to","mustn't","mustn't","must","have to","has to","had to"])
+ 
+await doFillDinline(["works","went","became","finished","studied","lives,","has travelled","has","developing","to travel"])
+ 
+await doFillDinline(["A","to apply","D","walk","B","wear","C","understand","B","have","B","interview","C","assessing","B","to become","A","to have","A","be"])
+ 
+await doFillDinline(["T","T","F"])
+ 
+await doFillDinline(["interview","experience","twelve years","improve","design","engines"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["mechanical engineering","decision","experience","career","interesting","creative"])
+ 
+await doFillDinline(["buses","air quality","generators","Yes","EU countries"])
+ 
+await doFillDinline(["design engineers","generators","manufacturing","consultants"])
+ 
+await doFillDinline(["New Product Development","Robotics","Apprentice Engineer","engines","Mechanical Engineering"])
+ 
+await doFillDinline(["bachelor's degree","creative","listening skills","mechanical processes","full time"])
+ 
+await doFillDinline(["H","F","E","C","A","B","G","D","I","J"])
+ 
+
+await doFillDinline(["T","F","F","F","T"])
+ 
+await doFillDinline(["B","A","C","C","B"])
+ 
+await doFillDinline(["mechanical engineering","the highest","industries","top","project specifications"])
+ 
+await doFillDinline(["In Jobing.com","Quality Engineer","his email","All suppliers","Yes"])
+ 
+await doFillDinline(["realistic","social","investigative","artistic","hard-working","experienced","energetic","well-organized"])
+ 
+await doFillDinline(["design engineer","research and development engineer","professor","consultant","debug technician","toolmaker","fitter","welder","management engineer","production engineer"])
+ 
+await doFillDinline(["I'am going to select a specialization in specific fields such as robotics or energy systems.","To work as a qualified mechanical engineer, you need to have a diploma in engineering","She doesn't want to work for a big corporation where everything is so impersonal.","The mechanical engineer has to evaluate how well the system is working in his job.","You should have good communication skills to deal with clients.","He worked in Samsung Company for two years as an apprentice technician.","You must have experience of working with this machinery system","Applicants should not have a hearing disability."])
+ 
+await doFillDinline(["Employers always look for employees who have good technical skills.","We have to pilot new products before they are sold","You should be good at mathematical and computing skills if you want to apply for this job.","You need to have a bachelor of engineering to become a qualified engineer.","Mechanical engineers design and build machines. They also assess the quality of existing machines","Applicants mustn't have less than three years’ experience."])
+ 
+await doFillDinline(["You must be a good team player.","You should have good communication skills.","You should be physically fit","You mustn't be afraid of height","You mustn't be colour-blind.","You must have a certificate or diploma in engineering.","You must have good mathematical and computing skills.","You should be willing to travel.","You should be able to explain complex requirements in clear terms."])
+ 
+await doFillDinline(["major","subjects","career","machines","creative","skills","because","lot"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

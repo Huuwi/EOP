@@ -1,0 +1,230 @@
+await changeUnitByTitle(UNIT 1: MACHINE OPERATIONS)
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doSortWords(["BENCH GRINDER","CHISEL","CHUCK","CLAW HAMMER","CLUTCH","CORD"])
+ 
+await doClickHearing2(0)
+
+await doClickHearing2(0)
+
+await doClickHearing2(0)
+ 
+await doFillabc()
+  
+await doCheckBoxNeww(3)
+  
+await doFillDinline(["Respirator","manual","bits","hammer","crosscut saw","cordless","bench grinder","chisel","claw hammer","grip"])
+ 
+await doClickBtn()
+
+await doClickBtn()
+
+await doClickBtn()
+ 
+await doCheckBoxNeww(2)
+ 
+await doFillDinline(["cleaning","unplugging","reaching","turning","Don't turn on"])
+ 
+await doFillDinline(["are","is","are","drill","need"])
+ 
+await doFillDinline(["Could you hold the saw in your dominant hand and use the other hand to hold the wood?","Could you mark the location where you will make the cut?","Can you slowly draw the blade of the saw on the mark on the wood at a 45-degree angle?","Could you repeat cutting until a groove is started in the wood?","Just use a straight piece of wood to keep the saw in line with the line you wish to cut"])
+ 
+await doFillabc()
+ 
+await doFillDinline(["C","use","B","swinging","B","line","A","Hold","C","tap","B","reaching","C","you perform","A","need","C","comes","B","clamp"])
+ 
+await doFillDinline(["T","F","T","F","F"])
+ 
+await doFillDinline(["holes","electricity cables","eye goggles","hot","metal"])
+ 
+await doFillDinline(["Condenser","Evaporator","Coolant","Compressor"])
+ 
+await doFillDinline(["data","energy","speed","process","memory"])
+ 
+await doFillDinline(["electrical energy","electrical socket","Inside","metal","orange"])
+ 
+await doFillDinline(["safety","sparks","metal","too long","breaks","bend","hands","blade"])
+ 
+await doFillDinline(["instruction manual","10 minutes","holes","protective eye equipment","the precautions"])
+ 
+await doFillDinline(["R","E","R","E","R","E","u","E","E","u","R","R"])
+ 
+await doFillDinline(["F","T","F","T","F"])
+ 
+await doFillDinline(["metal pieces","five","1/8 inch","a pot with water","to avoid the steam"])
+ 
+await doFillDinline(["The contact surfaces","dimensions","mills and drills","tooling offsets","machining"])
+ 
+await doFillDinline(["three","ten","the cutters","The tail stock","0.5 inch"])
+ 
+await doCheckBoxNeww(3)
+ 
+
+await doFillDinline(["Be careful when touching the live wires","Use the screwdriver and rubber band to remove the stuck screw.","Inspect the hammer before using it to ensure it is in good condition.","Hold the wood down or clamp it into place so that it will not move.","Make sure that your saw is sharper."])
+ 
+await doFillDinline(["Wear safety eyewear to protect against flying items.","Do not use a hammer if the wood is splintering","Keep your attention on the hammer.","Grip the hammer by the end of the handle.","Hold the hammer tightly so it doesn't slip out of your hands"])
+ 
+await doFillDinline(["Perform a safety check before turning the grinder on.","Protect yourself from flying metal sparks.","Hold the metal tightly in both hands, place it on the tool rest and slowly push it towards the grinder until it touches the edge only.","Dip the piece in the water pot to cool the metal.","Hold the metal on the tool rest and turn it gently until the grinder comes in contact with the spot you want the cut.","Do not use too much force because it will make the saw bite into the wood, getting it stuck, possibly leading to you bending the saw."])
+ 
+await doFillDinline(["You must turn your aircraft without endangering other aircraft","The slower helicopter must only change direction after the faster one has passed it","A car driver must not overtake another vehicle before checking his mirror.","Drivers should not start a long car journey unless they have checked brakes, tires and fluid levels."])
+
+await doClickBtn()
+
+await doWhenDoLastTaskUnit()
+
+
+
+//Unit2
+//22222
+//222222
+
+
+await changeUnitByTitle('UNIT 2: MACHINE REVIEWS')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+  
+await doSortWords(["IMPRESSIVE","PREMIUM","COMPACT","DOWNSIDE","COMPATIBLE","HEAVY-DUTY","TWO-SPEED TRANSMISSION","BELT HOOK","LIMITATION","UPSIDE","ACRYLIC","DRAWBACK"])
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+ 
+
+ 
+
+ 
+await doFillabc()
+ 
+await doFillDinline(["premium","outstanding","transmission","approachable","productivity","Performance","subcription","eye-catching","LED light","warranties"])
+ 
+await doFillDinline(["incredible","limitations","benefits","subscription","versatile","premium","powerful engine","brushless","compact","lightweight"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["B","F","E","D","C","A"])
+ 
+await doFillDinline(["faster and more powerful than","more portable than","as multifunctional as","thicker than","the best","more suitable","as efficient as","more accurate than"])
+ 
+await doFillDinline(["is more expensive than","isn't as functional as","is more compatible than","is not as limited as","is more powerful than"])
+ 
+await doFillDinline(["want","would","want","could","helping"])
+ 
+await doCheckBoxNeww(3)
+ 
+await doCheckBoxNeww(3)
+ 
+await doFillDinline(["A","were","C","is","A","benefit","D","easy","D","more advanced","B","easy","A","want","D","suitable","D","powerful","D","using"])
+ 
+await doFillDinline(["flexible","4","movement speed","laser tube","density"])
+ 
+await doFillDinline(["consumption","maintenance","process","high efficiency","smooth","accuracy","Intelligent","welding bed","aluminum","Control System"])
+ 
+await doFillDinline(["mechanical pencils","No","good","material","Yes"])
+ 
+await doFillDinline(["quality","features","style","balance","variety","frequency","cost"])
+ 
+await doFillDinline(["T","T","F","F","F"])
+ 
+await doFillDinline(["2,000","garage","lightweight","biggest","90 inches","projects"])
+ 
+await doFillDinline(["cons","table","two","time","a quarter"])
+ 
+await doFillDinline(["F","T","F","T","T","F","T"])
+ 
+await doFillDinline(["good power","computer-balanced","high-quality","low-vibration","poorly-designed","customers"])
+ 
+await doFillDinline(["32 pounds","sturdy, rigid","several hours","helpful and responsive","4.5 times","an Arduino microprocessor"])
+ 
+
+ 
+await doFillDinline(["3","1","3","2","1","3","3"])
+ 
+await doFillDinline(["imprint","shapes and sizes","more expensive","xTool P2","thin wood","customize"])
+ 
+await doFillDinline(["6","1","5","2","4"])
+ 
+await doFillDinline(["The first advantage of Dawalt DCD771C2 is that it comes with 3-year limited manufacturer warranty.","At over 250 dollars, Dawalt DCD791D2 is one of the most expensive lithium-ion drills on the market.","This drill machine has a negative point is that it has no reverse speed function.","This machine costs much more than other drills on the market","Another disadvantage is that when using this drill, the chuck seems to slip a little"])
+ 
+await doFillDinline(["Dawalt DCD771C2 is not as expensive as Dawalt DCD791D2.","Like JET JWBS-14DXPRO Band Saw, Grizzly G0555LX band saw comes with a large table.","Unlike other models, Grizzly G0555LX band saw has the high-quality fence.","DCD777C2 is similar to Makita XFD10R because they are compact and lightweight drilling machines.","Dawalt DCD771C2 Cordless Drill is heavier than Porter-Cable PCCK607LB 20V Cordless Drill"])
+ 
+await doFillDinline(["The first advantage of JWBS-14DXPRO Band Saw is large capacity.","Another positive aspect of JWBS-14DXPRO Band Saw is fast adjustments.","The third benefit of JWBS-14DXPRO Band Saw is large table.","The last advantage of JWBS-14DXPRO Band Saw is easy-view blade tracking window.","The only disadvantage of JWBS-14DXPRO Band Saw is that it doesn't include a rip fence."])
+ 
+await doFillDinline(["You need to rearrange your toolbars to simplify access to your most commonly used tools.","If I were you, I would try a variety of mechanical pencils to choose the best one.","What I want to do is to select the perfect tool for building decks.","You might want a cordless drill which is lightweight and great for working in tight spaces.","You could customize the toolbars by rearranging them to make your workflow more efficient"])
+
+
+ 
+await doFillDinline(["d","c","a","b"])
+ 
+await doClickBtn()
+
+await doWhenLastTask()
+ 
+
+
+await doClickBtn()
+ 
+await doCheckBoxNeww(2)
+ 
+await doFillDinline(["cleaning","unplugging","reaching","turning","Don't turn on"])
+ 
+await doFillDinline(["are","is","are","drill","need"])
+ 
+await doFillDinline(["Could you hold the saw in your dominant hand and use the other hand to hold the wood?","Could you mark the location where you will make the cut?","Can you slowly draw the blade of the saw on the mark on the wood at a 45-degree angle?","Could you repeat cutting until a groove is started in the wood?","Just use a straight piece of wood to keep the saw in line with the line you wish to cut"])
+ 
+await doFillabc()
+ 
+await doFillDinline(["C","use","B","swinging","B","line","A","Hold","C","tap","B","reaching","C","you perform","A","need","C","comes","B","clamp"])
+ 
+await doFillDinline(["T","F","T","F","F"])
+ 
+await doFillDinline(["holes","electricity cables","eye goggles","hot","metal"])
+ 
+await doFillDinline(["Condenser","Evaporator","Coolant","Compressor"])
+ 
+await doFillDinline(["data","energy","speed","process","memory"])
+ 
+await doFillDinline(["electrical energy","electrical socket","Inside","metal","orange"])
+ 
+await doFillDinline(["safety","sparks","metal","too long","breaks","bend","hands","blade"])
+ 
+await doFillDinline(["instruction manual","10 minutes","holes","protective eye equipment","the precautions"])
+ 
+await doFillDinline(["R","E","R","E","R","E","u","E","E","u","R","R"])
+ 
+await doFillDinline(["F","T","F","T","F"])
+ 
+await doFillDinline(["metal pieces","five","1/8 inch","a pot with water","to avoid the steam"])
+ 
+await doFillDinline(["The contact surfaces","dimensions","mills and drills","tooling offsets","machining"])
+ 
+await doFillDinline(["three","ten","the cutters","The tail stock","0.5 inch"])
+ 
+await doCheckBoxNeww(3)
+ 
+
+await doFillDinline(["Be careful when touching the live wires","Use the screwdriver and rubber band to remove the stuck screw.","Inspect the hammer before using it to ensure it is in good condition.","Hold the wood down or clamp it into place so that it will not move.","Make sure that your saw is sharper."])
+ 
+await doFillDinline(["Wear safety eyewear to protect against flying items.","Do not use a hammer if the wood is splintering","Keep your attention on the hammer.","Grip the hammer by the end of the handle.","Hold the hammer tightly so it doesn't slip out of your hands"])
+ 
+await doFillDinline(["Perform a safety check before turning the grinder on.","Protect yourself from flying metal sparks.","Hold the metal tightly in both hands, place it on the tool rest and slowly push it towards the grinder until it touches the edge only.","Dip the piece in the water pot to cool the metal.","Hold the metal on the tool rest and turn it gently until the grinder comes in contact with the spot you want the cut.","Do not use too much force because it will make the saw bite into the wood, getting it stuck, possibly leading to you bending the saw."])
+ 
+await doFillDinline(["You must turn your aircraft without endangering other aircraft","The slower helicopter must only change direction after the faster one has passed it","A car driver must not overtake another vehicle before checking his mirror.","Drivers should not start a long car journey unless they have checked brakes, tires and fluid levels."])
+
+await doClickBtn()
+
+await doWhenDoLastTaskUnit()
+
+
+

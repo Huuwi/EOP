@@ -1,0 +1,98 @@
+await changeUnitByTitle('Unit 3: Measurements and tolerance')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0) 
+ 
+await doClickHearing2(0) 
+ 
+await doClickHearing2(0) 
+ 
+await doClickHearing2(0) 
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillabc()
+ 
+await doFillDinline(["Quality Assurance","variation","metric","Quality Control","imperial","dial gauge","calculation","reject","volume","area"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["is usually measured","is used","is found","is measured","is calculated","are used","is measured","is used"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["must","can't","can","might"])
+ 
+await doFillDinline(["c","a","b"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["C","is divided","A","are used","C","are applied","B","length","D","of","A","What","C","weighs","D","can't","C","must","D","must"])
+ 
+await doFillDinline(["dimension","wide","2885","height","1398"])
+ 
+await doFillDinline(["aluminum","sixteen","centimeters","add","twenty"])
+ 
+await changeUnitByTitle('Unit 3: Measurements and tolerance')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["aluminum","sixteen","centimeters","add","twenty"])
+ 
+await doFillDinline(["workbench","long","measurements","add","minus","twenty"])
+ 
+await doFillDinline(["T","F","F","T"])
+ 
+await doFillDinline(["components","long is","1.65","measurement","equals"])
+ 
+await changeUnitByTitle('Unit 3: Measurements and tolerance')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["measurements","metric","volume","milliliters","Kevin"])
+ 
+await doFillDinline(["Kilogram","Length","Volume","Meters"])
+ 
+await doFillDinline(["F","T","F","T","T"])
+ 
+await doFillDinline(["calculate","kilograms","units","checked","system","squared"])
+ 
+await doFillDinline(["T","F","F","T","T"])
+ 
+await doFillDinline(["systems","measurements","centimeters","fasteners","liters.","pounds"])
+ 
+await doFillDinline(["C","A","D","A","B"])
+ 
+await doFillDinline(["T","T","F","T","T"])
+ 
+await doFillDinline(["various","differentiation","gauging","tolerances","information"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["measurement","metric","imperial","measurement","imperial","metric","metric","measurement","metric","imperial"])
+ 
+await doFillDinline(["Area is measured in squared linear unit, for example square meter.","The mass of this block is usually described in three ways","In England, imperial system is used instead of metric system.","Improvements in manufacturing methods are always made to have better products.","The metric unit is usually required to measure liquid"])
+ 
+await doFillDinline(["What is the length of the alloy shaft?","How heavy is the steel bar?","How wide is the belt?","What is the depth of the screw thread?","How thick is the steel plate?"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["49.75","50.25","6.006","6.014","50.25","49.75","6.006"])
+ 
+await doFillDinline(["length","49.8 mm","50.2 mm","50.4 mm","within"])
+ 
+await doClickBtn()
+ 

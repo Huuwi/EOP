@@ -1,0 +1,70 @@
+await doSortWords(["THEORETICAL","BALANCE","LECTURE","ACADEMIC","CERTIFICATE","LABORATORY","SEMESTER","REPUTATION","DEGREE","EQUIPMENT","DOCTORATE","PRACTICAL"])
+ 
+await doFillDinline(["Note taking","guidance","master","credits","semester","laboratory","certificate","practical","bachelor"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["which","who","which","whose","whom"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["The man whose Analogue Electronics course I am taking is a famous teacher at my college.","I thanked the people who helped me to improve my time management skills.","Everyone who has bad results of paper tests cannot meet the entry requirements of Samsung company.","I should take a design certificate that is necessary for my future job.","Analogue electronics is the study of electronic circuits which control analogue signals"])
+ 
+await doFillDinline(["The students who get an average of 7 points each subject in final exams can meet the entry requirements for this university.","The student whom I met yesterday got the highest point in Olympic Physics Competition last year.","The facilities of my university which were upgraded last year are very modern.","I'am looking for a college which is located in the city center.","The Lab equipment of this university is constantly upgraded, which made me choose it"])
+ 
+await doFillDinline(["C","provides","B","who","D","handles","C","that","B","whose","A","who","C","provided","D","requirements","D","include","D","activities"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["good marks","how to study","quiet place","bedroom","clear desk","thirty minutes","break","move your body"])
+ 
+await doFillDinline(["5","6","2","4","1","3"])
+ 
+await doFillDinline(["studying","take away","turn off","outside","stops","on your desk","phone","concentrate","internet","messages"])
+ 
+await doFillDinline(["F","T","F","T","F","F"])
+ 
+await doFillDinline(["notes","full","everything","a few","important","write","pictures","test","six pages"])
+ 
+await doFillDinline(["colour","folders","subject","notes","pages","calendar"])
+ 
+await doFillDinline(["organize","expensive","folders","subject","remember","different","library","homework","shows","favourite"])
+ 
+await doFillDinline(["library","2","computer room","sign up","drinks","program"])
+ 
+await doFillDinline(["first floor","library","two weeks/ 2 weeks","borrow","use them","computer room","chocolate","activity program"])
+ 
+await doFillDinline(["certificate","full time","a year","12","Electrical principles"])
+ 
+await doFillDinline(["Communications","PSD","Computing","CAD","Practical"])
+ 
+await doFillDinline(["full-time","three years","building","practical","technicians"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["F","T","F","T","T","F"])
+ 
+await doFillDinline(["tips","main ideas","make notes","past exam papers","30"])
+ 
+await doFillDinline(["honours","Management","project","Engineers Australia","communications"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["IT 2","IT 4","IT 5","IT 8","IT 1","IT 7"])
+ 
+await doFillDinline(["Electrical Engineering","academic","professors","experimental equipment","extra-curricular"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["3","1","9","7","10","4","8","5","6","2"])
+ 
+await doFillDinline(["Thank you for your assistance!","Please send this information to my email","Could you please send the catalogue by the 18 th of August?","Should you have any questions, please contact me via 509506359.","I'am writing this email to request information about master's program in Electrical Engineering.","I would really appreciate if you could also share information about the course."])
+ 
+await doFillDinline(["Thank you for your assistance!","Please send this information to my email","Could you please send the catalogue by the 18 th of August?","Should you have any questions, please contact me via 509506359.","I'am writing this email to request information about master's program in Electrical Engineering.","I would really appreciate if you could also share information about the course."])
+ 
+await doFillDinline(["Thank you for your assistance!","Please send this information to my email","Could you please send the catalogue by the 18th of August?","Should you have any questions, please contact me via 509506359.","I'am writing this email to request information about master's program in Electrical Engineering.","I would really appreciate if you could also share information about the course."])
+ 
+await doFillDinline(["Thank you very much for your help.","I'am looking forward to hearing from you.","I would be grateful if you could share information about the course:","I am interested in your college and would appreciate receiving a packet of information","With reference to your ad in yesterday's New York Times, could you please send me a copy of course prospectus?","Regarding your ad in Daily News, I would like to ask for some further information including the curriculum, professors, and facilities."])
+ 
+await doClickBtn()
+ 

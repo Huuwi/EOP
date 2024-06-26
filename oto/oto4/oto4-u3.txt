@@ -1,0 +1,67 @@
+await changeUnitByTitle('Unit 3: Car Design')
+ 
+await doClickHearing2(0) 
+ 
+await doSortWords(["LOW PROFILE TYRE","PETROL-DRIVEN","DIESEL-DRIVEN","INTERNAL COMBUSTION ENGINE","BUMPER HEIGHT","GROUND CLEARANCE"])
+ 
+await doSortWords(["BUMPER HEIGHT","PETROL-DRIVEN","LOW PROFILE TYRE","HARD POINT","OCCUPANT","CORNER"])
+ 
+await doFillDinline(["F","E","D","A","B","H","C","G"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["package","suspension","Hybrid","diameter","Load floor","Ground clearance","Petrol-driven","internal combustion","radiator","grille"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+//await doFillDinline(["A","C","B","E","D"])
+ 
+//await doFillDinline(["Can","mustn't","need","can't","need","must"])
+ 
+//await doFillDinline(["fixed","upgraded","used","thought","bought","added","preferred","minimized","checked"])
+ 
+await doFillDinline(["should change","must be used","will be upgraded","is usually added","must do","will be preferred"])
+ 
+await doFillDinline(["don't need to change","drive a car","needn't worry about","mustn't change the design","need to choose"])
+ 
+await doFillDinline(["B. are needed","B. minimize","A referred","D. is brought","A can","A to fix","B. make","C.to ensure","A.is often said","C. be considered"])
+ 
+await doFillDinline(["electric motor","five fully","internal combustion","25%","2025"])
+ 
+await doFillDinline(["Amanda","back lights","suspension system","July, 7 th","car insurance"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["electric","car","nuclear energy","faster","expensive"])
+ 
+await doFillDinline(["1","450","6 hours","260 feet","hang-on parts"])
+ 
+await doFillDinline(["6","computer software","three-dimensional visuals","materials","factory"])
+ 
+await doFillDinline(["8","customers’ lifestyle","530mm","suspension design","flat","underbody","seat design"])
+ 
+await doFillDinline(["simple","elements","adjustments","defend","fundamental process"])
+ 
+await doFillDinline(["Seating Reference Point","SAE 95h","US population","sets of geometry","smaller manikins"])
+ 
+await doFillDinline(["SAE 95th","global population","the volume","geometry","initial package"])
+ 
+await doFillDinline(["low profile tire","wheel, tyre size","three","tall sidewalls","smaller"])
+ 
+await doFillDinline(["F","T","T","F","F","T"])
+ 
+await doFillDinline(["Aperture size should be as big as possible to allow large items to be fed into the cargo.","The first steps in design process should be simple, and not every detail is needed in this stage","In the future, the package of this car will be upgraded thoroughly.","It is easy to corner this car into narrow angles","Frame rail needs to be strong, so it must be made of steel.","Hybrid car is the one that can use both electricity and diesel","The car was badly damaged but the occupants were unhurt","The wheel diameter of a sports car is smaller than that of a pickup truck."])
+ 
+await doFillDinline(["must be set carefully","installing the diesel-driven engine","use 450 robots","must be used","are required to build"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["sketches","computer graphics software","present","three-dimensional","clay models","materials","Color designers"])
+ 
+await doFillDinline(["Before launching a new car model, manufacturers have to do lots of research about their customers’ demands.","Sketches are drawn by hands on paper or tables","At design review meeting, designers must give presentations to describe their sketches and what they want to gain.","At digital modeling, three-dimensional visuals of the car will be produced with computers.","Full-scaled clay models will be made based on design data.","Color designers will choose colors and materials for the cars’ interiors and exteriors.","Designers will come to factory to check the qualities of the prototype."])
+ 
+await doClickBtn()
+
+ 

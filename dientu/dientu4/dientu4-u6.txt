@@ -1,0 +1,64 @@
+await changeUnitByTitle('UNIT 6: REPORTS')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["retrieve","converts","defect","manufacturer","effectively","examine","operation","incident","expose","procedure"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["choosing","closed","discharges","receiving","making","fixing","came","checking"])
+ 
+await doFillDinline(["because","because of","Because","Because","due to","due to","Because of","because of"])
+ 
+await doFillDinline(["took","put","rang","stopped","forgot","tripped","were","cut","needed","went","came","was"])
+ 
+await doFillDinline(["was found","was lying","checked","was breathing","called","was taken","recovered","found","was left","escaped","became","became","fell","was working"])
+ 
+await doFillDinline(["B-pressed","B-because","B-happened","A-because of","B-because of","A-was writing","C-exposed","B-were","B-because of","C-identified"])
+
+await doFillDinline(["T","F","F","solder","wrong","desoldering","pump"])
+ 
+await doFillDinline(["components","place","desoldering","solder","pump","helping"])
+ 
+await doFillDinline(["F","T","T","short","wire","inches"])
+ 
+await doFillDinline(["computer","wire","longer","length","inch","Thanks"])
+ 
+await doFillDinline(["F","T","T","laptop","corrosion","wet","beach","buy"])
+ 
+await doFillDinline(["water damage","corrosion","beach","equipment failure","physical stress","laptop","expensive","components","damaged"])
+ 
+await doFillDinline(["laptop","BL0899","3 years old/ three years old","suddenly","internal","bring"])
+ 
+await doFillDinline(["laptop","manufacturer","age","break down","suddenly","good condition","circuit failure","parts","wanted"])
+ 
+await doFillDinline(["working","cracked","replace","remove","replace"])
+ 
+await doFillDinline(["cellphone","dropped","touch screen","battery","restarted","dead","crystal","cracked","fix","broken crystal","replace"])
+ 
+await doFillDinline(["technician","installing","building","accident","electrical","alone","assumed","energized","procedures","equipment"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["digital signals","cassette player","music","appropriately","damaged"])
+ 
+await doCheckBoxNeww(4)
+  
+await doFillDinline(["firm","check","equipment","electric","burns","machine"])
+ 
+await doFillDinline(["building","worked","installation","conductor","transported","electrocution","energized"])
+ 
+await doFillDinline(["installed","shock","held","transported","electrocution"])
+ 
+await doClickBtn()
+
+await doFillDinline(["Yesterday, when checking the water pumps, we found that they were in good operation","Because of coming into contact with energized plugs, he got an electric shock","The computer did not work effectively due to some failures in some internal parts of the CPU","The foot valves were not in good condition because of the corrosion of the flow meter","The manufacturering defect in the motherboard was identified to be the reason why these laptops did not work"])
+ 
+await doFillDinline(["The fault in the main memory prevents the software from retrieving information","The fuel tank was leaked due to manufacturer's defect.","The incident happened in a newly-built villa in the center of the city.","He got injured due to exposing to the energized electrical devices without following safety procedure","As the manager examined the defect of the assembly line, he assumed some possible causes."])
+ 
+await doClickBtn()
+ 

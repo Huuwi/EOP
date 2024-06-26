@@ -1,0 +1,43 @@
+await changeUnitByTitle('Unit 3: People around you')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doSortWords(["DRIVING","FISHING","WRITING","CLIMBING","COOKING","JOGGING"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["raining","stalking","studying","waiting","eating","cycling","drinking","barking"])
+ 
+await doFillDinline(["b","f","c","a","d","e","h","g"])
+ 
+ 
+await doClickBtn()
+ 
+await doFillDinline(["wearing","arguing","dying","running","getting","kissing","stopping","hurrying","watching","climbing","shining","fishing","searching"])
+ 
+await doFillDinline(["are","am","is","are","are","are","is","are","is","are"])
+ 
+
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["is raining","are","doing","aren't","doing","are studying","is waiting","are having","wearing"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["F","C","G","E","D","H","B","A"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["mom","friends","basketball","eating","park"])
+
+await doFillDinline(["2","3","4","1"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Massachusetts","architecture","important","host","five"])
+  
+await doFillDinline(["My father is watering some plants in the garden.","My mother is cleaning the floor.","Anna is having lunch with her friends in a restaurant","They are asking a man about the way to the railway station","My student is drawing a beautiful picture"])
+ 
+await doCheckBoxNeww(4)
+ 

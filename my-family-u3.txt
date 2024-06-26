@@ -1,0 +1,60 @@
+await changeUnitByTitle('UNIT 3: MY FAMILY')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+
+await doClickHearing2(0)
+
+await doClickHearing2(0)
+
+await doFillDinline(["grandparents","cousin","uncle","sister","grandson"])
+ 
+
+await doFillabc()
+ 
+await doFillDinline(["daughter","grandfather","nephew","grandparents","twins"])
+ 
+await doClickBtn()
+await doCheckBoxNeww(2)
+ 
+await doFillDinline(["Have","have","Is","is not","does","Does","does not","Do","do"])
+ 
+await doFillDinline(["My mom's house","The boy's toy","The little boy's mother","The dog's balls","His uncle's friends"])
+ 
+await doFillDinline(["2d","3e","4f","5c","6a"])
+ 
+await doFillDinline(["There are","There are","There is","There is","There are","There is","There is","There are"])
+ 
+await doFillDinline(["B- haven't","C- have got","A-Thereis","A-There aren't","C-Thereis"])
+ 
+await doFillDinline(["B- haven't","C- have got","A-There is","A-There aren't","C-There is"])
+ 
+await doFillDinline(["Sister","Niece","Daughter","Cousin","Father","Grandmother","Uncle","Grandson"])
+ 
+await doFillDinline(["father","brother","parents","grandparents"])
+ 
+await doFillDinline(["father","brother","parents","grandparents"])
+ 
+await doFillDinline(["family","happy","Brothers","sisters","parents","members","parents","children","family","country"])
+await doClickBtn()
+await doCheckBoxNeww(3)
+ 
+await doCheckBoxNeww(2)
+ 
+await doFillDinline(["Patrick","Lara","Mick","Benny","Brenda"])
+ 
+await doFillDinline(["daughter","four","eight","sons","baby daughter"])
+ 
+await doFillDinline(["Peter lives with his parents in Paris.","My father has not got any brothers.","Does he have any brothers or sisters?","I have a cousin. His name is Trung,","Ilive in Miami but my children and grandchildren live in different places."])
+ 
+await doFillDinline(["Peter lives with his parents in Paris.","My father has not got any brothers.","Does he have any brothers or sisters?","I have a cousin. His name is Trung,","Ilive in Miami but my children and grandchildren live in different places."])
+ 
+await doFillDinline(["Peter lives with his parents in Paris.","My father has not got any brothers.","Does he have any brothers or sisters?","I have a cousin. His name is Trung,","I live in Miami but my children and grandchildren live in different places."])
+ 
+await doCheckBoxNeww(3)
+ 
+await doFillDinline(["He has not got a dog and two cats","Her grandparents do not live in New York City.","She has a computer to do her homework.","I do not have a nice house near the sea","They have got information about the new project"])
+ 
+
+await doClickBtn()

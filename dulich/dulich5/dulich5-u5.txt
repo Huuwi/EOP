@@ -1,0 +1,67 @@
+await changeUnitByTitle('UNIT 5: ITINERARY')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["G","F","E","B","H","D","C","A","J","I"])
+ 
+await doFillDinline(["explore","check out","cruise","conduct","wander","stroll","magnificent","feast","observe","take advantage of"])
+ 
+await doFillDinline(["A","B","B","A","C","B","A","C","B","A"])
+ 
+await doFillDinline(["magnificent","have a choice of","take a ferry ride","feast","try your luck","go over","Strolling","give tourists the impression of","head to","Observing"])
+ 
+await doFillDinline(["ferry ride","going over","grab","slides","Strolling","impression","cuisine","explore","checking","make"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["First","After","Next","On the following day","While we are in","then","After","Finally"])
+ 
+await doFillDinline(["A","B","B","C","C","A","B","C"])
+ 
+await doFillDinline(["will be meeting","will be visiting","will be","will leave","will be having","will be making","will be checking out","will have"])
+ 
+await doFillDinline(["will be meeting","will be visiting","will have","will understand","will experience","will enjoy","will pick","will be"])
+ 
+await doFillDinline(["T","be","to","T","to","have","T","T","be"])
+ 
+await doFillDinline(["C. tourist attractions","A. coming","A. To begin with","A After","B. will understand","B. will be greeted","A on","A. to go over","D. we leave","C. where"])
+ 
+await doFillDinline(["board the bus","45 minutes","beautiful rock garden","1895","shopping area","2.30 pm","aboutan hour"])
+ 
+await doFillDinline(["C","A","C","A","B"])
+ 
+await doFillDinline(["B","A","C","A","C"])
+ 
+await doFillDinline(["D","A","B"])
+ 
+await doFillDinline(["shopping","guided tours","more than 12","notice board"])
+ 
+await doFillDinline(["get drunk in public","swimming","in the lobby","by credit card","the local bus"])
+ 
+await doFillDinline(["F","T","F","T","F","T"])
+ 
+await doFillDinline(["a complimentary welcome drink","in the main dining room","by rowing boats or kayaks","a Vietnamese cuisine cooking demonstration","the fully stocked bar","Thien Canh Son Cave","by shuttle mini bus"])
+ 
+await doFillDinline(["the railway station","the tribal way of life","the hotel restaurant","the luggage storage room","terraced rice paddy fields","a night train"])
+
+ 
+await doFillDinline(["the railway station","the tribal way of life","the hotel restaurant","the luggage storage room","terraced rice paddy fields","a night train"])
+ 
+await doFillDinline(["take","stilt house","One Pillar Pagoda","10.30 am","Temple of Literature","have lunch","Vietnam Museum of Ethnology","Vietnamese cultural diversity","finishes"])
+ 
+await doFillDinline(["Angkor","Huay Xai","Bangkok","Vang Vieng, Pak Ou","Mount Phousi","Phnom Penh","Battambang"])
+ 
+await doFillDinline(["fly","rice paddies","explore","On Day 11","visit the waterfalls"])
+ 
+await doFillDinline(["I want to go over the itinerary so that you know exactly what you are going to do in the journey.","We will pick you up from your hotel at 8.00 am and take you to visit the Ho Chi Minh Complex.","At 9.30 am, you will visit One Pillar Pagoda, a must-see tourist attraction when visiting Hanoi.","You will have a chance to explore Tran Quoc Pagoda on the shore of West Lake.","After strolling around Hoan Kiem Lake, you will have lunch at a restaurant in the Old Quarter."])
+ 
+await doFillDinline(["The one-day tour will give you the impression of the breathtaking beauty of Ha Long Bay, a new wonder of the world","En route from Hanoi to Ha Long city, tourists can enjoy the landscape of the Red River Delta countryside.","The crew will give tourists some safety instructions and a brief introduction of the cruise.","Tourists will have a chance to watch the fruit carving demonstration before their traditional Vietnamese lunch is served.","A cooking class will be conducted from 17.30 pm to 19.00 pm, and all of the tourists are encouraged to participate in","There is a variety of onboard entertainment activities for tourists to enjoy in the evening."])
+ 
+await doFillDinline(["go over","pick","embark","delectable lunch","have a chance","cruising","sundeck","relaxing","choice","harbor"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

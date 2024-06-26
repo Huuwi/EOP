@@ -1,0 +1,79 @@
+await changeUnitByTitle('UNIT 3: PAST EVENTS')
+ 
+await doListeningPlayBtn()
+await doClickHearing2(0) 
+ 
+await doSortWords(["PRIMARY SCHOOL","DELICIOUS","INTERESTING","GET MARRIED","LOCAL PEOPLE","SECONDARY SCHOOL","HIGH SCHOOL"])
+ 
+//await doSortSound()
+ 
+await doFillabc()
+ 
+await doFillDinline(["C","C","A","A","A","B","B","A","C","A"])
+ 
+await doFillDinline(["tickets","coach","hotel","walked","local","had"])
+ 
+await doFillDinline(["graduates","Primary","ticket","sunrise","foreign","holiday","photos","crowded","married","delicious"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["A","A","A","B","B","A","A","B"])
+ 
+await doFillDinline(["had","graduated","took","met","went","walked","visited","travelled","bought","grew","got","changed","found","spent","left","watched","stayed","gave","ate","came","swam","studied","lived","ended","started","booked","saw","phoned","helped","arrived"])
+ 
+await doFillDinline(["last night","two years ago","last month","yesterday morning","two hours ago","last July","two weeks ago","yesterday afternoon"])
+ 
+await doFillDinline(["graduated","started","ended","died","walked","helped","studied","phoned","changed","lived"])
+ 
+await doFillDinline(["couldn't go","could write","couldn't find","couldn't finish","couldn't understand","couldn't hear","couldn't listen","couldn't sleep","couldn't play","could drive"])
+ 
+await doFillDinline(["had","took","went","wasn't","liked","didn’t go","stayed","wanted","came","watched","Did you have","did you do"])
+ 
+await doFillDinline(["B","yesterday","B","were","C","was","B","write","A","were","C","weren't","B","not swim","C","visited","C","took","B","left"])
+ 
+await doFillDinline(["worked","cleaned","lived","read","studied"])
+ 
+await doFillDinline(["went","great","fantastic","walked","swam"])
+ 
+await doFillDinline(["C","B","A","B","A","B"])
+ 
+await doFillDinline(["T","F","T","T","F"])
+ 
+await doFillDinline(["2","1","4","3"])
+ 
+await doFillDinline(["24","a friend","3 days","800 years old","happy"])
+ 
+await doFillDinline(["in New York","an ice skater","in 1921","a businessman","an electric cooker"])
+ 
+await doFillDinline(["F","F","T","F","T"])
+ 
+await doFillDinline(["T","T","F","T","F"])
+ 
+await doFillDinline(["a map","St Louis","bad","in 1805","huge"])
+ 
+await doFillDinline(["Italy","1492","Spain","months","October"])
+ 
+await doFillDinline(["F","T","F","F","T"])
+ 
+await doFillDinline(["Tim","Gabi","Tim","Gabi","Tim","his parents","furious","10 days","a hotel","No"])
+ 
+await doFillDinline(["small","the factory","every day","computer project","seventeen"])
+ 
+await doFillDinline(["Could Liam swim when he was six?","No, he couldn't","Could Martha ride a bike when she was seven?","Yes, she could.","Could Martha and Liam swim when they were seven?","Yes, they could.","Could Martha and Liam ride a bike when they were four?","No, they couldn't","Could Martha write her name when she was three?","No, she couldn't"])
+ 
+await doFillDinline(["Where were you yesterday morning?","John didn’t go to school because he was ill","How old were you two years ago?","Where were your parents last night?","My family travelled to New York last summer holiday.","Where were Peter and his family on holiday last year?","Why were you sad last week?","I couldn't ride a bike when I was five.","What time was your best friend at school this morning?","We took photos and bought gifts for our friends."])
+ 
+await doFillDinline(["listened to music","finished her homework","painted the front door","played basketball","cleaned the car","looked after the neighbor's baby","practiced the piano","visited their grandparents"])
+ 
+await doFillDinline(["He started at 6.30 a.m","He walked to the bus stop at 7.00.","He waited for the bus from 7.15 to 7.30.","He worked from 8.00 to 4.00.","He arrived home at 4.30.","He cooked dinner for his family at 5.15","He studied from 7.30 to 9.30.","He listened to music before going to bed."])
+ 
+await doClickBtn()
+ 

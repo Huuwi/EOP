@@ -1,0 +1,75 @@
+await changeUnitByTitle('Unit 7: Workplace')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+
+await doClickHearing2(0) 
+ 
+await doSortWords(["BIN","COFFEE MACHINE","ELEVATOR","INK CARTRIDGE","PHOTOCOPIER","DON’T USE COMPANY EQUIPMENT FOR PERSONAL REASON","PLACE TRASH AND PAPER IN PROPER CONTAINERS","NO ALCOHOL OR DRUGS TO BE USED","SWITCH OFF YOUR COMPUTER AFTER WORK","KEEP YOUR KEYBOARD AND SCREEN CLEAN"])
+ 
+await doClickHearing2(0) 
+ 
+await doFillDinline(["air-conditioner","change password frequently","fax machine","donot eat or drink at work","elevator","no alcohol or drugs to be used","scanner","don't smoke at workplace","open-plan office","keep your keyboard and screen clean"])
+ 
+await doFillDinline(["air conditioner","password","switch off","networking","shredder","cartridges","machine","photocopier","scanner","printer"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["air conditioner","password","fax machine","security cameras","scanner","photocopy","elevator","file drawer","ink cartridge","shredder"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["has","is","is","likes","never bites","barks","is","doesn't like","often plays","feed"])
+ 
+await doFillDinline(["F","T","T","T","F","T","T","F","T","F"])
+ 
+await doFillDinline(["on","next to","between","in front of","on","against","next to","inside","beneath","above"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Protect","Watch","Don't throw","Restock","Clean","Don’t smoke"])
+ 
+await doFillDinline(["should","should","should","should","shouldn't","shouldn't"])
+ 
+await doFillDinline(["A","Is","A","drinks","C","wear","A","There are","C","always buys","D","doesn't have","C","practise","B","do","A","don't have","A","switch"])
+ 
+await doFillDinline(["V","V","X","V","X","V","V","V","X","V"])
+ 
+await doFillDinline(["five days","social networking","employee","frequently","personal reason","Place"])
+ 
+await doFillDinline(["T","F","F","T","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["print","ink cartridges","wait","money","pick"])
+ 
+await doFillDinline(["Smoke","off","shorts","policy","Go home"])
+ 
+await doFillDinline(["devices","desk","desktop","printer","scanner"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","F","T","T","F"])
+ 
+await doFillDinline(["things","time","small","building","screens"])
+ 
+await doFillDinline(["four-in-one","quality","10,000","cloud","paper"])
+  
+await doFillDinline(["Last week","Four","Photocopier","The supply room","A new shredder"])
+ 
+await doFillDinline(["There is an old photocopier to photocopy documents in our office.","My boss needs to buy a scanner because he wants to scan a lot of documents.","I usually use a fax machine to send documents.","Do not use company equipment for personal reason.","My table is not tidy so I can't find the documents."])
+ 
+await doFillDinline(["Our company doesn't provide us with new computers","I don't always take my children to school before going to work every morning","You needn't to be a member if you want to go to this club.","The monitor doesn't work really well","There isn't a laser printer on the table next to the scanner.","According to the new rules, all employees don't have to attend the monthly 'Sales and Results' meeting.","The new photocopier can't make over 150 copies per minute","It shouldn't be sunny at the weekend.","He mustn't tell anyone what I said.","You shouldn't accept the job."])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["There is a broken printer in our office, so we need to buy a new one.","I like the coffee machine in my office because I can drink coffee anytime I want","This meeting room is big enough for eighty people:","The filing cabinet next to the photocopier is full of documents.","Is there a shredder in front of the office chair?"])
+ 
+await doClickBtn()
+
+ 

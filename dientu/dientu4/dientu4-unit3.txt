@@ -1,0 +1,79 @@
+await changeUnitByTitle('UNIT 3: TOOLS')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+
+ 
+await doSortSound(1)
+ 
+await doFillDinline(["screwdriver","diagonal cutters","magnifier","electrical tape","utility knife"])
+ 
+await doFillDinline(["A","B","A","A","B"])
+ 
+await doFillDinline(["wrench","pliers","hammer","hacksaw","insulate","toolkit","flashlight","wire strippers","magnifier","adjustable"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+  
+await doFillDinline(["driving","install","enables","are made","remove","turning","allows","to loosen","is used","cut","seeing"])
+ 
+await doFillDinline(["It is a heavy black Chinese iron hammer","It is a simple medium Thailand steel scissors","It is a sticky long black plastic electrical tape","It is a simple small yellow German drill","It is a big circular Japanese iron saw","It is an useful cylindrical green Russian flashlight","It is a hard cylindrical red plastic handle","It is an easy-to-use heavy American steel wrench","It is a well-made small brown wooden handsaw"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["C-bore","C-tighten","B-helps","D-providing","D-cylindrical","B-used","D-turn","A-to twist","D-red plastic","B-allows"])
+ 
+await doFillDinline(["apprentice","flathead screwdriver","rubber handles","pliers","professional work"])
+ 
+await doFillDinline(["have any tools","Phillips screwdriver","recommend","better grip","Klein needlenose pliers"])
+ 
+await doFillDinline(["N","Y","N","Y","Y","N"])
+ 
+await doFillDinline(["buy some tools","Electrician's tools","wire strippers","diagonal cutters","go with"])
+ 
+await doFillDinline(["F","T","T","F","F"])
+ 
+await doFillDinline(["allen screw","tool kit","more wrenches","in the truck","in a minute"])
+ 
+await doFillDinline(["drill bits","drill through concrete","11","4","No"])
+ 
+await doFillDinline(["hammer drill","looking for","drill bits","anything else","your help"])
+ 
+await doFillDinline(["T","F","F","F","T"])
+ 
+await doFillDinline(["electrical jobs","cutting wires","diagonal cutters","wire strippers","utility knife"])
+ 
+await doFillDinline(["screwdriver","pliers","flathead screwdriver","diagonal cutters","2","detailed work"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["tool bag","electrician’s tools","wire-cutter option","lineman'’s pliers","hardened","length","smaller solid wires"])
+ 
+await doFillDinline(["they will last longer and perform better","buy tools that are too small","9 inches","Removing the plastic covering from wires","Phillips screwdriver","flathead screwdriver","16 ounces","Employers"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["disorganized","a rag","well-greased action","taking up space","a screwdriver set","a hacksaw","large tool collections"])
+ 
+await doFillDinline(["tighten a screw","steel","by the bit type","single slot","slotted cross","Torx screwdriver","slip off the screw"])
+ 
+await doFillDinline(["Phillips screwdriver","electrocution","metal strip","plastic bag","electrical tape","soldering iron","connection point","electronic device"])
+ 
+await doFillDinline(["head","downward pressure","hammer","soft-metal screws","surface","electric drill","screwdriver"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["is used for tightening and loosening screws","is used to find the length of an object","a flashlight to see in dark spaces","allows us to cut through metal","is the function of this big adjustable spanner"])
+ 
+await doFillDinline(["An electrical tape is made of plastic and used to insulate electrical wires","Wire strippers are used for cutting and removing insulation from wires","You can use diagonal cutters to cut the copper wires","I need an allen wrench to loosen the screws in the electrical panel","My hex wrench is made of metal and has a hexagonal head"])
+ 
+await doFillDinline(["Sam used a hammer with a metal top for striking nails","I need a screwdriver to tighten the screws with a cross head","The magnifier is very helpful for looking at details","Wire strippers are used to pull the covering off the wires","All electricians need a high quality drill to bore holes in various materials"])
+ 
+await doClickBtn()
+ 

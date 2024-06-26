@@ -1,0 +1,69 @@
+await changeUnitByTitle('UNIT 4: BUYING AND SELLING')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["catalogue","product code","place of delivery","signed order","account","guarantee","method of payment","credit card","on sale","commission"])
+ 
+await doClickHearing2(0) 
+ 
+await doFillDinline(["discount","return","refund","delivered","warehouse","bargain"])
+ 
+await doFillabc()
+ 
+await doFillDinline(["C","A","B","B","C"])
+ 
+await doFillDinline(["warehouses","credit card","account","product code","order","catalogue","deliver","guarantee","exchange","method of payment"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["a","b","b","b","b","a"])
+ 
+await doFillDinline(["some","a","a","any","some","some","any","some"])
+ 
+await doFillDinline(["much","much","much","many","much","many","much","much","many"])
+ 
+await doFillDinline(["some","any","many","much","any","some","many"])
+
+await doFillDinline(["3","2","3","1","2","3","3","1","2","3","1"])
+ 
+await doFillDinline(["S","B","B","B","B","S","S","B"])
+ 
+await doFillDinline(["A","send","D","on","C","at","D","other","D","some","C","much","C","in","C","some","B","within","A","What"])
+ 
+await doFillDinline(["1","3","3","2","2","3"])
+ 
+await doFillDinline(["F","F","T","T","F"])
+ 
+await doFillDinline(["$30","It is expensive","A green T-shirt","TX7","2 years"])
+ 
+ 
+await doFillDinline(["laptop","color","more expensive","out of","after","blue"])
+ 
+await doFillDinline(["Tokyo","400","XPQ12","Osaka","contract","order","13,000","2"])
+
+await doFillDinline(["T","T","F","F","F"])
+ 
+await doFillDinline(["mailing list","impact","opening","white","brochure","order form"])
+ 
+await doFillDinline(["T","T","T","F","T"])
+ 
+await doFillDinline(["B","D","C","C","A"])
+ 
+await doFillDinline(["T","F","F","T","T"])
+ 
+await doFillDinline(["T","F","T","F","F","T"])
+ 
+await doFillDinline(["C","C","D","A","B"])
+ 
+await doFillDinline(["Could I also ask you to add another item to the order?","I will need a written confirmation as well.","Can I have your email address?","I need to change the order.","I will make a note of the changes","Can I have the product code, please?"])
+ 
+await doFillDinline(["Could you please tell me the order number?","Your order can be delivered next Friday.","Could you tell me which items are incorrect?","I would like to place an order.","Let me just write this down in your order.","I have already entered those changes into the system","Can you send me the information as soon as possible?"])
+ 
+await doFillDinline(["Who is the buyer?","What is the order number?","When was the order placed?","What is the color of the printer?","When is the delivery date?"])
+ 
+await doFillDinline(["available in 2","pay by","fax machine costs","within 3","a 5% discount"])
+ 
+await doClickBtn()
+ 

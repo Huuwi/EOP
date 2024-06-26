@@ -1,0 +1,77 @@
+await changeUnitByTitle('UNIT 5: CUSTOMER CARE')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["dispatch","negotiate","description","gesture","illegible","urgent","straight away","inconvenience","browse","charge"])
+ 
+await doFillabc()
+ 
+await doFillDinline(["order","straight","illegible","charge","dispatch"])
+ 
+await doFillDinline(["C","B","D","F","H","A","E","G"])
+ 
+await doFillDinline(["purchased","express","description","advertisement","straight"])
+ 
+await doFillDinline(["stock","manual","urgent","compromise","charge","inconvenience","negotiate","flag","illegible","description"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["A","E","D","B","C"])
+ 
+await doFillDinline(["to hear","that","tell","seems","for","me","sure"])
+ 
+await doFillabc()
+ 
+await doFillDinline(["D","F","A","E","G","C","I","B","H"])
+  
+await doFillabc()
+ 
+await doFillDinline(["B","phoned","A","that","B","ask","C","happened","A","I","B","check","A","I am","C","flag","A","say","B","forgot"])
+ 
+await doFillDinline(["b","a","c","seems to be","let me apologize","Why don't you","Is there anything","I'm afraid","let see","It appears that","refund","no problem"])
+ 
+await doFillDinline(["cleaning service","terrible","each day","housekeeping","two free nights"])
+ 
+await changeUnitByTitle('UNIT 5: CUSTOMER CARE')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["Steve Meehan","TPS","calculators","RK529","no instruction manuals","4189"])
+ 
+await doFillDinline(["F","T","F","T","T"])
+ 
+await doFillDinline(["C","B","A","A","B","C","B"])
+ 
+await doFillDinline(["B","A","B","B","A"])
+ 
+await doFillDinline(["A","B","B","A","B","B","A","A"])
+ 
+await doFillDinline(["background noise","your full attention","while talking to the customer","hang up the phone gently","walk away from your business"])
+ 
+await doFillDinline(["A","C","A","B","C"])
+ 
+await doFillDinline(["twenty five","wronged customers","unhappy customers","customer care","No","take the extra step"])
+ 
+await doFillDinline(["A","A","C","B","B","B"])
+ 
+await doFillDinline(["T","F","T","F","F"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["2","4","1","3","5"])
+ 
+ 
+await doFillDinline(["4","5","2","6","3","1"])
+ 
+await doFillDinline(["10","11","7","9","8","12","1","6","2","3","4","5"])
+ 
+await doFillDinline(["There seems to be","there was a problem","were not included","It seems that","It appears that"])
+ 
+await doFillDinline(["Thank you for taking the time to write to us.","I would like to apologize for the error made by our company.","I am making investigation at the moment","Please give me more time and I will reply you as soon as possible","The problem has now been dealt with by the personnel manager.","We assure you that this will not happen again.","We would like to offer you a 5% discount on your next order."])
+ 
+await doClickBtn()
+ 

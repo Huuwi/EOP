@@ -1,0 +1,69 @@
+await changeUnitByTitle('Unit 6: Employee benefits')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doSortWords(["INSURANCE","HEALTH INSURANCE","DEDUCT (ON)","FLEXIBLE BENEFIT","ALL-ROUND","TAX","TAXABLE","FLEXIBLE","CLOTHING ALLOWANCE","SUBSIDIZED CHILDCARE","FINANCIAL","ELIGIBLE"])
+ 
+await doClickHearing2(0)
+await doSortWords(["LIFE INSURANCE","PAYSLIP","REMUNERATION","ALL-ROUND","MATERNITY LEAVE","FLEXIBLE","PENSION","CLOTHING ALLOWANCE","FINANCIAL","ADDITIONAL LEAVE","SABBATICAL YEAR","ELIGIBLE"])
+  
+await doFillDinline(["C","D","A","E","F","G","B"])
+ 
+await doFillDinline(["pension","flexible benefits","maternity leave","health insurance","benefits","sick leave","taxable","core benefits"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["will tell","will be written","will work","will stay","will you make","Will you receive","will be listed"])
+ 
+await doFillDinline(["exceed","are","will arrange","will","tell"])
+ 
+await doFillDinline(["with","into","on","to","with","from","of","On","of"])
+ 
+await doFillDinline(["will receive","will be given","will be","will be","buy","feel","won't generate"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["A","working","A","On","A","work","C","on","C","will be taken","D","vary","B","tell","A","to","A","being considered","B","be entitled"])
+ 
+await doFillDinline(["40 percent","their leaders","respect","15","trusted","experience","three million"])
+ 
+await doFillDinline(["bonuses","performance","pension","sales target","conferences"])
+ 
+await doFillDinline(["three","30 hours","every 6 months","employees’ work","10","rest breaks"])
+ 
+await doFillDinline(["by law","the employer","small companies","17","6 hours","in the middle"])
+ 
+await doFillDinline(["servicing","$30,000","new challenges","infotainment systems","2 years"])
+ 
+await doFillDinline(["performance","rental","remuneration","long-standing commitment","Edeka box","Asset-building benefits"])
+ 
+await doFillDinline(["Three","flexible work schedule","Mobile working","longer breaks","full or part-time leave"])
+ 
+await doFillDinline(["NG","T","NG","F","F"])
+ 
+await doFillDinline(["over 500,000","twice","individual achievements","work-life balance","during Christmas","online catalogue"])
+ 
+await doFillDinline(["taxable","record","HMRC","different","useful"])
+ 
+await doFillDinline(["perform job better","taxable","on employee's pay","Complicated","special"])
+ 
+ 
+await doFillDinline(["you haven't worked here for more than 5 years, you cannot have more than 10 days off a year.","When being happier and more satisfied with their companies, employees are less likely to quit their job.","you have small children, you will benefit from our company's childcare system","you pass the probation period, the salary will increase by 10% compared to the starting salary.","On account of your contributions to the company success, you will receive bonuses at the end of the year."])
+ 
+await doFillDinline(["As an Audi employee, you can convert a part of the remuneration into your pension.","Apart from annual holidays, Nissan employees can have additional leaves","If you would like to take a break for a period, you can make use of Audi's sabbatical year.","After you work for at least 30 days, you are entitled to health insurance coverage.","BMW offers employees with a range of well-being benefits including the gym membership and weight rooms."])
+ 
+await doFillDinline(["Based on the type of organization and the job, employee benefits may be quite different","Flexible work schedules allow you to organize your working time:","When retiring, you will benefit from our attractive pension schemes.","Full-time team members are entitled to receive 19 days of paid holiday per year.","Toyota offers a “discount purchase program” to help their employees purchase a Toyota or Lexus"])
+ 
+await doFillDinline(["You will be working as an automotive engineer","Monday to Friday, 9 a.m to 5p.m","Your annual income will be $25,000","This depends on your performance for each month.","You are entitled to the full package of our company benefits."])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

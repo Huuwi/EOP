@@ -1,0 +1,63 @@
+await changeUnitByTitle('UNIT 2: OPERATION')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["PRESSURE", "INPUT", "TRANSISTOR", "ENABLE", "RADIATE", "LIQUID LINE", "MANIPULATE", "PROCESS", "CALCULATE", "ABSORB", "OUTLET", "AMBIENT AIR", "SOLENOID", "PROGRAMMABLE LOGIC CONTROLLER (PLC)", "METERING DEVICE", "FLOW", "FILTER DRIER", "INLET", "FETCH", "SUCTION LINE", "EVAPORATE", "ARITHMETIC LOGIC UNIT (ALU)", "DECODE", "CACHE", "DISCHARGE LINE", "DISABLE", "OUTPUT", "COMMAND"])
+ 
+await doClickHearing2(0)
+await doFillDinline(["enables","pressured","absorbs","cache","manipulate","decode","commands","Transistor","Discharge line","process"])
+ 
+await doClickBtn()
+
+ 
+await doCheckBoxNeww(3)
+ 
+await doFillDinline(["allow","Be","will find","enables","be tested"])
+ 
+await doFillDinline(["do not","Do not","Check","will be converted","Connect","Disable","to quantify","to turn","make"])
+ 
+await doFillDinline(["B - comes through","A- run","B - passes","B- give","B-to turn","C - to quantify","C - is allowed to","B- to flow","B- to flow","D - execute"])
+ 
+await doFillDinline(["Condenser","Evaporator","Coolant","Compressor"])
+ 
+await doFillDinline(["evaporator","travels down","condenser","ambient air","liquid"])
+ 
+await doFillDinline(["data","motherboard","speed","clock","memory"])
+ 
+await doFillDinline(["Electrical energy","Electrical socket","Inside","Metal","Orange"])
+ 
+await doFillDinline(["household appliances","converting","electrical current","Inside","Electricity","heat"])
+ 
+await doFillDinline(["central processing unit","instructions","input","output","video file","speed"])
+ 
+await doFillDinline(["logical operations","Control unit","memory","signals","Cache"])
+ 
+await doFillDinline(["control unit","instructions","signals","memory","microprocessor","2","2"])
+ 
+await doFillDinline(["zero","one","electricity","current","Transistors"])
+ 
+await doFillDinline(["d","a","e","b","c"])
+ 
+await doFillDinline(["input","storage unit","processing","human readable","control unit"])
+ 
+await doFillDinline(["five","raw data","storage","making calculations","human readable","control unit"])
+ 
+await doFillDinline(["refrigerant","evaporator","expansion valve","compressor","condenser"])
+ 
+await doFillDinline(["Expansion valve","Compressor","Evaporator","Refrigerant","Refrigerant","Condenser"])
+ 
+await doFillDinline(["Motor","Liquid","Compressor","Expansion valve"])
+ 
+await doFillDinline(["expansion valve","compressor","condenser coils","convert","expansion valve"])
+ 
+await doFillDinline(["small chip","two-dimensional image","photoreceptor drum","make contact","positively charge","move along","the electrostatic charge"])
+ 
+await doFillDinline(["Enter data and programs into the computer system","If the data is not fed into the system before processing starts, the CPU cannot work.","The virus will disable your computer if you download this program","If I buy a computer, I will make sure it has 256K ofcache.","The printer enables to make digital images to hard copies.","Storing data in the data unit enables the access and processing to be faster.","Look at the diagram to understand how a printer works.","Press this button to disable any hazards in the factory and call for emergency center.","If the CPU works fast, the data acquisition will happen fast","Once the heat of the refrigerant is removed, it will change to liquid form"])
+ 
+await doFillDinline(["If you think there may be a virus, don't open any attachments","Don't buy the computer with low-speed cache.","Check the toner if your printing is faded","Once you enter the data, it will be converted to suitable digital electric signals.","Connect this to the inlet from the pump.","Disable the programs you don't want running","The program allow users to quantify data","This allows the refrigerant to turn back into its cooler liquid state.","To avoid such situation, make sure all the unnecessary programs are disabled."])
+ 
+await doClickBtn()
+ 

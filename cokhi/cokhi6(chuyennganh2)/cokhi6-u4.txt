@@ -1,0 +1,75 @@
+await changeUnitByTitle('UNIT 4: WORKPLACE REQUESTS')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doSortWords(["ADVANCE","FINANCIAL","PROMOTION","CONSIDER","NEGOTIATE","ABSENT","PAY RAISE","PAYMENT"])
+ 
+await doSortWords(["TRAINEE","SENIOR ENGINEER","GRADUATE ENGINEER","LEAD ENGINEER","CHIEF ENGINEER","ENGINEER MANAGER"])
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["take a day off","on schedule","cover","take on more responsibilities","financial","in advance","pay raise","negotiate"])
+ 
+await doFillDinline(["advance","promoted","absences","pay raise","deadlines","cover","consideration","schedule","senior","junior"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["take","let","provide","have","to discuss","call","email","leave","Would it be","take"])
+ 
+await doFillDinline(["have been","have made","have grown","have taken","has been","have enjoyed","have become","have developed","have gone"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["problem","OK","think","get back","give","conditions","But","wish","help"])
+
+ 
+await doFillDinline(["D-leave","C-will it be","C-could","B-take","B-have","B-call","A-Will it","A-has been","A-have enjoyed","A-have had"])
+ 
+await doFillDinline(["negotiate","negotiating","understand","solution","tired"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Can I use","Will it be","can I use","Can I take","I would like","Will it be","Can I"])
+ 
+await doFillDinline(["headache","two","thirty","sick","call"])
+ 
+await doFillDinline(["flu","stay home","rest","worry","call"])
+ 
+await doFillDinline(["come","sick","sick","sick","problem","hospital","take"])
+ 
+await doFillDinline(["Three years","Four","Multi-metres","Lydia Smith","Pay raise"])
+ 
+await doFillDinline(["Negotiating skills","HR department","Yes","Clear examples and evidence","Not enough budget"])
+ 
+await doFillDinline(["Ask for time off","For three days","Mganga","Dengue","Over the phone"])
+ 
+await doFillDinline(["Financial problems","Three months","Next Pay Day","Two months ago","Before next Sunday"])
+ 
+await doFillDinline(["Three years","Engineering Science","Senior Engineer","Project Manager","Profit"])
+ 
+await doFillDinline(["high growth","great boss","Work hard","more responsibilities","levels","promote","Senior Engineer","Chief Engineer"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["to request","has been","will return","understand","is","be","let","provide","have","considering"])
+ 
+await doFillDinline(["I would like to request a leave of absence from December 12 to December 19","Unfortunately, I have been diagnosed with dengue:","I promise that I will return to work on December 20.","I have already asked Violet to cover my job when I am absent","Please let me know if I can provide further information.","Thank you very much for considering my request"])
+ 
+await doFillDinline(["have purchased","am writing","to discuss","call","email","considering"])
+ 
+await doFillDinline(["a","c","d","b"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

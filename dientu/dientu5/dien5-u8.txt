@@ -1,0 +1,92 @@
+await changeUnitByTitle('UNIT 8: MEETINGS AND DISCUSSION')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["EXPAND","FLEXIBLE","AGENDA","CLOG","COIL","CONDENSER","THERMOSTAT","CALL (SOMEONE)","CHANGEABLE","CONTACT","HUMIDITY","IMPLEMENT","INTERESTING","ISLAND","PARTICULAR"])
+ 
+await doSortWords(["EXPAND","FLEXIBLE","AGENDA","CLOG","COIL","CONDENSER","THERMOSTAT","CALL (SOMEONE)","CHANGEABLE","CONTACT","HUMIDITY","IMPLEMENT","INTERESTING","ISLAND","PARTICULAR"])
+ 
+
+ 
+await doFillDinline(["chairperson","changeover","flexible","interrupts","issue","participant","clogged","agenda","scheme","minutes"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Confirm decisions and actions","Give opinion","Make suggestions","Disagree","Agree strongly","Deal with Interruptions","Interrupt"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["is","is","is going to","interrupts","are going to"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["D","E","A","C","B"])
+ 
+ 
+await doFillDinline(["A","interrupt","A","in","B","give","A","am calling","D","agree","B","for","B","keep","B","discuss","A","installing","D","designing"])
+ 
+await doFillDinline(["1","4"])
+ 
+await doFillDinline(["T","F","T","F","T"])
+ 
+await doFillDinline(["discuss","rude","young","training","deal","complained","money","product"])
+ 
+await doFillDinline(["b","d","g","f","e","a","c"])
+ 
+ 
+await doFillDinline(["implementation","deadlines","technical","responsibilities","changeover"])
+ 
+ 
+await doFillDinline(["changeover","finish","understand","support","implementation","main point"])
+ 
+await doFillDinline(["logo","colors","long","RAS","companies"])
+ 
+await doFillDinline(["change","new","initials","keep","designer","produce"])
+ 
+await doFillDinline(["2","4","6"])
+ 
+await doFillDinline(["teleworking scheme","costs","eating","ighting","more motivated","10","40"])
+ 
+await doFillDinline(["meeting","reduce","money","work","Teleworking","happier","report"])
+ 
+await doFillDinline(["c","d","a","b"])
+ 
+await doFillDinline(["F","T","T","T","F"])
+ 
+await doFillDinline(["expand","buying","right","specifications","deliver","contract","service","quotation"])
+ 
+await doFillDinline(["d","c","a","e","b"])
+
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["2","airfares","investment","slow","training"])
+ 
+await doFillDinline(["1,2,4,5"])
+ 
+await doFillDinline(["Paper trail","when","convenor","control","outcome"])
+ 
+await doFillDinline(["a member","circulate","general conversations","priority actions"])
+ 
+await doFillDinline(["Meeting room 23","cost-cutting measures","Nick Jackson","Mark Ko","11:45","Announcements"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doClickBtn()
+ 
+await doFillDinline(["The objective of the meeting is to discuss about technical issues recently.","They are going to reach a decision of the customer service improvement at the meeting tomorrow.","Mr. Johnson was the last presenter of the meeting about how to maintain the air conditioner system.","My point is that we should spend more time dealing with complaints of the customers","It is time for us to continue with the next point on the agenda"])
+ 
+ 
+await doFillDinline(["suggest that we should","move to the","objective of the meeting","your point","main point is that"])
+  
+await doFillDinline(["Where did they hold the meeting?","What was the topic of the meeting?","Who was the chairman of the meeting?","Who was the third presenter of the meeting?","When did the meeting close?"])
+ 
+await doClickBtn()
+ 

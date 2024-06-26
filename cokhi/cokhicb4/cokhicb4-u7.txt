@@ -1,0 +1,69 @@
+await changeUnitByTitle('Unit 7: Technical problems')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["d","c","e","a","b"])
+
+ 
+await doFillDinline(["A","B","B","C","A"])
+ 
+await doFillDinline(["clogged","solution","applications","dismantled","adjust","attack","overheating","brainstorm","synthesis","iterations"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Have you ever tried","Have you finished","Have you already redefined","have just lost","has been crashed","Have you fixed","Have you tried"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["a","b","a","c","a","b"])
+ 
+await doFillDinline(["Clean up","switch off","top up","tighten up","run out of","wear out"])
+ 
+await doFillDinline(["having a problem","have you done","Have identified","will you do","make a better analysis"])
+ 
+await doFillDinline(["A","tried","A","clogged up","A","already redefined","A","already identified","B","off","A","out","A","has just","A","up","D","out","D","of"])
+ 
+await doFillDinline(["broke down","Tuesday","by taxi","the mechanic","replace"])
+ 
+await doFillDinline(["overheating","engineer","supermarket","tank","15"])
+ 
+await doFillDinline(["T","F","F","T","F"])
+ 
+await doFillDinline(["overheating","pump","engineer","water","heat"])
+ 
+await doFillDinline(["new car","two days","YWZA","fix"])
+ 
+await doFillDinline(["F","F","T","T","T"])
+ 
+await doFillDinline(["in 1977","clutch pedal","broke down","11 p.m","five minutes."])
+ 
+await doFillDinline(["T","T","F","F","T"])
+ 
+await doFillDinline(["third","expensive","choices","20","first"])
+ 
+await doFillDinline(["stopped working","15 minutes","dead","Denton Maintenance","three days"])
+ 
+await doFillDinline(["noises","overheating","fan","hard drive","damage"])
+ 
+await doFillDinline(["T","T","F","F","T"])
+ 
+await doFillDinline(["What's wrong with your CNC machine?","What have you done to attack the problem?","Have you lubricated the coolant liquid into the grinding machine?","I'am going to replace bearings to avoid the problem in the future.","Did you ask for mechanical support for your jammed machine?","I was working in the workshop when my lathe machine was broken."])
+ 
+await doFillDinline(["b","d","c","a","e"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["What are your problems with CNC machine?","have you done","have identified","What will you do next?","make a better analysis"])
+ 
+await doFillDinline(["b","a","c","e","d"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

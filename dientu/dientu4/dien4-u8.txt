@@ -1,0 +1,58 @@
+await changeUnitByTitle('UNIT 8: PROJECT PRESENTATION')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["EFFICIENCY","ESTIMATE","TROUBLE REPORT","INSPECT","EMERGENCY ELECTRICITY GENERATOR","EXPECT","SET DEADLINE","FORESEE","OCCUR","HANDLE","LAUNCH","MEET THE DEADLINE","PURCHASE","BUDGET","WIFI ROUTER","BREAK DOWN","BACK-UP PLAN","ELECTRICAL BLACKOUT"])
+ 
+await doFillDinline(["down","expect","handle","operate","suggest","overheads","launched","electrical","design","estimate"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["will send","are going to","will have","install","will be","will be set","needs","will","will","will complete"])
+ 
+await doFillDinline(["D","D","B","A","C","A","D"])
+ 
+await doFillDinline(["4","1","1","2","2","3","2","2","4","3"])
+
+ 
+await doFillDinline(["C","B","D","C","A","B"])
+ 
+await doFillDinline(["B - tougher","B - cheapest","C - more","C - batteries","C - narrower","D-a","C - flow","B- part","C - talk","B - current"])
+ 
+await doFillDinline(["heat","thickness","Temperature","problems","operation"])
+ 
+await doFillDinline(["wire","heat","maximum","quality","volts","applications","high temperature","inefficiencies"])
+ 
+await doFillDinline(["circuit board","component","Clamp","flat","3","top"])
+ 
+await doFillDinline(["preparing","circuit board","clamp","wires","flat"])
+ 
+ 
+await doFillDinline(["15","270","superconducting","30","connected"])
+ 
+await doFillDinline(["liquid","super","conductive","protons","open","shock"])
+ 
+await doFillDinline(["A smart goal","5","cool ideas","action plan","Idea generation, goal setting, the action plan, take persistent action"])
+ 
+await doFillDinline(["F","T","T","F","T"])
+ 
+await doFillDinline(["B","A","A","C","B"])
+ 
+await doFillDinline(["B","D","C","A","D"])
+ 
+await doFillDinline(["Refrigerant","pipes","evaporator","under high pressure","second fan"])
+ 
+await doFillDinline(["T","F","F","F","T"])
+ 
+await doFillDinline(["A","C","A","B","A","B"])
+ 
+await doFillDinline(["is setting up","will","have","are","need","require"])
+ 
+await doFillDinline(["For specific, on 20th of October, I will measure the size of these bathrooms and purchase tools.","For the next three days, the project will be launched, the control board and bulbs will be installed.","The last day is for inspecting and fixing (if necessary) and making trouble report","For this project, three problems are predicted: shortage of money, lack of water and electrical blackout","So I have some solutions like preparing back up money (500%), supplying water pump and emergency electricity generator."])
+ 
+await doClickBtn()
+ 

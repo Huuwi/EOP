@@ -1,0 +1,109 @@
+await changeUnitByTitle('UNIT 5: CUSTOMER SERVICE')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortSound(1)
+await doFillDinline(["handle","shipment","details","vanes","queries"])
+await doClickBtn()
+await doFillDinline(["gesture","inconvenience","queries","rotors","vane","invoice","service","sympathy","activation","handle"])
+ 
+ 
+await doFillDinline(["there","seems","to","be","get"])
+ 
+await doFillDinline(["have recently sent","delivered","will have to","is not working","typed"])
+ 
+await doFillDinline(["is","is","are","been","be"])
+ 
+await doFillDinline(["B","B","B","C","A","A","C"])
+ 
+await doFillDinline(["to","four","looks","one","be","safety goggles","to","PO number","filters","to"])
+ 
+await doFillDinline(["We will exchange them for the correct ones right away.","5","I will send you two more boxes tomorrow.","2","We will sort out a credit right away.","My mistake! I will send you a new invoice.","1","I am sorry about that. I will add one to your next order.","6","The driver will collect the extra ones tomorrow.","3"])
+ 
+await doFillDinline(["C-seems","C-delivered","A-looks","A-be","C-seem","A-be","A-as","A-to have","C-looks","A-be"])
+ 
+await doFillDinline(["receipt","3","problem","2","hear","4","replace","5","discount","7","6"])
+ 
+await doFillDinline(["6","3","4","8","8","5"])
+ 
+await doFillDinline(["adapter","model","89054","adapter","reasonable"])
+ 
+await doFillDinline(["D","C","A","B","F","I","E","J","G","H"])
+ 
+await doFillDinline(["B","C","B","A","B"])
+ 
+await doFillDinline(["downloaded","invoice","problem","pasted","antivirus"])
+ 
+await doFillDinline(["invoice","slow","faulty","letters","antivirus program"])
+ 
+await doFillDinline(["install","no","call"])
+ 
+await doFillDinline(["5","2","4","3","1"])
+ 
+await doFillDinline(["seem","screen","copied","menu"])
+ 
+await doFillDinline(["c","d","a","b","e"])
+ 
+await doFillDinline(["Missing instructions","Projector","Missing remote control","Coffee machine","Being broken","Books","Delay","Drinking water","Late delivery"])
+ 
+await doFillDinline(["missing","missing","remote control","remote control","542","542","deliver","late"])
+ 
+await doFillDinline(["3","4","1","4","2","2"])
+ 
+await doFillDinline(["return","engaged","air conditioning","model","invoice"])
+ 
+await doFillDinline(["N","N","N","Y","Y","N","N","N","N","N","Y","Y","N","N","Y","Y"])
+ 
+await doFillDinline(["detail","PV202","return","refund","new"])
+ 
+await doFillDinline(["parts","PB204","new","new","calling"])
+ 
+await doFillDinline(["D","B","A","C"])
+ 
+await doFillDinline(["B","C","B","A","A"])
+ 
+await doFillDinline(["goods","those","regret","return","replace"])
+ 
+await doFillDinline(["c","b","a","d","e"])
+ 
+await doFillDinline(["F","T","T","T","F"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["poor quality","apologises","purchases","solution","appreciation"])
+ 
+await doFillDinline(["defect","Staff","unit","Standard","technician"])
+ 
+await doFillDinline(["air conditioning unit","staff,","quality standards","technician","defect"])
+ 
+await doFillDinline(["2","2","3","1","1"])
+ 
+await doFillDinline(["E","A","C","B","D"])
+ 
+await doFillDinline(["respond professionally","attitude","fault","reputation","constructive criticism"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["I","F","I","I","I","F"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["to get in touch","to help","to put off","to tell","to set up","to answer","to need","to be sorry","to ask"])
+ 
+await doFillDinline(["I","F","F","I","F"])
+ 
+await doClickBtn()
+
+ 
+await doFillDinline(["Record","Summarise","Apologise","Offer","Replace","Refund","Deal with"])
+ 
+await doFillDinline(["Thank you for","complaining about","I'am sorry to hear","Unfortunately","in stock","However","I'am pleased to inform you","a full refund","purchase price","I apologise for the inconvenience","Please do not hesitate","Yours sincerely"])
+ 
+await doClickBtn()
+ 

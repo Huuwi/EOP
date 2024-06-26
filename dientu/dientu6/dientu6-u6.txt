@@ -1,0 +1,71 @@
+await changeUnitByTitle('UNIT 6: TECHNICAL PROBLEMS AND ADVICE')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["ATTACHMENT","CORROSION","DISABLE","DEBUG","DISSOLVE","ISSUE","OBSTACLE","POSITION","REJECT","REPEATER","ROUTER","RUST","SATELLITE","SHIELD","BOOSTER"])
+ 
+await doFillDinline(["C","A","B","E","D"])
+ 
+await doFillDinline(["adjust","booster","shield","security","firmware","resolution","router","interfere","lubricate","acquisition"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["C","C","P","P","P","C"])
+ 
+await doFillDinline(["might","may be","may have been","must have been","must be"])
+ 
+await doFillDinline(["rebooting","connect","move","boost","installing","upgrade","comes","get","rejects","unchecking"])
+ 
+await doFillDinline(["You could reset GPS and reboot smart device when you lose GPS signal","If photo doesn't appear when you click on link, firewall might block pop-ups.","Why don't you lower security level for attachments?","The overheating battery must make the computer shut down suddenly.","You can try clicking on the “undo” button"])
+ 
+await doFillDinline(["A-must have been","B-rebooting","B-must","C-may have","A-may","C-must be","B-debug","D-blocks","B-could","D-may interfere"])
+ 
+await doFillDinline(["D3","S3","D1","S2","D2","S1"])
+
+ 
+await doFillDinline(["correct","checked","type","wrong","monitor","resolution settings","Increase","attachments","blocking","security level"])
+ 
+await doFillDinline(["D3","S2","D2","S3","D1","S1"])
+ 
+await doFillDinline(["nothing","firewall","unchecking","router","interfering with","move","try","connection","screen","rebooting"])
+ 
+ 
+await doFillDinline(["must","must","may","might","could","must"])
+ 
+await doFillDinline(["typing","lowering","could","don't","suggest","try"])
+await doFillDinline(["photocopier","air-conditioner","computer"])
+ 
+await doFillDinline(["b","c","c"])
+ 
+await doFillDinline(["c","b","e","a","d"])
+ 
+await doFillDinline(["centrally","omni-directional","repeater","signal","firmware"])
+ 
+await doFillDinline(["c","d","b","a"])
+ 
+await doFillDinline(["Wipe","Prevents","Running smoothly","Dissolves","Soaks","Shields","Stuck"])
+ 
+await doFillDinline(["hardware","internal","software","code","configuration"])
+ 
+await doFillDinline(["complaints","performance","conditions","subject","instance","possibility","precaution","event","inconvenience"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["3","1","2","5","4"])
+ 
+ await doFillDinline(["I'm sorry you're having problems with that","I've checked on our end, and we're not experiencing any system downtime","Let me take you through it step-by-step.","You should go to Control Panel, click on Display, and then Settings.","Just let me know if you've got any more questions."])
+
+await doFillDinline(["I'am sorry about that", "I can see there is a slight problem, and we're investigating exactly what the issue is", "We’ll get back to you as soon as it’s working again – it should be sorted out within a couple of days.", "Your kind understanding and patience are appreciated"])
+
+ 
+await doFillDinline(["am","is","are investigating","will get","be sorted out","are appreciated"])
+ 
+await doClickBtn()
+await doClickBtn()

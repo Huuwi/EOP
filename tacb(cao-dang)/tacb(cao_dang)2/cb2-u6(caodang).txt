@@ -1,0 +1,36 @@
+await changeUnitByTitle('Unit 6: Vacations')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["J","H","D","C","I","E","F","A","G","B"])
+ 
+await doSortWords(["GO FOR A PICNIC","STAY (AT) HOME","COOK LUNCH","GO SIGHTSEEING","HAVE A PARTY","FLY WITH BRITISH AIRWAYS","SPEND A LOT OF MONEY","SPEND TIME RELAXING","TAKE A TAXI","SHARE A HOUSE"])
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doSortWords([null,null,null,null,null])
+
+ 
+await doFillDinline(["picnic","stay at home","rent","sightseeing","seafoods","landscape","festival","souvenirs","postcard","relaxing"])
+ 
+await doFillDinline(["took","walked","played","Was","said","rang","opened","wrote","posted","tried","spoke","didn't go","was","Did you buy","bought","Did you enjoy","was"])
+ 
+await doFillDinline(["came","washed","took","started","travelled","got","took","read","was","visited"])
+ 
+await doFillDinline(["Did you watch the news on TV last night?","What did they see in the Tower of London?","Were you happy with the exam results?","When did she go to school?","How many films did she appear in?","Was she a typical Hollywood star?","Did she attend the premiers of her movies?","How many children did she have?","When did she change her name?","When did you visit Egypt?"])
+ 
+await doFillDinline(["B","A","A","A","A","A","C","A","B","A","B","A","B","A"])
+ 
+await doFillDinline(["A","bought","D","couldn't","D","came","A","used","A","did","B","came","B","take","D","couldn't","B","did","C","visit"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","T","F","F"])
+ 
+await doFillDinline(["F","T","F","F","T","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doClickBtn()
+ 

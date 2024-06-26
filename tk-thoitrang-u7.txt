@@ -1,0 +1,70 @@
+
+await changeUnitByTitle('Unit 7 - A Job Interview')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["SPECIALIZE IN", "PORFOLIO", "AESTHETIC", "PERSISTANCE", "PASSIONATE", "SUITABILITY", "CONTRIBUTE", "INTERNSHIP (N)", "INNOVATIVE (ADJ)", "BACHELOR"])
+ 
+await doFillDinline(["qualities","experience","creativity","persistence","passionate","accomplished","mentoring","portfolio"])
+ 
+await doFillDinline(["creativity","innovative","artistic vision","suitability","mentoring","portfolio","enthusiasm","passionate","worked across","aesthetic"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["How can you describe yourself?","Why should I hire you?","Can you describe what you do in your current position ?","What have you learnt from your previous job?","Why did you leave your last job?","Why do you want to work for our company?","Where do you see yourself in 5 years from now?","What are your goals for the future?","I've always been very good at conducting research on fashion trends","Five years from now, I would like to see myself in an illustrating design position."])
+  
+await doFillDinline(["decided","have been","have received","earned","is","spend","do not have","will have","worked","believe","has worked"])
+ 
+await doFillDinline(["was","understood","attended","majored","studied","has become","decided","have had","have accomplished","was","gave","believe"])
+ 
+await doFillDinline(["B","spend/am spending","B","have","B","am not","A","involved","D","can"])
+  
+await doFillDinline(["B","working","B","to make","C","communicating","A","have worked","B","to plan","A","don't","C","about","B","concerned","A","graduated","A","heard"])
+
+await doFillDinline(["personally","culture","biography","Google search","apply for","accomplishments","motivation"])
+ 
+await doFillDinline(["2010","5 years","a friend","enthusiasm and persistence","public speaking","vice president"])
+
+await doFillDinline(["impressed","come up with","headway","third","team leader","turnover","development team"])
+ 
+await doFillDinline(["objectives","professional goals","overcome","improved","goals","employer","ambitious"])
+ 
+await doFillDinline(["F","T","F","going over","qualifications","candidate","recommend","my own brand","finished product"])
+ 
+await doFillDinline(["accountant","3 years","monthly","advertising consultant","salary situation","a week"])
+ 
+await doFillDinline(["Education and Experience","Skills","Knowledge","Porfolios"])
+ 
+await doFillDinline(["F","T","F","F","T"])
+ 
+await doFillDinline(["4","1","5","3","2","interest","qualifications","experiences and skills","career goals","handle"])
+ 
+await doFillDinline(["V","X","V","X","V","X","V","V","X","V","X","V","X","X","V"])
+
+await doFillDinline(["B","C","F","E","A","D"])
+ 
+await doFillDinline(["applying","suitability","skills","motivated","contribute","portfolios","experience"])
+ 
+await doFillDinline(["About educational background","About reasons for leaving/hiring","About working experience/ ability/skills","About personal profile","About goals/ plans for future"])
+ 
+await doFillDinline(["It's nice to meet you","I'm working for Esquel Company","I have been working for Esquel for the past 3 years","I have been in the creative department for the past 6 months","I was offered a more interesting position at Esquel"])
+
+        await doFillDinline(["I want to work as a pattern designer who is in charge of designing patterns for textiles.", "I have a lot of experience with both textiles and pattern making", "You'd also be a very good candidate to be a textile designer.", "Are you more interested in fabrics or the finished product?", "I graduated from Hanoi University of Industry and majored in Fashion Design and Garment Technology.", "Why did you decide to choose fashion design as a career?", "I know that working closely with buyers is important to help raise sale quotas to be effective.", "My experience of working as a Fashion Designer would be useful for this position", "At the moment, I am working for Blue Exchange in a role where I am involved in drawing design ideas", "According to you, what skills are necessary for a successful fashion designer?"])
+ 
+
+await changeUnitByTitle('Unit 7 - A Job Interview')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["learned","to attach","have","my skills","upgrading","as","vision","Choosing","Suggesting","appreciate"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

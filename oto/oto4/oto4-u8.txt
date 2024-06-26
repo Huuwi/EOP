@@ -1,0 +1,74 @@
+await changeUnitByTitle('Unit 8: Car specifications')
+ 
+await doListeningPlayBtn()
+ 
+await doClickBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["SHOULDER ROOM", "CYLINDER", "TRANSMISSION", "TORQUE", "HALOGEN", "ADJUSTABLE", "COMPATIBLE","TOUCH SCREEN"])
+await doClickHearing2(0)
+await doFillDinline(["Torque","Power steering","Engine displacement","Cylinder","Turbo charger","Manual transmission","Gross weight","Headroom","Cargo volume","Infotainment system","Warranty time","Warranty distance"])
+ 
+await doFillDinline(["Turbo","transmission","higher","torque","dual","headlights","deliveries"])
+ 
+await doFillDinline(["Mileage","Engine displacement","cylinder","Turbo charger","Fuel tank capacity","Kerb weight","Gross weight","Headroom","Infotainment system","Acceleration"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["The 4-cylinder engine","The 6-speed transmission","The 20-inch wheels","The 12 3-inch infotainment screen","The 825-liter boot","The 2.502-pound model","The six-way electrically adjustable seat"])
+ 
+await doFillDinline(["The new America-sourced Acadia","The carbon-fiber engine cover","The manually-adjusted front seats","The rear-seat legroom","The all-wheel drive version","The front-seat comfort","The best medium-sized SUVs"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["as standard","bigger","longer","as generous","taller","broader"])
+ 
+await doFillDinline(["heavier than","as heavy as","as big as","not as many","more powerful than","not as many as"])
+ 
+await doFillDinline(["In comparison","Like","Unlike","compared","difference","Both","and","the same","while"])
+ 
+await doFillDinline(["A","six-speed","C","width","C","makes","B","more","D","18-inch","D","as","C","produces","D","with","D","from","C","the same"])
+ 
+await doFillDinline(["1.5-liter I4","1.6-liter I4","6300 rpm","5","60000","Wheelbase","172.6","37.5","13.7"])
+
+await doFillDinline(["4 passengers","1.0 inch","voice control","turbocharged 4-cylinder","dual-clutch automatic"])
+ 
+await doFillDinline(["city","small size","powertrains","137 hp","below 2,700 pounds"])
+ 
+await doFillDinline(["safety","driver and passenger","4-cylinder petrol","140 mph","CD autochanger"])
+ 
+await doFillDinline(["4,335","1,814","1,695","Wheelbase","1,495","four-cylinder","147","six-speed automatic","automatic halogen","electrically adjustable","leather","Touchscreen","front passenger"])
+
+await doFillDinline(["snapshot","operation","dimensions","height","safety features","performance specs"])
+ 
+await doFillDinline(["370 hp","manual","3,150 pounds","over 180 mph","3.0 liters","No"])
+  
+await doFillDinline(["100 horsepower","Abarth","16 inches","MultiAir Turbo","Yes","driving session"])
+ 
+await doFillDinline(["longest-serving and most-recognized","revamped infotainment system","sedan","2018 Hyundai Elantra GT","in Las Vegas"])
+ 
+await doFillDinline(["coupe, convertible","five","sunroof","seventeen inches","six-speed automatic"])
+ 
+await doFillDinline(["eight-speed automatic","eight-cylinder","six seconds","4 4-litre","100,000","six cylinders","petrol engine","fuel economy","92,025"])
+ 
+await doFillDinline(["Under the CX-5's bonnet, you will find a 2.5-litre petrol four-cylinder engine with the fuel consumption of 7.4l/100km.", "The Tiguan of Volkswagen is powered by a 2.0-litre four-cylinder petrol engine.", "The Tiguan’s infotainment system is excellent with native satellite navigation", "The oversized front grill is necessary to feed air to the engine", "Engineers have modified the engine from 580N/mm on the old car to 900N/mm on the competition model.", "The carbon-fiber roof is not only lighter but also reduces the car's center of gravity."])
+ 
+
+await doFillDinline(["The Porsche 992 will be introduced in late November at the Los Angeles auto show.","In comparison with the old models, the Carrera S and 4S coupes will hit the market first next year.","There will be a new 2019 Aston Martin Vantage which will arrive in showrooms at the end of this year.","The M5 version is equipped with a switchable M Sport exhaust with opening and closing flaps.","The wheelbase is the same, but overall length increases by about an inch","The base Carrera gets a smaller bump from 370 to 385 horsepower."])
+ 
+await doFillDinline(["C","A","B","A","B","B"])
+ 
+await doFillDinline(["It accelerates to 100kmph in 6.9 seconds","It is equipped with an 85-liter fuel tank.","It is powered by a 6-cylinder diesel engine","The engine pairs with 8- speed automatic turbo-charged transmission.","It is updated with a power adjustable rear view mirror.","Touchscreen infotainment system is compatible with Bluetooth/ 16-speaker system and audio system remote control."])
+ 
+await doFillDinline(["is powered by 2.0-liter I4 engine","is powered by 1.5-liter I4","gets 158 hp at 6,500 rpm","are equipped with 6-speed manual","come standard with a power adjustable","the same warranty time and distance","is longer than"])
+
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

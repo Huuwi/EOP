@@ -1,0 +1,60 @@
+await changeUnitByTitle('UNIT 8: HEALTH')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["Headache","Take some pills","Sneeze","Awful","Stomachache","Sprained ankle"])
+ 
+await doClickHearing2(0)await doSortWords(["HEADACHE","SORE THROAT","SPRAINED ANKLE","FEVER","FLU","STOMACHACHE","SNEEZE","HURT","TIRED","CHILLED","AWFUL","TAKE SOME PILLS","CALL THE DOCTOR","STAY IN BED"])
+ 
+await doSortWords(["HEADACHE","SORE THROAT","SPRAINED ANKLE","FEVER","FLU","STOMACHACHE","SNEEZE","HURT","TIRED","CHILLED","AWFUL","TAKE SOME PILLS","CALL THE DOCTOR","STAY IN BED"])
+ 
+await doFillDinline(["throat","flu","stomachache","cold","fever"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doClickBtn()
+ 
+await doFillDinline(["gets","has got","feel","have got","have got"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["How do you feel?","What is the matter with her?","How does he feel?","What is the matter with them?","What is the matter with your dad?"])
+ 
+await doFillDinline(["cold","sore throat","headache","sneezing","fever"])
+ 
+await changeUnitByTitle('UNIT 8: HEALTH')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["He has a bad cold so he is very tired","What is the matter with him?","How does she feel now?","Have you got a headache?","He stayed up late yesterday so he feels awful now.","She has to stay in bed because she has got the flu","I have got a sore throat. It hurts when I speak."])
+ 
+await doFillDinline(["A","A","B","A","B"])
+ 
+await doFillDinline(["13"])
+ 
+await doFillDinline(["A","B","B","C","B","A","C","B"])
+ 
+await doFillDinline(["home","everything","matter","headache","bus stop's","website"])
+ 
+await doFillDinline(["A","A","C","B","C","B"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["very sick","go home","payroll checks","boss","office workers","colds"])
+ 
+await doFillDinline(["How do you feel?","You should take some pills.","I have got a flu and I sneeze","I have got a sprained ankle, so I can not play soccer.","What is the matter with him?"])
+ 
+await doFillDinline(["fever","sprained ankle","headache","Take some pills","stay home"])
+ 
+await doFillDinline(["Fever","stomachache","hurts","sneezes","awful","pills","sprained","stay","tired","call"])
+ 
+await doFillDinline(["Doctor, what is the best way to stay healthy?","I do not know what I should eat","Can I drink wine now?","Is there anything I should avoid?","Stop smoking and make sure that you do exercise every day."])
+ 
+await doClickBtn()
+ 

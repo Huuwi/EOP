@@ -1,0 +1,58 @@
+await changeUnitByTitle('Unit 4: In the house')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)await doClickHearing2(0)await doFillDinline(["M","G","F","H","D","A","K","E","C","N","u","I","P","B","L","Q","S","R","T","J","O"])
+ 
+await doSortWords(["A SOFA","A FRIDGE","A CUPBOARD","A LAMP","A COOKER","A SHELF","A COFFEE TABLE","AN ARMCHAIR","A STEREO","A WASHING MACHINE","A MIRROR","A PLANT","A TOWEL","AN ALARM CLOCK","A SINK","A BATHROOM","A KITCHEN","A BEDROOM","A LIVING ROOM","SHAMPOO","TOOTHPASTE"])
+ 
+await doClickHearing2(0)await doFillDinline(["sofa","shelf","mirror","kitchen","fridge","towel","cupboard","stereo","alarm clock","bedrooms"])
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["me","They","she","her","him","he","We","us","We","them","they","we","it","it"])
+ 
+await doFillDinline(["F","T","T","F","T","F"])
+ 
+await doFillDinline(["D-us","B-him","D- his","C- their","C - him","C- your","B- her","B - your","D - her","D-its"])
+ 
+await doFillDinline(["C","A","B","D"])
+ 
+await doFillDinline(["F","D","A","E","C","B"])
+ 
+await doFillDinline(["T","F","F","T","T","F","F","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["We live in a large house:","How many rooms are there in her house?","There are six rooms in my house","What is your favourite room in the house?","The bookshelf is next to my bed"])
+ 
+await doFillDinline(["There are some books on the shelf.","There is a sofa and an armchair in the living room","I like listening to music on stereo.","There are five rooms in my house.","We keep food in the fridge.","Her house is near my house","My brother lives near the stadium","How many rooms are there in your house?","Is there a television in the living room?","Are there two bedrooms in your house?"])
+ 
+await doClickBtn()
+ 
+await changeUnitByTitle('Unit 5: Activities at home')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)await doClickHearing2(0)await doSortWords(["TURN DOWN THE TV","TURN UP THE AIR-CONDITIONER","WASH ONE’S HAND","WASH ONE’S HAIR","BRUSH ONE’S TEETH","BRUSH ONE’S HAIR","CUT SOME VEGETABLES","PUT ON SOME MAKE-UP","GET DRESSED","CLEAN THE HOUSE","DO THE WASHING-UP","WASH ONE’S CLOTHES"])
+ 
+await doFillDinline(["cannot","cannot","can","cannot","can","cannot","cannot","cannot","Can","can"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["4","1","3","6","5","2"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","T","F","T","T"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 

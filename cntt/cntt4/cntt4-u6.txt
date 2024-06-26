@@ -1,0 +1,78 @@
+
+ await changeUnitByTitle('Unit 6: Programming software')
+ 
+await doListeningPlayBtn()
+
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["Debugger","HTML","Hypertext Markup Language","Define","Markup tag","Interpret","VoiceXML","Voice Extensive Markup Language","Source code editor","Text editor","Convert","High-level language"])
+ 
+await doFillDinline(["j","d","h","a","f","b","e","c","g","I"])
+ 
+ 
+await doFillDinline(["Extensive Markup Language","Visual BASIC","Voice Extensive Markup Language","Fortran","Command","Source code editor","Assembly language","Low-level language","Incorporate","Text editor"])
+ 
+await doClickHearing2(0)
+await doFillDinline(["Visual Basic","Fortran","constrain","machine","code","assembler","high-level","language","linker","overcome","fundamentals","interpreter"])
+
+
+await doFillabc()
+ 
+await doFillDinline(["Markup languages","Assembly languages","Assembler","Visual Basic","binary","compiler","interpreter","machine","VoiceXML","text editor"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Programming","program","programer","programmable","communication","communicate","communicative","communicating","debugger","debug","debugging"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["compiler","development","tired","to write","debugger","connecting","compilation","combination"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["use","to use","go","to go","transmitted","be transmitted","teach","to teach","use","using","take","taking","to perform","perform","communicate","communicating"])
+ 
+await doFillDinline(["engineering","design","be transformed","description","programmer","interactions","specifying","programming","solving","to solve"])
+ 
+await doFillDinline(["A","to write","D","fixing","B","work","A","to create","B","instructions","B","to develop","C","scientific","D","to build","A","to write","C","understand"])
+ 
+await doFillDinline(["in 1990","software engineers","web browser","in May 1995","web pages"])
+ 
+await doFillDinline(["user interface","reaction","mobile devices","applied","computer science"])
+ 
+await doFillDinline(["F","T","T","F","F"])
+ 
+await doFillDinline(["T","F","F","T","T"])
+ 
+await doFillDinline(["required features","writing the program","researching","piece of code","planning out"])
+ 
+await doFillDinline(["too difficult","assembler","FORTRAN","business applications","Visual Basic"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["F","T","F","T","F","T"])
+  
+await doFillDinline(["F","T","F","T","F","T"])
+ 
+await doFillDinline(["a layout program","high-quality scalable fonts","PDF","Adobe Acrobat Reader","plate- setter"])
+
+ 
+await doFillDinline(["T","T","F","F","T","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["FORTRAN","COBOL","Java","XML","VoiceXML"])
+ 
+await doFillDinline(["Spyware can make your computer perform more slowly.","Dave agrees to do the project with me because he is interested in writing programs","I went on the course in FPT Company to learn how to be a good tester.","Could I use your laptop? I need to print out this report.","Once you are online, you should update your website regularly."])
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["was developed","Programming","compiler","debugger","presenting","to see","to learn","write","learn","to create"])
+ 
+await doFillDinline(["It is difficult to write programs using low-level languages.","We are interested in taking part in the IT Day.","He should take a course of web design.","Writing code is not easy.","Firewall is a good method to protect your computer from hackers and viruses.","The development of technology makes the way of work change.","Our son went to London University to study computer science in 2016","Tony always wants to work as a software engineer in Microsoft."])
+ 
+await doFillDinline(["use","to use","go","to go","transmitted","be transmitted","teach","to teach","use","using","take","taking","to perform","perform","communicate","communicating"])
+ 
+await doClickBtn()
+ 

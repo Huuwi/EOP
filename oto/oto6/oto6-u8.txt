@@ -1,0 +1,68 @@
+await changeUnitByTitle('Unit 8: Job interview')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["PERSISTENT","DECISIVE","RESPECTFUL","WELL-INFORMED","PROFESSIONAL"])
+ 
+await doSortWords(["ADVANCEMENT","ENERGETIC","PROPERLY","MOTIVATED","EXPERIENCE"])
+ 
+await doFillDinline(["f","a","e","b","g","c","d"])
+ 
+await doFillDinline(["advancement","involved","challenges","qualifications","alumni","accomplished","experience","behavior","business casual","respectful"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["at","to","with","at","to","in","to","at","under"])
+ 
+await doFillDinline(["felt","enjoyed","have led","have known","work","spend"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["used","m","have","developed","‘ve searched","do","see","have","contribute"])
+ 
+await doFillDinline(["was","began","sought","attended","majored","studied","decided","have had"])
+ 
+await doFillDinline(["B","to make","D","taking","B","to plan","A","graduated","D","be challenged","A","worked","A","is","C","take","A","to dig","B","help"])
+ 
+await doFillDinline(["confident","arrives early","smiles","experiences","good questions"])
+ 
+await doFillDinline(["confident","arrives early","smiles","experiences","good questions"])
+ 
+await doFillDinline(["A","C","C","C","B"])
+ 
+await doFillDinline(["moving overseas","organizing systems","shutting down","researching","impatient"])
+ 
+await doFillDinline(["at least 10 minutes","contact telephone number","English","copy of resume","a successful response"])
+
+await doFillDinline(["at least 10 minutes","contact telephone number","English","copy of resume","a successful response"])
+ 
+await doFillDinline(["thinking","words and phrases","long answers","smart, formal clothes","content"])
+ 
+await doFillDinline(["goals and values","executive team","Career Office","Investor Relations","Linkedin profiles"])
+ 
+await doFillDinline(["behavioral","hiring managers","difficult situations","soft skills","personal life","failure","tough situation"])
+ 
+await doFillDinline(["practice your pitch","your place","your expenses","salary history","job and duties"])
+ 
+await doFillDinline(["flexible","supervisor","day off","professional appearance","excuse"])
+ 
+await doFillDinline(["LinkedIn page","news or stories","values and vision","experience","company culture"])
+ 
+await doFillDinline(["I'love spending my time designing new things with my team","I'm a persistent worker and I like to take on a variety of challenges","I think giving presentations is the most challenging aspect of my job duties","I would like to figure out solutions to all the problems I encounter at work.","My greatest strength is my ability to work with many different people."])
+ 
+await doFillDinline(["I graduated from HaUI with a bachelor degree in Automotive Engineering in 2018.","My long-term goal is being an excellent employee in Tesla manufacturer.","Five years from now, I would like to see myself in a management position","I am motivated, I like working with something that involves hard work and effort","I prefer working in a challenging environment and work better under stress."])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["B","C","F","D","E","A"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
