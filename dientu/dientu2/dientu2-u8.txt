@@ -21,16 +21,13 @@ await doCheckBoxNeww(4)
 await doFillDinline(["How do you feel?","What is the matter with her?","How does he feel?","What is the matter with them?","What is the matter with your dad?"])
  
 await doFillDinline(["cold","sore throat","headache","sneezing","fever"])
- 
-await changeUnitByTitle('UNIT 8: HEALTH')
- 
-await doListeningPlayBtn()
+
  
 await doFillDinline(["He has a bad cold so he is very tired","What is the matter with him?","How does she feel now?","Have you got a headache?","He stayed up late yesterday so he feels awful now.","She has to stay in bed because she has got the flu","I have got a sore throat. It hurts when I speak."])
  
 await doFillDinline(["A","A","B","A","B"])
  
-await doFillDinline(["13"])
+await doFillDinline(["1,3"])
  
 await doFillDinline(["A","B","B","C","B","A","C","B"])
  

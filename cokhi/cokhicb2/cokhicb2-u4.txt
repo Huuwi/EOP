@@ -6,7 +6,15 @@ await doClickHearing2(0)
 await doClickHearing2(0)
   
 
-await controller() 
+await doSortWords([
+            'ROUNDABOUT',
+            'MUSEUM',
+            'RESTAURANT',
+            'DEPARTMENT STORE',
+            'BUS STOP',
+            'CROSSROADS',
+            'T-JUNCTION',
+            'TRAFFIC LIGHTS', "BRIDGE", 'CORNER'])
  
 await doClickHearing2(0)
 await doFillDinline(["D","B","A","C","C","D","A","B"])

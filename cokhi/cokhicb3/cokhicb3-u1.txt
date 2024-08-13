@@ -1,0 +1,81 @@
+await changeUnitByTitle('UNIT 1: LIFE EXPERIENCES')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+        await doSortWords(["WIN THE LOTTERY", "GO ON A FIELD TRIP", "GET LOST", "LOSE A GAME", "PASS AN EXAM", "FAIL AN EXAM", "BE ON TV", "TRAVEL ABROAD", "BREAK ONE’S LEG", "MEET A FAMOUS PERSON", "SING IN PUBLIC", "BREAK A RECORD", "HAVE A PARTY", "LOSE AN IMPORTANT THING"])
+
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Unfortunately","terrible","Fortunately","unbelievable","unforgettable","romantic","nervous","upset"])
+ 
+await doFillDinline(["record","broke","nervous","lottery","upset","lost","romantic","field","famous","abroad"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["did","done","lost","lost","went","gone","passed","passed","broke","broken","met","met","rode","ridden","sang","sung","had","had"])
+ 
+await doFillDinline(["have read","has visited","has won","has not received","have never eaten","Has","sung","has failed","has just passed"])
+ 
+await doFillDinline(["Have you been","have just seen","have not visited","Have you been","have just missed"])
+ 
+await doFillDinline(["has just gone","went","have broken","broke","has just won","have never won","Did","watch","have just watched","spent","have not been"])
+ 
+await doFillDinline(["Have you ever met a famous person?","Have you finished writing your book yet?","I've never seen anyone who eats more than you.","Are there any letters for me? I have just seen the postman.","Have you ever bought a lottery?","I have never climbed a mountain before so I am very eager.","Nina and Tin have already passed their English exam"])
+ 
+await doFillDinline(["A","Have","A","has already","C","gave","A","did you see","D","yet","B","lost","A","has worked","C","won","A","has met","C","bought"])
+ 
+await doFillDinline(["last week","Yes","relax","expensive","teacher"])
+ 
+await doFillDinline(["last week","Yes","relax","expensive","teacher"])
+ 
+await doFillDinline(["T","F","T","F","T"])
+ 
+await doFillDinline(["V","V","X","V","X","X","V","V","X","X"])
+ 
+await doFillDinline(["Japan","car","London","sometimes","No"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["F","F","T","F","T","F"])
+ 
+await doFillDinline(["F","F","T","F","T","F"])
+ 
+await doFillDinline(["Y","Y","N","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","N","N"])
+ 
+await doFillDinline(["every week","unbelievable","ten years","No","France"])
+ 
+await doFillDinline(["T","F","T","F","T","T"])
+ 
+await doFillDinline(["T","F","T","F","T","T"])
+ 
+await doFillDinline(["three times","a job","a millionaire","car","three"])
+ 
+await doFillDinline(["sixty","Belgium","forty","Yes","Egypt"])
+ 
+await doFillDinline(["primary school","three-course meals","interesting experiences","alone","her journeys"])
+ 
+await doFillDinline(["B","A","B","C","C","A"])
+ 
+await doFillDinline(["They have not broken their legs","Sue has met a famous person but Harry hasn't.","They have sung in public.","They have failed an exam.","They have not been on TV.","They have not won the lottery."])
+ 
+await doFillDinline(["B","A","A","A","B","A","A","B"])
+ 
+await doFillDinline(["Where did you live","Why did you go","Why did you leave","How many books have you written","What was","Have you finished","Have you started"])
+ 
+await doFillDinline(["We went to Valletta and we saw many colorful lanterns.","When I turned round, I did not see my parents.","I looked everywhere for them but I couldn't find them.","I started walking and calling for my mum and dad but I couldn't find them anywhere","My parents always told me","I saw someone so I went to tell him what happened","When I found out that he was only a boy, I became more scared.","Finally, I heard somebody shouting my name and I realized it was my brother","When I go out in a crowd, I still hold someone's hand because I don't want to get lost again","That was the most frightening experience I have ever had."])
+ 
+await doFillDinline(["Nam has not travelled abroad. He wants to go to Singapore next year.","My parents went to Egypt two years ago. They took a lot of photos at the pyramids","Mark learnt a lot when he went on a field trip with his classmates last week.","Tim has bought a lot of lottery tickets, but he hasn't won once.","Sue and Emily are interested in singing but they have never sung in public.","We got lost in a forest last summer holiday. We were so frightened","My brother and his girlfriend rode an elephant in Don Village last summer holiday.","No one in the town has broken the record. That is surprising.","I have never been on TV but my best friend has.","Last year, my brother had an unforgettable birthday party because his girlfriend accepted his proposal on that day."])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

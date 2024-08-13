@@ -21,15 +21,15 @@ async function main() {
 
         page = await browser.newPage()
         await page.goto('https://eop.edu.vn/login')
-        await page.type(`input[type="text"].form-control[spellcheck="false"][title="Nhập tên tài khoản"][maxlength="100"][placeholder="Mã sinh viên"]#input-username`, "2022606264")
-        await page.type(`input[type="password"].form-control[title="Nhập vào mật khẩu"][maxlength="100"][placeholder="******"]#input-password`, "Thao@2004!")
+        await page.type(`input[type="text"].form-control[spellcheck="false"][title="Nhập tên tài khoản"][maxlength="100"][placeholder="Mã sinh viên"]#input-username`, "2022603955")
+        await page.type(`input[type="password"].form-control[title="Nhập vào mật khẩu"][maxlength="100"][placeholder="******"]#input-password`, "2022603955@1")
         await page.click(`button.btn.btn-success.btn-block#login-btn`)
         await page.waitForTimeout(500)
 
         const changeUnitByTitle = async (title) => {
             page = await browser.newPage();
             await page.goto('https://eop.edu.vn/study/branch/91')
-            await page.click(`a[title="Tiếng Anh Điện - Điện tử cơ bản 4 V2-FL6133_2"`)
+            await page.click(`a[title="Tiếng Anh Điện - Điện tử cơ bản 2 V2-FL6131_2"`)
             await page.click('i.fa.flaticon-persons8')
             element = await page.$(`[title="${title}"]`);
             href = await element.evaluate(node => node.getAttribute('href'));
@@ -51,40 +51,6 @@ async function main() {
             fs.appendFileSync('./CONVERT.txt', `await doClickBtn()\n \n`)
             await page1.waitForTimeout(8000)
         }
-        // const observer = new MutationObserver(mutationsList => {
-        //     // Kiểm tra mỗi mutation
-        //     mutationsList.forEach(mutation => {
-        //         // Kiểm tra nếu có thêm nodes mới vào DOM
-        //         if (mutation.type === 'childList') {
-        //             // Kiểm tra xem có phần tử mong muốn không
-        //             const targetElement = document.querySelector('body > div.dboxy.fixed > div > div > b.dbxclo > i');
-        //             if (targetElement) {
-        //                 // Nếu phần tử tồn tại, thực hiện click
-        //                 targetElement.click();
-        //                 // Dừng quan sát sau khi thực hiện click
-        //                 observer.disconnect();
-        //             }
-        //         }
-        //     });
-        // });
-
-        // // Bắt đầu quan sát các thay đổi trong DOM
-        // observer.observe(document.body, { childList: true, subtree: true });
-        // browser.on("targetcreated", async (target) => {
-        //     const page1 = await target.page();
-        //     if (page1) {
-        //         await page1.close()
-        //         count--
-        //         return
-        //         // await page.waitForTimeout(3000)
-        //     }
-        // });
-        const doGotoUrlForOneTesting = async (url) => {
-            await page1.waitForTimeout(2000)
-            await page1.goto(url)
-            await page1.waitForTimeout(8000)
-        }
-
         const doFillDinline = async (answers) => {//dùng cho bài điền ,  đối số nhận vào là đáp án đúng
             //await page1.waitForTimeout(2000)
             // Truyền answers và count vào hàm evaluate bằng tham số
@@ -96,7 +62,7 @@ async function main() {
                     input.value = answers[index];
                 });
             }, answers);
-            await page1.waitForTimeout(1000)
+            await page1.waitForTimeout(2000)
             await page1.click("button.btn.btn-info.dnut")
             try {
                 await page1.waitForTimeout(500)
@@ -255,6 +221,9 @@ async function main() {
                 }
                 if (answers[index] == "Cc") {
                     answers[index] = "C"
+                }
+                if (answers[index] == "Vv") {
+                    answers[index] = "V"
                 }
                 if (answers[index] == "") {
                     answers[index] = "I"
@@ -436,7 +405,7 @@ async function main() {
             await page1.waitForSelector('.dtitle')
             const elements = await page1.$$('.dtitle');
             await run(index, elements)
-            fs.appendFileSync('./CONVERT.txt', `await doClickHearing2(0)`)
+            fs.appendFileSync('./CONVERT.txt', `await doClickHearing2(0) \n \n`)
             await page1.waitForTimeout(8000)
         }
 
@@ -564,7 +533,7 @@ async function main() {
             }
             await page1.click("button.btn.btn-info.dnut")
             await page1.waitForTimeout(3000)
-            for (let i = 0; i < inputs.length + 2; i++) {
+            for (let i = 0; i < inputs.length + 4; i++) {
                 try {
                     await runFillABC(inputs, abc[i + 1])
                 } catch (error) {
@@ -664,11 +633,11 @@ async function main() {
                 return
             }
             if (classTask == "dmcq pronunciation-write-word") {
-                await doSortWordsNew(1)
+                await doSortWordsNew(2)
                 return
             }
             if (classTask == "dmcq audio-write-word") {
-                await doSortSound(1)
+                await doSortSound(2)
                 return
             }
             if (classTask.includes("fill")) {
@@ -709,62 +678,62 @@ async function main() {
                 }
             }
         }
-        await changeUnitByTitle('UNIT 8: PROJECT PRESENTATION')
+
+
+        await changeUnitByTitle('UNIT 9: INVENTIONS')
 
         await doListeningPlayBtn()
+        await doFillDinline(["got", "came", "asked", "stolen", "returned"])
 
-        // await doClickHearing2(0)
-        // await doClickHearing2(0)
-        // await doClickHearing2(0)
-        // await doClickHearing2(0)
-        await controler()
-        // await doSortWords(["EFFICIENCY", "ESTIMATE", "TROUBLE REPORT", "INSPECT", "EMERGENCY ELECTRICITY GENERATOR", "EXPECT", "SET DEADLINE", "FORESEE", "OCCUR", "HANDLE", "LAUNCH", "MEET THE DEADLINE", "PURCHASE", "BUDGET", "WIFI ROUTER", "BREAK DOWN", "BACK-UP PLAN", "ELECTRICAL BLACKOUT"])
 
-        await doFillDinline(["down", "expect", "handle", "operate", "suggest", "overheads", "launched", "electrical", "design", "estimate"])
+        await excute()
+        // await doListeningPlayBtn()
+
+        await doClickHearing2(0)
+
+        await doClickHearing2(0)
+        await doClickHearing2(0)
+        await doFillDinline(["X-ray machine", "necessary", "electric light", "Google", "essential", "bicycle", "telephone", "windscreen wiper", "photograph", "paper"])
+
+        await doFillDinline(["paper", "necessary", "bicycle", "photographs", "television", "windscreen wiper", "essential", "telephone", "important", "plane"])
 
         await doClickBtn()
 
-        await doFillDinline(["will send", "are going to", "will have", "install", "will be", "will be set", "needs", "will", "will", "will complete"])
+        await doCheckBoxNeww(4)
 
-        await doFillDinline(["D", "D", "B", "A", "C", "A", "D"])
-
-        await doFillDinline(["4", "1", "1", "2", "2", "3", "2", "2", "4", "3"])
+        await doCheckBoxNeww(4)
 
 
-        await doFillDinline(["C", "B", "D", "C", "A", "B"])
 
-        await doFillDinline(["B - tougher", "B - cheapest", "C - more", "C - batteries", "C - narrower", "D-a", "C - flow", "B- part", "C - talk", "B - current"])
+        await doFillDinline(["The Eiffel Tower is visited by over 5 million people every year.", "The telephone was invented by Alexander Graham Bell in 1876.", "Was the helicopter invented by Leonardo da Vinci?", "Television was not invented by Bell.", "Rolls Royce cars are made in Britain"])
 
-        await doFillDinline(["heat", "thickness", "Temperature", "problems", "operation"])
+        await doCheckBoxNeww(4)
 
-        await doFillDinline(["wire", "heat", "maximum", "quality", "volts", "applications", "high temperature", "inefficiencies"])
+        await doFillDinline(["B: was", "A:is", "C:by", "B: are", "A: was"])
 
-        await doFillDinline(["circuit board", "component", "Clamp", "flat", "3", "top"])
+        await doFillDinline(["A", "D", "C", "A", "B"])
 
-        await doFillDinline(["preparing", "circuit board", "clamp", "wires", "flat"])
+        await doFillDinline(["D", "A", "F", "B", "C", "E"])
 
+        await doFillDinline(["F", "T", "T", "F", "F"])
 
-        await doFillDinline(["15", "270", "superconducting", "30", "connected"])
+        await doFillDinline(["B", "C", "A", "B", "C"])
 
-        await doFillDinline(["liquid", "super", "conductive", "protons", "open", "shock"])
+        await doFillDinline(["Wilhelm Konrad Roentgen", "In 1896.", "The very first Nobel Prize in Physics", "At airports"])
 
-        await doFillDinline(["A smart goal", "5", "cool ideas", "action plan", "Idea generation, goal setting, the action plan, take persistent action"])
+        await doFillDinline(["took", "see", "discovered", "built", "used"])
 
-        await doFillDinline(["F", "T", "T", "F", "T"])
+        await doFillDinline(["Larry Page and Sergey Brin", "Because they wanted to create something that could answer any questions in seconds", "Nobody", "They started their own company.", "Because it was fast, easy and accurate."])
 
-        await doFillDinline(["B", "A", "A", "C", "B"])
+        await doCheckBoxNeww(4)
 
-        await doFillDinline(["B", "D", "C", "A", "D"])
+        await doFillDinline(["He got it on his birthday.", "He wanted to go to Tom's house.", "Connor Drive", "About thirty minutes", "He promised not to steal the bike again."])
 
-        await doFillDinline(["Refrigerant", "pipes", "evaporator", "under high pressure", "second fan"])
+        await doFillDinline(["got", "came", "asked", "stolen", "retuned"])
 
-        await doFillDinline(["T", "F", "F", "F", "T"])
+        await doFillDinline(["B", "A", "B", "C", "A"])
 
-        await doFillDinline(["A", "C", "A", "B", "A", "B"])
-
-        await doFillDinline(["is setting up", "will", "have", "are", "need", "require"])
-
-        await doFillDinline(["For specific, on 20th of October, I will measure the size of these bathrooms and purchase tools.", "For the next three days, the project will be launched, the control board and bulbs will be installed.", "The last day is for inspecting and fixing (if necessary) and making trouble report", "For this project, three problems are predicted: shortage of money, lack of water and electrical blackout", "So I have some solutions like preparing back up money (500%), supplying water pump and emergency electricity generator."])
+        await doFillDinline(["Televisions are used to transmit sound and moving pictures", "Electric lights are used to help people see things clearly in the darkness.", "Planes are used to carry a big number of passengers in the air.", "The first photograph was invented in 1832", "Nowadays, Google is used by thousands of people:"])
 
         await doClickBtn()
 

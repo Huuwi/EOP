@@ -8,10 +8,6 @@ await doListeningPlayBtn()
  
 await doListeningPlayBtn()
  
-await changeUnitByTitle('Unit 2: Machine tools')
- 
-await doListeningPlayBtn()
- 
 await doClickHearing2(0) 
  
 await doClickHearing2(0) 

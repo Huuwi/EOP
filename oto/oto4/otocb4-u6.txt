@@ -15,7 +15,7 @@ await doClickHearing2(0)
  
 await doCheckBoxNeww(4)
  
-await doFillDinline(["connectâing rod","sump","cylinder","valve","engine block","crankshaft"])
+        await doFillDinline(["connecting rod", "sump", "cylinder", "valve", "engine block", "crankshaft"])
  
 await doFillDinline(["combustion","fuel","spark plug","piston","crankshaft","cylinders"])
  

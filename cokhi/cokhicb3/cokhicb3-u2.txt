@@ -1,0 +1,95 @@
+await changeUnitByTitle('UNIT 2: TELEPHONING')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+
+ 
+        await doSortWords(["AVAILABLE", "ANSWERPHONE", "ENGAGED", "FIRST", "THIRD", "CONTACT", "SIGNAL", "CONFIRM", "SUIT", "VOICE MAIL"])
+ 
+
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doFillDinline(["third","11th","31st","2nd","12th","fifth","fiftieth","23rd","fifteenth","twenty-fifth"])
+
+await doFillDinline(["f","a","g","d","e","c","b"])
+ 
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["cancels","possible","text","suit","through","appointment","message","signal","extension","second"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["are working","is currently working","is Mark phoning","is making","are not working","are you doing","am surfing","Is he replying","is Larry coming","is answering"])
+ 
+await doFillDinline(["on","on","at","in","in","on","x","at"])
+ 
+await doFillDinline(["Is that","This is","take","message","Could","call","say","will give"])
+ 
+await doFillDinline(["Is that","This is","take","message","Could","call","say","will give"])
+ 
+await doFillDinline(["9","10","11","12","7","4","8","5","6","13","3"])
+ 
+await doFillDinline(["A","E","B","D","C","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["B","is answering","C","am not","C","am having","B","meeting","D","arrange","D","suit","D","to leave","D","at","D","on","C","are studying"])
+ 
+await doFillDinline(["ANDAC","meeting","00442073996344","call back"])
+ 
+await doFillDinline(["ABC","meeting","call her back","5559876543","a fax"])
+
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["F","T","F","T","T"])
+ 
+await doFillDinline(["Y","N","Y","N","N","Y","N","Y","Y","N"])
+ 
+await doFillDinline(["Y","N","Y","N","N","Y","N","Y","Y","N"])
+ 
+await doFillDinline(["T","F","F","T","T"])
+ 
+await doFillDinline(["a voice call","fifty messages","Young adults","adults","twelve calls"])
+ 
+
+await doFillDinline(["N","Y","Y","N","Y","N"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["Marie Sirova","1.30","Sunday 20th","Charles Hotel"])
+ 
+await doFillDinline(["Ben","Cathy","Ellen","Audey","Dan"])
+ 
+await doFillDinline(["T","F","F","F","T"])
+ 
+await doFillDinline(["6","5","7","2","4","3"])
+ 
+await doFillDinline(["6","5","7","2","4","3"])
+ 
+await doFillDinline(["just a moment please","is that","Yes, speaking","This is","I'm calling"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["What time would be convenient for you?","Is Sunday 23 rd possible for you?","I'look forward to seeing you at the meeting of Nissan company next month.","I am afraid I have got another appointment next Monday.","Yes, I can make it on Saturday."])
+ 
+await doFillDinline(["I'am afraid I have got another appointment.","Could we arrange another time?","I'am having a meeting with the client on Tuesday.","When would be convenient for you?","What time would suit you?","I have to cancel our appointment on Sunday 15 th","I am afraid I cannot manage our meeting on Monday.","I'look forward to meeting you on Sunday."])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()

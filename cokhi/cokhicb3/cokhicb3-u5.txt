@@ -1,0 +1,73 @@
+await changeUnitByTitle('UNIT 5: PLACING AND CHANGING ORDERS')
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+await doSortWords(["ITEM","WASHER","HOOK","ENGINE","LADDER","CLAMP","SPRING","PUMP","ROPE","PURCHASE","GOODS","MODEL","UNIT","CONFIRM","PROCESS"])
+ 
+await doClickHearing2(0)
+await doFillDinline(["D","A","F","E","C","B","H","G"])
+ 
+await doFillDinline(["C","B","B","A","B"])
+ 
+await doFillDinline(["warehouse","out of stock","suppliers","available","purchase","delivery","product code","quantity"])
+ 
+await doFillDinline(["reference","deposit","item","rope","spring","guarantee","engine","confirm","catalogue","order"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["Could","Could","Could","should","ought"])
+ 
+ 
+await doFillDinline(["to place","deliver","be","be","tell"])
+ 
+await doFillDinline(["0","s","0","0","s","0","s","0"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["much","much","What","What","many","clamps"])
+ 
+await doFillDinline(["A","many","C","take","B","replace","D","hurry","A","much","B","bolts","B","three-centimetre","A","Could","C","clamps","D","months"])
+ 
+await doFillDinline(["962","337","384-8235","783/70","01223270938"])
+ 
+await doFillDinline(["16","MTJ/62","clamps","ropes","64","washers","JS/86"])
+ 
+await doFillDinline(["TX7","2 years","15","50","on time"])
+ 
+await doFillDinline(["price","order","guarantee","models","units","deliver"])
+ 
+await doFillDinline(["Mobile phone","D21","evening","230","cash"])
+ 
+await doFillDinline(["F","T","T","F","F"])
+ 
+await doFillDinline(["T","F","T","T","T"])
+ 
+await doFillDinline(["Taylor Lauren","10 screwdrivers","175","parcel post","New York"])
+ 
+await doFillDinline(["July 11,2018","3","0.5","600","August 17, 2018"])
+ 
+ 
+await doFillDinline(["T","F","F","F","F"])
+ 
+await doFillDinline(["30 minutes","cancel","Modify order","return","10 days"])
+ 
+await doFillDinline(["B","C","D","C","A"])
+ 
+await doClickBtn()
+ 
+await doFillDinline(["D","B","G","A","E","C","H","I","F"])
+ 
+await doFillDinline(["sending","to order","pay","deliver","address","Regards"])
+ 
+await doFillDinline(["d","c","a","e","b"])
+ 
+await doFillDinline(["Thank you for sending me your catalogue promptly.","I would like to order the following items.","Please call me at 4864096 to confirm that you received this order.","Could you please deliver the goods by the end of this month?","Please send these items to the address below.","I will pay in cash on delivery."])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

@@ -1,0 +1,89 @@
+await changeUnitByTitle('UNIT 2: WORKPLACE DEVICES')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+await doClickHearing2(0)
+
+ 
+await doSortWords(["TIGHTEN","DIARY","PRINTER","STORE","LOOSEN","FILING CABINET","SWITCH OFF","MONITOR"])
+ 
+await doSortWords(["PRINTER","SCISSORS","FAX MACHINE","OFFICE","FILE","SEND"])
+ 
+
+await doFillDinline(["mouse","coffee machine","mouse mat","lift","diary","filing cabinet","monitor","photocopier","printer","bin"])
+ 
+await doFillDinline(["g","c","b","f","a"])
+ 
+await doFillDinline(["scissors","paper clip","diary","fax machines","scanners","air conditioner","cabinet","car park","printer","remote"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["are","am","do","live","live","Do","work","do","get","get","Do","travel","do","spend","don't have"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["hasn't got","repairs","have got","puts","have","Have - got","Are","Has - got","Does - have","puts"])
+ 
+await doFillDinline(["Where do you work?","Who do they often have lunch with at the canteen?","How many projectors does the room have?","Where does she usually eat a sandwich?","What do you always do at work?","How often do you use computers and fax machines?","How many printers would you like to order for your company?","What do engineers always do before using a new machine?"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["B","to print","A","staplers","A","How many","A","have","C","plays","A","hasn't got","C","has","A","Are","D","have","D","chairs"])
+ 
+await doFillDinline(["printer","furniture","office","car parks","stapler","air conditioning"])
+ 
+await doFillDinline(["YES","YES","NO","YES","NO"])
+ 
+await doFillDinline(["F","F","T","F","T"])
+ 
+await doFillDinline(["office","desk","computer","furniture","hundred"])
+ 
+await doFillDinline(["printer","bookcase","desk","monitor","sofa","two"])
+ 
+await doFillDinline(["T","F","F","T","T"])
+ 
+await doFillDinline(["in the centre","files and books","small","three","perfect","desk","floor","big"])
+ 
+await doFillDinline(["T","F","T","T","F"])
+ 
+await doFillDinline(["filing cabinets","sixty","metal","chairs","office"])
+ 
+await doFillDinline(["Seattle","desks","filing cabinet","view","sandwiches"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["T","F","T","F","F"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["workshop","quiet and clean","workbench","tighten and loosen","plugging in"])
+ 
+await doFillDinline(["They've got a new projector in their office","I've got a diary to write important dates or meetings","He's got a new monitor for his computer","We haven't got any staplers in our room","She hasn't got any mouse mats to put her mouse on","I work in a big office. It's got a lot of furniture"])
+ 
+await doFillDinline(["Have you got scissors? I need to cut those pieces of paper.","Has she got a photocopier in her office?","Have Chris and Brian got filing cabinets for their documents?","Has the office got a lift?","Has Mario got an air conditioning in his room?","Have you got a remote control? I want to turn on the TV."])
+ 
+await doFillDinline(["Have you got scissors? I need to cut those pieces of paper.","Has she got a photocopier in her office?","Have Chris and Brian got filing cabinets for their documents?","Has the office got a lift?","Has Mario got an air conditioning in his room?","Have you got a remote control? I want to turn on the TV."])
+ 
+await doFillDinline(["He always has a coffee","He often watches the news.","He goes to the gym three times a week.","He has English lessons twice a week.","He buys books once a week.","He rarely plays computer games.","He is never late for school."])
+ 
+await doFillDinline(["My husband has five paper clips on the table","Our office has some pictures on the wall","Are there any newspapers on the table?","She always keeps a diary in her bag.","Have they got any mouse mats for the mouse?","We don't have much furniture in our office"])
+ 
+await doFillDinline(["I have a coffee machine in my office.","The filing cabinet is next to the photocopier.","We have a lift and stairs in our office","They need a photocopier to make copies","Has she got a lot of furniture in her room?","Have they got a fax machine in their office?"])
+
+await doClickBtn()
+ 
+await doClickBtn()
+ 

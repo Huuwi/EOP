@@ -1,0 +1,70 @@
+await changeUnitByTitle('Unit 1: Jobs in Automotive Technology')
+ 
+await doListeningPlayBtn()
+ 
+await doSortWords(["AUTOMOTIVE ENGINEER","SHOP FOREMAN","SUPERVISE","APPRENTICESHIP","BONUS","EXPERIENCED","BACHELOR’S DEGREE","SERVICE ADVISOR"])
+ 
+await doFillDinline(["perfect for","responsible for","need to","specialize in","deal with","inform","of"])
+ 
+await doFillDinline(["e","f","a","c","b","d"])
+ 
+await doFillDinline(["responsible","communication skill","diploma","responsibilities","dealerships","take"])
+ 
+await doFillDinline(["career","advisors","specializes","apprenticeship","managers","shadowing","diagnosing","quality control","experienced","sales person"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["who are employed","which are performed for","which are normally associated with preparing","who are trained","whose duties are able to organize","who is an ASE Certified Mechanic","a shop or dealership where","when applicants have just graduated"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["which","that","whose","which","who","where","whose","to whom"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["who greet","which was started in 1986","who sell auto parts","which was founded by BMW","which specialize in"])
+ 
+await doFillDinline(["A","for","B","needs","A","which","A","to join","B","with","C","need to","A","which","A","takes","D","who","B","of"])
+ 
+await doFillDinline(["New York","service","service writers","17","October","certificate"])
+ 
+await doFillDinline(["service technician","body repair","one year","cooling systems","Monday"])
+ 
+await doFillDinline(["design","interior","exterior","five days","training","electrical engineering","two years","online"])
+ 
+await doFillDinline(["In 1985","18","hybrids","2 years","$54000"])
+ 
+await doFillDinline(["sixteen","parts manager","forty","higher","December"])
+ 
+await doFillDinline(["10 million","dealerships","7.30 a.m","20","0800869682"])
+
+ 
+await doFillDinline(["Monika","John","Alex","Fiona"])
+ 
+await doFillDinline(["Hullet service center","do quality control","training","customers’ complaints","car systems","communication skill"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["F","F","T","T","T"])
+ 
+await doFillDinline(["good technicians","two hours","the lowest","two years","Toyota T-ten","manufacturers"])
+ 
+await doFillDinline(["customers’ requests","$52000","parts managers","20","cars sales"])
+ 
+await doFillDinline(["Service writers are responsible for telling service technicians about customers’ concerns","Shop foremen are in charge of assisting service technicians in difficult tasks and doing quality control","Parts people take responsibility for talking to customers, making orders and selling car parts","Salespeople’s responsibilities include selling cars to customers."])
+ 
+ 
+await doFillDinline(["experienced","to have","apprentices","responsibility","diagnosing"])
+ 
+await doFillDinline(["You can follow good technicians to get experience through work shadowing.","Sales people may be in charge of looking for new customers.","Service technicians are responsible for diagnosing problems and repairing them","NAPA center, which was founded in 1925, has many jobs for graduates.","You must have 2 years of experience if you want to work in big companies."])
+ 
+await doFillDinline(["After graduation, I want to work as a service technician in BMW Group.","BMW, which is a famous automotive company, was founded in 1916.","I will be mainly responsible for diagnosing the problems and servicing the vehicles.","I can start this job by joining some apprenticeship programs to gain experience.","I think as a service technician, I have to work for about 40 hours a week.","In order to do the job, I will need 2 years of experience, a driver's license and on-the-job training.","I expect my salary will be about $30000 per year.","My goal is to make the customers happy after the repairs","My position is important because all customers want their vehicles to be serviced regularly and repaired properly."])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

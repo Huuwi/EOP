@@ -1,0 +1,97 @@
+await changeUnitByTitle('UNIT 1: LIVING AND WORKING PLACES')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+
+await doSortWords(["DINING ROOM","FRIDGE","STAIRS","CUPBOARD","CEILING FAN","MOUSE","WALL","COFFEE MACHINE","MIRROR","BATHROOM"])
+ 
+
+await changeUnitByTitle('UNIT 1: LIVING AND WORKING PLACES')
+ 
+await doListeningPlayBtn()
+ 
+await doSortWords(["MANUFACTURER","ASSEMBLY SHOP","WELDING SHOP","ASSEMBLE","PAINTING SHOP","FURNITURE","WORKSHOP","INSPECT","INSPECTION AREA","STAMPING SHOP"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["living room","sofa","ceiling fan","chairs","fridge","window","bathroom","mirror"])
+ 
+await doFillDinline(["dining room","living room","armchair","bathroom","sink","garden","window","upstairs","kitchen","wardrobe","assemble","manufacturers","inspect","workshops"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["are","are not","is","Are","is not","is","are not","is"])
+ 
+await doFillDinline(["G","E","B","A","H","D","C","F"])
+ 
+await doFillDinline(["between","next to","on","behind","under","in","in front of","on","opposite","above"])
+ 
+await doFillDinline(["lovely small pink","tiny old","big white","beautiful tall modern","luxurious big","expensive red","beautiful small white","nice old blue"])
+ 
+await doFillDinline(["lovely small pink","tiny old","big white","beautiful tall modern","luxurious big","expensive red","beautiful small white","nice old blue"])
+ 
+await doFillDinline(["e","f","b","c","a","g","d","h"])
+ 
+
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["A","is","B","books","A","is","D","X","D","beautiful big","D","on","C","are","C","on","D","of","D","big new"])
+ 
+await doFillDinline(["Dining room","the kitchen","first floor","Opposite","Next to"])
+ 
+await doFillDinline(["Kitchen","Bathroom","Bedroom","Living room","Bedroom"])
+ 
+await doFillDinline(["F","T","T","F","T"])
+ 
+await doFillDinline(["Spain","four rooms","furniture","big bed","the sea"])
+ 
+await doFillDinline(["six","four","old","no","cupboard"])
+ 
+await doFillDinline(["six","four","old","no","cupboard"])
+ 
+await doFillDinline(["family","walls","hot","rain","bedroom"])
+ 
+await doFillDinline(["an engineer","two","by bus","the assembly shop","the second floor","the painting shop"])
+ 
+await doFillDinline(["B","C","A"])
+ 
+await doFillDinline(["T","F","T","F","T"])
+ 
+await doFillDinline(["The living room","Behind the table","Does exercise","The plant","Three"])
+ 
+await doFillDinline(["T","F","T","F","T"])
+ 
+await doFillDinline(["three","kitchen","sink","chairs","dinner"])
+ 
+await doFillDinline(["Twelve","Behind the house","The dining room","On a houseboat","Watch TV"])
+ 
+await doFillDinline(["Twelve","Behind the house","The dining room","On a houseboat","Watch TV"])
+ 
+await doFillDinline(["five","huge","the third floor","the stamping shop","the assembly shop"])
+ 
+await doFillDinline(["Is there a cooker in the kitchen?","Yes, there is.","Is there a ceiling fan in the dining room?","No, there isn't. But there are three fans.","Is there a cupboard in the bedroom?","No, there isn't. But there is a big wardrobe.","Are there any plants in the living room?","Yes, there are","Are there any mirrors in the bedroom","No, there aren't. But there is a mirror in the bathroom","Is there a washing machine in the house?","Yes, there is."])
+ 
+await doFillDinline(["What is Binh’s house like?","There is a sofa and two armchairs in the living room","There are two plants behind the cupboard,","Is the kitchen on the right side of the house?","Sophia does not sleep in the bedroom on the second floor.","The washing machine is in the bathroom upstairs","Does Mina often read books in her bedroom before she goes to bed?","There are not any cookers next to the fridge in the kitchen."])
+ 
+await doFillDinline(["Linda and Fred have a big modern house","Anna's bedroom is small, but it has two big beds","The sink is below the mirror and opposite the washing machine.","There is a table and six chairs in the dining room","The twins’ bedroom is on the right side of the house.","Are there any gas cookers in the kitchen?","There are not any bedrooms downstairs.","Susan has a modern washing machine in the bathroom"])
+ 
+await doFillDinline(["What is your room like?","What is there in the bathroom?","Is your bedroom upstairs?","Where is the kitchen?","What does she do in her bedroom every evening?","Do you share your bedroom with anyone?","Where do you watch TV with your family?","Is the fridge in the kitchen?"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

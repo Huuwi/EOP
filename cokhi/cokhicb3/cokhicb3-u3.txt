@@ -1,0 +1,101 @@
+await changeUnitByTitle('UNIT 3: MATERIALS AND MEASUREMENTS')
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doListeningPlayBtn()
+ 
+await doClickHearing2(0)
+        await doSortWords(["FERROUS", "ALLOY", "METER", "COPPER", "CONDUCTOR", "RUBBER", "ELASTIC", "LIGHT"])
+
+ 
+await doSortWords([null,null,null,null,"MATERIAL","IRON","GLASS","PLASTIC"])
+ 
+await changeUnitByTitle('UNIT 3: MATERIALS AND MEASUREMENTS')
+ 
+await doListeningPlayBtn()
+ 
+await changeUnitByTitle('UNIT 3: MATERIALS AND MEASUREMENTS')
+ 
+await doListeningPlayBtn()
+ 
+await doSortWords(["MALLEABLE","NATURAL","STRONG","INCH","MATERIAL","IRON","GLASS","PLASTIC"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["B","D","A","C","F","E"])
+ 
+await doFillDinline(["hard","heat-resistant","flexible","brittle","soft","corrosion-resistant"])
+ 
+await doFillDinline(["aluminum","steel","ceramics","metals","natural","synthetic","brittle","insulator","plastic","meter"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["The screws are tightened.","This button is pressed.","Iron and carbon are used to make steel","Water and sand are called natural materials.","Metals, plastics and ceramics are used in mechanical engineering"])
+ 
+await doFillDinline(["What is this screw made of?","It is made of steel","What is this plug made of?","It is made of rubber and steel.","What are these scissors made of?","They are made of steel","What are these safety glasses made of?","They are made of plastic.","What is this cupboard made of?","It is made of glass and wood.","What is this knife made of?","It is made of steel and wood.","What is this screwdriver made of?","It is made of plastic and steel"])
+ 
+await doFillDinline(["What is the width of the Ferrari car?","How high is the oil tank?","What is the depth of the oil tank?","How long is this bolt?","The ruler is 20cm in length.","The door is 2m wide."])
+ 
+await doFillDinline(["high is it?","It is 120 centimetres long.","wide is it?","is it made of?","It is made of steel","thick is it?"])
+ 
+await doFillDinline(["B","length","B","is made","D","width","A","How","B","made","D","tough material","B","are made","B","is used","A","from","A","are"])
+ 
+await doFillDinline(["9800","1200","1228","154","miles","67000"])
+ 
+ 
+await doFillDinline(["long","1.65","metric","feet","5.5"])
+ 
+await changeUnitByTitle('UNIT 3: MATERIALS AND MEASUREMENTS')
+ 
+await doListeningPlayBtn()
+ 
+await doFillDinline(["Next week","Yes","Steel","An email"])
+ 
+await doFillDinline(["materials","big","steel","expensive","email"])
+ 
+await doFillDinline(["T","F","F"])
+ 
+await doFillDinline(["material","hard","machine","malleable","plastic"])
+ 
+await doFillDinline(["material","strong","break","natural","insulator"])
+ 
+await doFillDinline(["metal","steel","plastic","rubber","materials"])
+ 
+await doFillDinline(["manufacturers","cast iron","aluminum","rubber","materials"])
+ 
+await doFillDinline(["E","D","C","A","B"])
+ 
+await doCheckBoxNeww(4)
+ 
+await doFillDinline(["strong","hard","aluminum","light","rubber","ceramics","heat-resistant","alloy","aluminum","corrosion-resistant"])
+ 
+await doFillDinline(["non-metals","non-ferrous metals","ceramics","plastic","aluminum","cast iron","thermoset"])
+ 
+await doFillDinline(["B","C","A","D","E","G","F"])
+ 
+await doFillDinline(["T","T","F","F","F"])
+ 
+await doFillDinline(["This is a tough material","This is a flexible material","This is a soft material","This is a brittle material","This is a rigid material"])
+ 
+await doFillDinline(["The goggles are not made of glass. They are made of plastic.","The ruler is not made of wood. It is made of steel.","The pliers are not made of steel. They are made of alloy.","The scissors are not made of plastic. They are made of metal","The nail is not made of steel. It is made of iron."])
+ 
+await doFillDinline(["This bridge is made of steel","This is a copper pipe.","This bottle is made of glass.","This is a rubber handle.","These setsquares are made of plastic.","This is an iron vice."])
+ 
+await doFillDinline(["Why are tyres made of rubber?","Because rubber is a flexible material","Why are pliers made of iron?","Because iron is a heavy material","Why are safety glasses made of plastic?","Because plastic is an elastic material","Why are helmets made of plastic?","Because plastic is a light material","Why are spanners made of steel?","Because steel is a strong material"])
+ 
+await doFillDinline(["What is the length of the bolt?","How deep is the tank?","What is the oil tank made of?","How thick is the steel plate?","Why are scissors made of alloy?"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 

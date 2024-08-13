@@ -1,7 +1,25 @@
 await changeUnitByTitle('Unit 1: Study at university')
  
 await doListeningPlayBtn()
+
+await doFillDinline(["A","E","D","C","B"])
  
+await doFillDinline(["Practical","Engineering Materials","Programmable Logic Controller","Engineering Drawing","General Physics"])
+ 
+await doFillDinline(["entry requirement","note-taking","guidance","Master","credits","semester","lab","certificate","practical","Bachelor"])
+ 
+await doClickBtn()
+ 
+await doClickBtn()
+ 
+await doFillDinline(["teaches","loves","start","takes","study","lasts","reads","wants","has","don't like"])
+ 
+await doFillDinline(["which","who","which","whose","Whom","Which"])
+ 
+await doCheckBoxNeww(4)
+ 
+
+
 await doFillDinline(["The man whose Industrial Machines course I am taking is a famous teacher at my college.","I thanked the people who helped me to improve my time management skills.","Everyone who has bad results of paper tests cannot meet the entry requirements of Samsung Company.","I should have a design certificate that is necessary for my future job","Fluid Engineering is a subject which concentrates on heat and fluid flow processes."])
  
 await doFillDinline(["The students who get an average of 7 points each subject in final exams can meet the entry requirements for this university.","The student whom I met yesterday got the highest point in Olympic Physics Competition last year.","The university facilities that were upgraded last year are very modern.","I'am looking for a college which trains mechanical engineering","The lab equipment of this university is constantly upgraded, which made me choose it."])
@@ -30,7 +48,7 @@ await doFillDinline(["Mechanical engineering","machines","five years","Japanese"
  
 await doFillDinline(["Mechanical Engineering","academic","professors","experimental equipment","extra-curricular"])
  
-await doFillDinline(["full-time","3years","foundation","practical","project"])
+await doFillDinline(["full-time","3 years","foundation","practical","project"])
   
 await doFillDinline(["F","T","F","T","F"])
  
